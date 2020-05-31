@@ -14,7 +14,7 @@ prod = pd.read_csv("./Data/Produccion/Estimaciones.csv",sep=';',encoding='latin-
 #Cargo datos de SIOGRANOS https://www.siogranos.com.ar/Consulta_publica/operaciones_informadas_exportar.aspx
 #La descarga de datos solo habilita cada 90 días
 #un csv por trimestrales desde el 2015 al 2019
-path = r'./Data/SiogranosUTF8' 
+path = r'./Data/Siogranos' 
 all_files = glob.glob(path + "/*.csv")
 li = []
 
@@ -238,17 +238,49 @@ Sio2019["EstresClimatico"].fillna(False, inplace=True)
 # Cambio los Nan por 0 en produccion
 Sio2019["ProdTns"].fillna(0, inplace=True)
 """
-
-
 #saco acento a maíz
 Sio2019['Cultivo'] = Sio2019['Cultivo'].str.normalize('NFKD')\
                        .str.encode('ascii', errors='ignore')\
                        .str.decode('utf-8')
 del prod
 
-#Genero csv en carpeta Output
-Sio2019.to_csv('./Data/Output/data.csv', encoding='utf-8')
+#%%
+#Cargo datos del destino de entrega
+#https://www.siogranos.com.ar/Consulta_publica/consulta_localidad_zona.aspx
 
-del Sio2019
+zonas = pd.read_csv("./Data/Zonas/zonas.csv",sep=';',encoding='utf-8')
+
+#Cambio los nombres de las columnas
+# PROVINCIA por LugarEntregaProvincias 
+# ZONA por 'LugarEntrega'
+zonas = zonas.rename(columns={'PROVINCIA': 'LugarEntregaProvincias', "ZONA": "LugarEntrega"})
+
+#Saco los de LugarEntregaProvincias
+zonas['LugarEntregaProvincias'] = zonas['LugarEntregaProvincias'].str.normalize('NFKD')\
+                       .str.encode('ascii', errors='ignore')\
+                       .str.decode('utf-8')
+
+#group by zona y sumo los strngs de provincia
+zonas = zonas.groupby(["LugarEntrega"])['LugarEntregaProvincias'].unique()
+zonas = zonas.to_frame()
+zonas.reset_index(level=0, inplace=True)
+
+#%%
+
+#Join con data por LugarEntrega y paso todas las prov
+data = pd.merge(Sio2019, zonas,how='left', on=['LugarEntrega'])
+
+#Genero columna "DestinoMismaProv" TRUE/FALSE si Provincia isin LugarEntregaProvincia
+def find_value_column(row):
+    return row.Provincia in row.LugarEntregaProvincias
+
+data["MismaProvDestino"] = data.apply(find_value_column, axis=1)
+
+#Selecciono columnas deseadas
+del data['LugarEntregaProvincias'], Sio2019
+
+#Genero csv en carpeta Output
+data.to_csv('./Data/Output/data.csv', encoding='utf-8')
+
 
 
