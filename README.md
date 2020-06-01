@@ -43,6 +43,7 @@ Campos:
 * EleccionesPre: Boolean que indica si en el año hubo elecciones presidenciales.
 * ProdTns: Cantidad de granos producida en toneladas.
 * EstresClimatico: Boolean que indica si hubo una pérdida de área superior al 20%.
+* MismaProvDestino: Boolean que indica si la zona de entrega incluye la provincia de origen.
 
 ```
 
