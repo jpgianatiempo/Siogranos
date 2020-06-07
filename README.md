@@ -27,7 +27,7 @@ El presente proyecto tiene como objetivo dar una solución superadora y moderna 
 
 ## Scripts en python
 
-* prepro.py:
+* prepro.py / Pre_Procesamiento.ipynb:
 ```
 Realiza el preprocesamiento de los datos de SIO-GRANOS y de producción.
 Devuelve un csv listo para usar en ./Data/Output/data.csv
@@ -47,9 +47,9 @@ Campos:
 
 ```
 
-* EDA.py:
+* EDA.ipynb:
 ```
-Próximamente.
+En desarrollo.
 Toma el csv preprocesado y realiza un análisis exploratorio de datos.
 ```
 
