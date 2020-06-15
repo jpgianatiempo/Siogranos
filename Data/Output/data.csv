@@ -666,7 +666,7 @@
 664,BUENOS AIRES,Maiz,Zona 2,10,2017.0,1890.08,True,True,False,12955509.0,True,True
 665,BUENOS AIRES,Maiz,Zona 2,10,2018.0,535.35,True,False,False,12770903.0,True,True
 666,BUENOS AIRES,Maiz,Zona 2,10,2019.0,11780.0,True,True,True,16770895.0,True,True
-667,BUENOS AIRES,Maiz,Zona 2,10,2017.0,300.0,True,False,False,12955509.0,True,True
+667,BUENOS AIRES,Maiz,Zona 2,10,2017.0,300.0,True,True,False,12955509.0,True,True
 668,BUENOS AIRES,Maiz,Zona 2,11,2015.0,2120.0,True,True,True,8893434.0,True,True
 669,BUENOS AIRES,Maiz,Zona 2,11,2016.0,1487.0,True,False,False,10147679.0,True,True
 670,BUENOS AIRES,Maiz,Zona 2,11,2017.0,2860.9700000000003,True,True,False,12955509.0,True,True
@@ -935,7 +935,7 @@
 933,BUENOS AIRES,Maiz,Zona 6,8,2020.0,14158.560000000001,True,False,False,,False,True
 934,BUENOS AIRES,Maiz,Zona 6,8,2021.0,720.0,True,False,False,,False,True
 935,BUENOS AIRES,Maiz,Zona 6,8,2016.0,240.0,True,False,False,10147679.0,True,True
-936,BUENOS AIRES,Maiz,Zona 6,8,2017.0,500.0,True,False,False,12955509.0,True,True
+936,BUENOS AIRES,Maiz,Zona 6,8,2017.0,500.0,True,True,False,12955509.0,True,True
 937,BUENOS AIRES,Maiz,Zona 6,9,2015.0,51698.8,True,True,True,8893434.0,True,True
 938,BUENOS AIRES,Maiz,Zona 6,9,2016.0,48720.670000000006,True,False,False,10147679.0,True,True
 939,BUENOS AIRES,Maiz,Zona 6,9,2017.0,43808.950000000004,True,True,False,12955509.0,True,True
@@ -1004,7 +1004,7 @@
 1002,BUENOS AIRES,Maiz,Zona 7,8,2019.0,63452.52000000003,True,True,True,16770895.0,True,True
 1003,BUENOS AIRES,Maiz,Zona 7,8,2020.0,27848.42,True,False,False,,False,True
 1004,BUENOS AIRES,Maiz,Zona 7,8,2016.0,1512.3799999999999,True,False,False,10147679.0,True,True
-1005,BUENOS AIRES,Maiz,Zona 7,8,2017.0,2867.6299999999997,True,False,False,12955509.0,True,True
+1005,BUENOS AIRES,Maiz,Zona 7,8,2017.0,2867.6299999999997,True,True,False,12955509.0,True,True
 1006,BUENOS AIRES,Maiz,Zona 7,9,2015.0,142588.15999999992,True,True,True,8893434.0,True,True
 1007,BUENOS AIRES,Maiz,Zona 7,9,2016.0,239983.7899999998,True,False,False,10147679.0,True,True
 1008,BUENOS AIRES,Maiz,Zona 7,9,2017.0,75922.59999999999,True,True,False,12955509.0,True,True
@@ -2430,7 +2430,7 @@
 2428,BUENOS AIRES,Trigo total,Bs As,12,2017.0,191800.35,True,True,False,7548338.0,False,True
 2429,BUENOS AIRES,Trigo total,Bs As,12,2018.0,141776.26000000013,True,False,False,7611227.0,False,True
 2430,BUENOS AIRES,Trigo total,Bs As,12,2019.0,179767.91000000003,True,True,True,9017580.0,False,True
-2431,BUENOS AIRES,Trigo total,Bs As,12,2017.0,1000.0,True,False,False,7548338.0,False,True
+2431,BUENOS AIRES,Trigo total,Bs As,12,2017.0,1000.0,True,True,False,7548338.0,False,True
 2432,BUENOS AIRES,Trigo total,Cordoba,1,2018.0,20.0,True,False,False,7611227.0,False,False
 2433,BUENOS AIRES,Trigo total,Cordoba,2,2015.0,0.04,True,True,True,6468158.0,False,False
 2434,BUENOS AIRES,Trigo total,Cordoba,2,2016.0,30.0,True,False,False,4958819.0,False,False
@@ -10133,7 +10133,7 @@
 10131,ENTRE RIOS,Soja total,Rosario N,8,2018.0,29069.650000000005,True,False,False,1368200.0,False,False
 10132,ENTRE RIOS,Soja total,Rosario N,8,2019.0,74050.46999999999,True,True,True,3252276.0,False,False
 10133,ENTRE RIOS,Soja total,Rosario N,8,2020.0,3980.0,True,False,False,,False,False
-10134,ENTRE RIOS,Soja total,Rosario N,8,2015.0,3000.0,True,False,False,4324895.0,False,False
+10134,ENTRE RIOS,Soja total,Rosario N,8,2015.0,3000.0,True,True,True,4324895.0,False,False
 10135,ENTRE RIOS,Soja total,Rosario N,9,2015.0,45463.590000000004,True,True,True,4324895.0,False,False
 10136,ENTRE RIOS,Soja total,Rosario N,9,2016.0,55751.11999999998,True,False,False,2561150.0,False,False
 10137,ENTRE RIOS,Soja total,Rosario N,9,2017.0,102015.92999999996,True,True,False,3701589.0,False,False
@@ -16057,7 +16057,7 @@
 16055,SANTA FE,Maiz,Rosario N,6,2018.0,147051.98999999996,True,False,False,5179679.0,True,True
 16056,SANTA FE,Maiz,Rosario N,6,2019.0,485914.1599999999,True,True,True,5910470.0,True,True
 16057,SANTA FE,Maiz,Rosario N,6,2020.0,132531.0,True,False,False,,False,True
-16058,SANTA FE,Maiz,Rosario N,6,2015.0,120.0,True,False,False,4370455.0,True,True
+16058,SANTA FE,Maiz,Rosario N,6,2015.0,120.0,True,True,True,4370455.0,True,True
 16059,SANTA FE,Maiz,Rosario N,7,2015.0,405615.2799999998,True,True,True,4370455.0,True,True
 16060,SANTA FE,Maiz,Rosario N,7,2016.0,480607.02,True,False,False,3942387.0,True,True
 16061,SANTA FE,Maiz,Rosario N,7,2017.0,541002.1900000002,True,True,False,5802581.0,False,True
@@ -17053,7 +17053,7 @@
 17051,SANTA FE,Soja total,Rosario N,7,2018.0,868091.0599999998,True,False,False,6852404.0,False,True
 17052,SANTA FE,Soja total,Rosario N,7,2019.0,956387.9499999996,True,True,True,10520091.0,False,True
 17053,SANTA FE,Soja total,Rosario N,7,2020.0,300514.0,True,False,False,,False,True
-17054,SANTA FE,Soja total,Rosario N,7,2017.0,1060.0,True,False,False,9762280.0,False,True
+17054,SANTA FE,Soja total,Rosario N,7,2017.0,1060.0,True,True,False,9762280.0,False,True
 17055,SANTA FE,Soja total,Rosario N,8,2015.0,1182041.650000001,True,True,True,11804131.0,False,True
 17056,SANTA FE,Soja total,Rosario N,8,2016.0,576475.61,True,False,False,8317217.0,False,True
 17057,SANTA FE,Soja total,Rosario N,8,2017.0,710704.3899999998,True,True,False,9762280.0,False,True
@@ -17150,7 +17150,7 @@
 17148,SANTA FE,Soja total,Rosario S,11,2018.0,328485.4099999999,True,False,False,6852404.0,False,True
 17149,SANTA FE,Soja total,Rosario S,11,2019.0,162276.80000000005,True,True,True,10520091.0,False,True
 17150,SANTA FE,Soja total,Rosario S,11,2020.0,300.0,True,False,False,,False,True
-17151,SANTA FE,Soja total,Rosario S,11,2017.0,30.0,True,False,False,9762280.0,False,True
+17151,SANTA FE,Soja total,Rosario S,11,2017.0,30.0,True,True,False,9762280.0,False,True
 17152,SANTA FE,Soja total,Rosario S,12,2015.0,192723.95,True,True,True,11804131.0,False,True
 17153,SANTA FE,Soja total,Rosario S,12,2016.0,113555.78000000003,True,False,False,8317217.0,False,True
 17154,SANTA FE,Soja total,Rosario S,12,2017.0,236104.43,True,True,False,9762280.0,False,True
@@ -20279,7 +20279,7 @@
 20277,SANTIAGO DEL ESTERO,Trigo total,Rosario N,12,2017.0,90134.09,True,True,False,545022.0,True,False
 20278,SANTIAGO DEL ESTERO,Trigo total,Rosario N,12,2018.0,37123.16,True,False,False,1115157.0,False,False
 20279,SANTIAGO DEL ESTERO,Trigo total,Rosario N,12,2019.0,30957.25,True,True,True,709340.0,False,False
-20280,SANTIAGO DEL ESTERO,Trigo total,Rosario N,12,2017.0,60.0,True,False,False,545022.0,True,False
+20280,SANTIAGO DEL ESTERO,Trigo total,Rosario N,12,2017.0,60.0,True,True,False,545022.0,True,False
 20281,SANTIAGO DEL ESTERO,Trigo total,Rosario S,1,2016.0,290.0,True,False,False,439420.0,False,False
 20282,SANTIAGO DEL ESTERO,Trigo total,Rosario S,1,2017.0,700.0,True,True,False,545022.0,True,False
 20283,SANTIAGO DEL ESTERO,Trigo total,Rosario S,1,2018.0,830.0,True,False,False,1115157.0,False,False
@@ -22856,7 +22856,7 @@
 22854,BUENOS AIRES,Soja total,Rosario N,9,2017.0,3389.680000000001,False,True,False,17383411.0,False,False
 22855,BUENOS AIRES,Soja total,Rosario N,9,2018.0,4967.589999999998,False,False,False,11844661.0,False,False
 22856,BUENOS AIRES,Soja total,Rosario N,9,2019.0,5480.8,False,True,True,17667049.0,False,False
-22857,BUENOS AIRES,Soja total,Rosario N,9,2015.0,690.0,False,False,False,19592375.0,False,False
+22857,BUENOS AIRES,Soja total,Rosario N,9,2015.0,690.0,False,True,True,19592375.0,False,False
 22858,BUENOS AIRES,Soja total,Rosario N,10,2015.0,19293.94,False,True,True,19592375.0,False,False
 22859,BUENOS AIRES,Soja total,Rosario N,10,2016.0,13338.610000000002,False,False,False,21655953.0,False,False
 22860,BUENOS AIRES,Soja total,Rosario N,10,2017.0,4941.720000000003,False,True,False,17383411.0,False,False
@@ -24875,7 +24875,7 @@
 24873,CHACO,Soja total,Rosario N,9,2017.0,9361.18,False,True,False,1414659.0,False,False
 24874,CHACO,Soja total,Rosario N,9,2018.0,2383.0,False,False,False,1064920.0,False,False
 24875,CHACO,Soja total,Rosario N,9,2019.0,2113.33,False,True,True,1038828.0,False,False
-24876,CHACO,Soja total,Rosario N,9,2015.0,90.0,False,False,False,1191340.0,False,False
+24876,CHACO,Soja total,Rosario N,9,2015.0,90.0,False,True,True,1191340.0,False,False
 24877,CHACO,Soja total,Rosario N,10,2015.0,5311.38,False,True,True,1191340.0,False,False
 24878,CHACO,Soja total,Rosario N,10,2016.0,17040.98,False,False,False,1020146.0,False,False
 24879,CHACO,Soja total,Rosario N,10,2017.0,11145.4,False,True,False,1414659.0,False,False
@@ -26232,7 +26232,7 @@
 26230,CORDOBA,Soja total,Rosario N,9,2018.0,12381.089999999998,False,False,False,10732887.0,False,False
 26231,CORDOBA,Soja total,Rosario N,9,2019.0,21064.790000000008,False,True,True,15355555.0,False,False
 26232,CORDOBA,Soja total,Rosario N,9,2020.0,2860.0,False,False,False,,False,False
-26233,CORDOBA,Soja total,Rosario N,9,2015.0,1150.0,False,False,False,18619067.0,False,False
+26233,CORDOBA,Soja total,Rosario N,9,2015.0,1150.0,False,True,True,18619067.0,False,False
 26234,CORDOBA,Soja total,Rosario N,10,2015.0,38242.28999999999,False,True,True,18619067.0,False,False
 26235,CORDOBA,Soja total,Rosario N,10,2016.0,121930.61999999997,False,False,False,17922969.0,False,False
 26236,CORDOBA,Soja total,Rosario N,10,2017.0,62806.98999999999,False,True,False,15659788.0,False,False
@@ -26249,7 +26249,7 @@
 26247,CORDOBA,Soja total,Rosario N,12,2017.0,33224.12,False,True,False,15659788.0,False,False
 26248,CORDOBA,Soja total,Rosario N,12,2018.0,23955.659999999996,False,False,False,10732887.0,False,False
 26249,CORDOBA,Soja total,Rosario N,12,2019.0,12584.09,False,True,True,15355555.0,False,False
-26250,CORDOBA,Soja total,Rosario N,12,2015.0,150.0,False,False,False,18619067.0,False,False
+26250,CORDOBA,Soja total,Rosario N,12,2015.0,150.0,False,True,True,18619067.0,False,False
 26251,CORDOBA,Soja total,Rosario S,1,2015.0,2794.44,False,True,True,18619067.0,False,False
 26252,CORDOBA,Soja total,Rosario S,1,2016.0,28267.94,False,False,False,17922969.0,False,False
 26253,CORDOBA,Soja total,Rosario S,1,2017.0,5944.340000000001,False,True,False,15659788.0,False,False
@@ -27822,7 +27822,7 @@
 27820,ENTRE RIOS,Soja total,Rosario N,9,2016.0,1472.3600000000001,False,False,False,2561150.0,False,False
 27821,ENTRE RIOS,Soja total,Rosario N,9,2017.0,3435.77,False,True,False,3701589.0,False,False
 27822,ENTRE RIOS,Soja total,Rosario N,9,2019.0,781.8399999999999,False,True,True,3252276.0,False,False
-27823,ENTRE RIOS,Soja total,Rosario N,9,2015.0,300.0,False,False,False,4324895.0,False,False
+27823,ENTRE RIOS,Soja total,Rosario N,9,2015.0,300.0,False,True,True,4324895.0,False,False
 27824,ENTRE RIOS,Soja total,Rosario N,10,2015.0,11199.57,False,True,True,4324895.0,False,False
 27825,ENTRE RIOS,Soja total,Rosario N,10,2016.0,2830.7999999999997,False,False,False,2561150.0,False,False
 27826,ENTRE RIOS,Soja total,Rosario N,10,2018.0,2274.7,False,False,False,1368200.0,False,False
@@ -30422,7 +30422,7 @@
 30420,SANTA FE,Maiz,Rosario N,7,2018.0,142357.19999999998,False,False,False,5179679.0,True,True
 30421,SANTA FE,Maiz,Rosario N,7,2019.0,219870.94000000003,False,True,True,5910470.0,True,True
 30422,SANTA FE,Maiz,Rosario N,7,2020.0,80748.0,False,False,False,,False,True
-30423,SANTA FE,Maiz,Rosario N,7,2015.0,150.0,False,False,False,4370455.0,True,True
+30423,SANTA FE,Maiz,Rosario N,7,2015.0,150.0,False,True,True,4370455.0,True,True
 30424,SANTA FE,Maiz,Rosario N,8,2015.0,25597.119999999995,False,True,True,4370455.0,True,True
 30425,SANTA FE,Maiz,Rosario N,8,2016.0,90839.22999999998,False,False,False,3942387.0,True,True
 30426,SANTA FE,Maiz,Rosario N,8,2017.0,104262.14999999998,False,True,False,5802581.0,False,True
@@ -30958,7 +30958,7 @@
 30956,SANTA FE,Soja total,Rosario N,7,2018.0,120886.14000000003,False,False,False,6852404.0,False,True
 30957,SANTA FE,Soja total,Rosario N,7,2019.0,132340.50999999995,False,True,True,10520091.0,False,True
 30958,SANTA FE,Soja total,Rosario N,7,2020.0,4884.0,False,False,False,,False,True
-30959,SANTA FE,Soja total,Rosario N,7,2017.0,60.0,False,False,False,9762280.0,False,True
+30959,SANTA FE,Soja total,Rosario N,7,2017.0,60.0,False,True,False,9762280.0,False,True
 30960,SANTA FE,Soja total,Rosario N,8,2015.0,84766.79000000001,False,True,True,11804131.0,False,True
 30961,SANTA FE,Soja total,Rosario N,8,2016.0,46918.70000000002,False,False,False,8317217.0,False,True
 30962,SANTA FE,Soja total,Rosario N,8,2017.0,99241.54000000001,False,True,False,9762280.0,False,True
@@ -30971,7 +30971,7 @@
 30969,SANTA FE,Soja total,Rosario N,9,2018.0,76651.35000000002,False,False,False,6852404.0,False,True
 30970,SANTA FE,Soja total,Rosario N,9,2019.0,62244.420000000006,False,True,True,10520091.0,False,True
 30971,SANTA FE,Soja total,Rosario N,9,2020.0,6400.0,False,False,False,,False,True
-30972,SANTA FE,Soja total,Rosario N,9,2015.0,1420.0,False,False,False,11804131.0,False,True
+30972,SANTA FE,Soja total,Rosario N,9,2015.0,1420.0,False,True,True,11804131.0,False,True
 30973,SANTA FE,Soja total,Rosario N,10,2015.0,127101.86999999998,False,True,True,11804131.0,False,True
 30974,SANTA FE,Soja total,Rosario N,10,2016.0,106742.48999999996,False,False,False,8317217.0,False,True
 30975,SANTA FE,Soja total,Rosario N,10,2017.0,68899.03,False,True,False,9762280.0,False,True
@@ -30989,7 +30989,7 @@
 30987,SANTA FE,Soja total,Rosario N,12,2017.0,122469.84999999999,False,True,False,9762280.0,False,True
 30988,SANTA FE,Soja total,Rosario N,12,2018.0,85783.12,False,False,False,6852404.0,False,True
 30989,SANTA FE,Soja total,Rosario N,12,2019.0,56852.02999999999,False,True,True,10520091.0,False,True
-30990,SANTA FE,Soja total,Rosario N,12,2015.0,30.0,False,False,False,11804131.0,False,True
+30990,SANTA FE,Soja total,Rosario N,12,2015.0,30.0,False,True,True,11804131.0,False,True
 30991,SANTA FE,Soja total,Rosario S,1,2015.0,2083.25,False,True,True,11804131.0,False,True
 30992,SANTA FE,Soja total,Rosario S,1,2016.0,9106.45,False,False,False,8317217.0,False,True
 30993,SANTA FE,Soja total,Rosario S,1,2017.0,2564.35,False,True,False,9762280.0,False,True

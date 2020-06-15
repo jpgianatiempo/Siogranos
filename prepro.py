@@ -200,6 +200,15 @@ Sio2019NoFinal["EsFinal"] = False
 #JUNTAR SIO2019FINAL y SIO2019NOFINAL en Sio2019
 Sio2019 = pd.concat([Sio2019Final, Sio2019NoFinal])
 del Sio2019Final, Sio2019NoFinal
+
+# sacar datos con CantTns <=0
+Sio2019.drop(Sio2019[Sio2019.CantTns <= 0].index, inplace=True)
+
+# Corrijo años
+Modificar = {2105:2015, 2106:2016, 2107:2017, 2027:2017, 2026:2016, 2215:2015, 2108:2018, 2048:2018, 2051:2015, 2116:2016, 3017:2017}
+Sio2019["Ano"] = Sio2019['Ano'].map(Modificar).fillna(Sio2019['Ano'])
+
+
 #Agregar columnas EleccionesNac y EleccionesPre
 EleccionesNac = ["2015", "2017", "2019"]
 EleccionesPre = ["2015","2019"]
@@ -207,15 +216,9 @@ Sio2019["EleccionesNac"] = Sio2019["Ano"].isin(EleccionesNac)
 Sio2019["EleccionesPre"] = Sio2019["Ano"].isin(EleccionesPre)
 del EleccionesNac, EleccionesPre
 
-# sacar datos con CantTns <=0
-Sio2019.drop(Sio2019[Sio2019.CantTns <= 0].index, inplace=True)
-
 
 #%%
 #Merge de ambos datos: Prod y Sio2019 en Sio2019
-# Corrijo años
-Modificar = {2105:2015, 2106:2016, 2107:2017, 2027:2017, 2026:2016, 2215:2015, 2108:2018, 2048:2018, 2051:2015, 2116:2016, 3017:2017}
-Sio2019["Ano"] = Sio2019['Ano'].map(Modificar).fillna(Sio2019['Ano'])
 
 #join por año, NO POR LA CAMPAÑA
 Sio2019 = pd.merge(Sio2019, prod,how='left', on=['Provincia', 'Cultivo', 'Ano'])
