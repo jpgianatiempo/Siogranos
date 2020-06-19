@@ -48,14 +48,11 @@ Campos:
 
 ```
 
-* EDA -1.ipynb:
+* EDA.ipynb:
 ```
-Toma el csv preprocesado y realiza un análisis exploratorio de datos, en particular de la estructura del dataset.
-```
-
-* EDA -2.ipynb:
-```
-Toma el csv preprocesado y realiza un análisis exploratorio de datos para responder a las hipótesis.
+Toma el csv preprocesado y realiza un análisis exploratorio de datos.
+1. Se analiza la estructura del dataset.
+2. Se testean las hipótesis.
 ```
 
 * DataVis.py:
