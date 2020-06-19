@@ -17,7 +17,7 @@ El presente proyecto tiene como objetivo dar una solución superadora y moderna 
 * Base de datos [SIO-GRANOS](https://www.siogranos.com.ar/Consulta_publica/operaciones_informadas_exportar.aspx): Contiene todos los registros de compra-venta de cada grano según su localidad de origen y destino final.
 * Zonificación del destino de entrega de granos [SIO-GRANOS](https://www.siogranos.com.ar/Consulta_publica/consulta_localidad_zona.aspx) .
 * Base de datos de producción del [Ministerio de Agroindustria de la Nación](http://datosestimaciones.magyp.gob.ar/reportes.php?reporte=Estimaciones).
-* Shapes files de localidades y provincias de Argentina, fuente [Datos Gobierno](https://datos.gob.ar/dataset/ign-unidades-territoriales/archivo/ign_01.02.02).
+* Shapes files de localidades y provincias de Argentina, fuente [Instituto Geográfico Nacional](https://www.ign.gob.ar/NuestrasActividades/InformacionGeoespacial/CapasSIG).
 
 ## Hipótesis
 * Las zonas más alejadas a los puertos tienen una mayor comercialización hacia zonas aledañas, debido al mayor costo de transporte.
@@ -44,13 +44,18 @@ Campos:
 * ProdTns: Cantidad de granos producida en toneladas.
 * EstresClimatico: Boolean que indica si hubo una pérdida de área superior al 20%.
 * MismaProvDestino: Boolean que indica si la zona de entrega incluye la provincia de origen.
+* ProvAlejada: Boolean que indica si la provincia de origen se encuentra alejada de los puertos.
 
 ```
 
-* EDA.ipynb:
+* EDA -1.ipynb:
 ```
-En desarrollo.
-Toma el csv preprocesado y realiza un análisis exploratorio de datos.
+Toma el csv preprocesado y realiza un análisis exploratorio de datos, en particular de la estructura del dataset.
+```
+
+* EDA -2.ipynb:
+```
+Toma el csv preprocesado y realiza un análisis exploratorio de datos para responder a las hipótesis.
 ```
 
 * DataVis.py:

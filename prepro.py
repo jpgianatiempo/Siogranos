@@ -290,7 +290,15 @@ del data['LugarEntregaProvincias'], Sio2019
 data['Mes'] = data['Mes'].astype('category')
 data['Ano'] = data['Ano'].astype('category')
 
+#Agrego columna de provincias alejadas a puertos
+ProvAlejadas = ['CATAMARCA', 'CHACO', 'CHUBUT',
+       'FORMOSA', 'JUJUY', 'LA RIOJA',
+       'MENDOZA', 'MISIONES', 'NEUQUEN', 'RIO NEGRO', 'SALTA', 'SAN JUAN',
+       'SANTA CRUZ', 'SANTIAGO DEL ESTERO',
+       'TIERRA DEL FUEGO', 'TUCUMAN']
 
+data["ProvAlejada"] = np.where(data.Provincia.isin(ProvAlejadas), True, False)
+del ProvAlejadas
 #Genero csv en carpeta Output
 data.to_csv('./Data/Output/data.csv', encoding='utf-8')
 
