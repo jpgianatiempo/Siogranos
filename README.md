@@ -53,12 +53,26 @@ Campos:
 Toma el csv preprocesado y realiza un análisis exploratorio de datos.
 1. Se analiza la estructura del dataset.
 2. Se testean las hipótesis.
+
+Para visualizarlo correctamente usar [nbviewer](https://nbviewer.jupyter.org/).
 ```
 
-* DataVis.py:
+* PreproMapFlow.py:
 ```
-Próximamente.
-Toma el csv preprocesado y realiza la visualización geográfica de los flujos de comercialización interna de granos.
+Toma el csv preprocesado y los distintos shapes para calcular los centroides de cada provincia y zona de entrega.
+Devuelve "MapFlowData.csv" con la estructura necesaria para realizar el mapflow en Power BI.
+Se agregan los siguientes campos:
+*ProvCentroidLat: Latitud del centroide de cada provincia.
+*ProvCentroidLon: Longitud del centroide de cada provincia.
+*ZonaCentroidLat: Latitud del centroide de cada zona de entrega sio-granos.
+*ZonaCentroidLon: Longitud del centroide de cada zona de entrega sio-granos.
+```
+
+* MapFlow.pbix / MapFlow Beta.pbix:
+```
+Dashboard interactivo de los flujos de comercialización de granos.
+Se puede acceder al de *líneas curvas* mediante el siguiente [link](https://app.powerbi.com/view?r=eyJrIjoiMzU1M2NhZDUtOGZjMC00OGJhLTkwMzgtYWIxYTNjNjhlZGE3IiwidCI6Ijg5MWFjN2RjLWRjMjUtNDQwMC1iMDY3LTlhNTQyM2YyOWE3MiJ9).
+Se puede acceder al de *líneas directas* mediante el siguiente [link](https://app.powerbi.com/view?r=eyJrIjoiNjRlNzFkMjItZGQxYy00NmYxLWJmOGMtZGQxMWEyODY1Njk1IiwidCI6Ijg5MWFjN2RjLWRjMjUtNDQwMC1iMDY3LTlhNTQyM2YyOWE3MiJ9).
 ```
 
 ## Autor
