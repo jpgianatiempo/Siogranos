@@ -54,7 +54,7 @@ Toma el csv preprocesado y realiza un análisis exploratorio de datos.
 1. Se analiza la estructura del dataset.
 2. Se testean las hipótesis.
 
-Para visualizarlo correctamente usar [nbviewer](https://nbviewer.jupyter.org/).
+Para visualizarlo correctamente usar [nbviewer](https://nbviewer.jupyter.org/)
 ```
 
 * PreproMapFlow.py:
@@ -71,8 +71,8 @@ Se agregan los siguientes campos:
 * MapFlow.pbix / MapFlow Beta.pbix:
 ```
 Dashboard interactivo de los flujos de comercialización de granos.
-Se puede acceder al de *líneas curvas* mediante el siguiente [link](https://app.powerbi.com/view?r=eyJrIjoiMzU1M2NhZDUtOGZjMC00OGJhLTkwMzgtYWIxYTNjNjhlZGE3IiwidCI6Ijg5MWFjN2RjLWRjMjUtNDQwMC1iMDY3LTlhNTQyM2YyOWE3MiJ9).
-Se puede acceder al de *líneas directas* mediante el siguiente [link](https://app.powerbi.com/view?r=eyJrIjoiNjRlNzFkMjItZGQxYy00NmYxLWJmOGMtZGQxMWEyODY1Njk1IiwidCI6Ijg5MWFjN2RjLWRjMjUtNDQwMC1iMDY3LTlhNTQyM2YyOWE3MiJ9).
+Se puede acceder al de **líneas curvas** mediante el siguiente [link](https://app.powerbi.com/view?r=eyJrIjoiMzU1M2NhZDUtOGZjMC00OGJhLTkwMzgtYWIxYTNjNjhlZGE3IiwidCI6Ijg5MWFjN2RjLWRjMjUtNDQwMC1iMDY3LTlhNTQyM2YyOWE3MiJ9)
+Se puede acceder al de **líneas directas** mediante el siguiente [link](https://app.powerbi.com/view?r=eyJrIjoiNjRlNzFkMjItZGQxYy00NmYxLWJmOGMtZGQxMWEyODY1Njk1IiwidCI6Ijg5MWFjN2RjLWRjMjUtNDQwMC1iMDY3LTlhNTQyM2YyOWE3MiJ9)
 ```
 
 ## Autor
