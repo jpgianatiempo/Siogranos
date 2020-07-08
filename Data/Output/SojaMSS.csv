@@ -1,0 +1,700 @@
+,Provincia,Cultivo,EsFinal,LugarEntrega,CantTns,Step From,Step To
+47,Buenos Aires,Soja,False,B.Blanca,631733.7799999998,0,1
+48,Buenos Aires,Soja,False,Bs As,2081.9199999999996,0,1
+49,Buenos Aires,Soja,False,Quequen,754100.0600000002,0,1
+50,Buenos Aires,Soja,False,Rosario N,717223.25,0,1
+51,Buenos Aires,Soja,False,Rosario S,1112996.5899999996,0,1
+52,Buenos Aires,Soja,False,Zona 10,213.11,0,1
+53,Buenos Aires,Soja,False,Zona 11,314.21000000000004,0,1
+54,Buenos Aires,Soja,False,Zona 12,60892.21,0,1
+55,Buenos Aires,Soja,False,Zona 13,40128.73,0,1
+56,Buenos Aires,Soja,False,Zona 14,68683.5,0,1
+57,Buenos Aires,Soja,False,Zona 15,89.0,0,1
+58,Buenos Aires,Soja,False,Zona 16,60.0,0,1
+59,Buenos Aires,Soja,False,Zona 17,300.0,0,1
+60,Buenos Aires,Soja,False,Zona 18,341.83,0,1
+61,Buenos Aires,Soja,False,Zona 2,65905.07,0,1
+62,Buenos Aires,Soja,False,Zona 3,194369.67000000004,0,1
+63,Buenos Aires,Soja,False,Zona 4,126409.60999999999,0,1
+64,Buenos Aires,Soja,False,Zona 5,928907.0000000001,0,1
+65,Buenos Aires,Soja,False,Zona 6,329446.6200000001,0,1
+66,Buenos Aires,Soja,False,Zona 7,617586.5100000001,0,1
+67,Buenos Aires,Soja,False,Zona 8,2954.4799999999996,0,1
+68,Buenos Aires,Soja,False,Zona 9,79692.51999999999,0,1
+161,Catamarca,Soja,False,Quequen,60.0,0,1
+162,Catamarca,Soja,False,Rosario N,420.0,0,1
+163,Catamarca,Soja,False,Rosario S,607.6,0,1
+164,Catamarca,Soja,False,Zona 11,445.0,0,1
+165,Catamarca,Soja,False,Zona 14,392.37,0,1
+166,Catamarca,Soja,False,Zona 15,2779.2,0,1
+167,Catamarca,Soja,False,Zona 16,110.0,0,1
+168,Catamarca,Soja,False,Zona 18,6900.220000000001,0,1
+169,Catamarca,Soja,False,Zona 9,141.37,0,1
+234,Chaco,Soja,False,Cordoba,15.52,0,1
+235,Chaco,Soja,False,Rosario N,376396.35999999987,0,1
+236,Chaco,Soja,False,Rosario S,30404.240000000005,0,1
+237,Chaco,Soja,False,Zona 11,71.0,0,1
+238,Chaco,Soja,False,Zona 12,9989.789999999999,0,1
+239,Chaco,Soja,False,Zona 13,171.51,0,1
+240,Chaco,Soja,False,Zona 14,23748.530000000002,0,1
+241,Chaco,Soja,False,Zona 15,188221.19999999995,0,1
+242,Chaco,Soja,False,Zona 17,52853.579999999994,0,1
+243,Chaco,Soja,False,Zona 18,680.54,0,1
+244,Chaco,Soja,False,Zona 5,11840.0,0,1
+245,Chaco,Soja,False,Zona 8,229.85,0,1
+246,Chaco,Soja,False,Zona 9,1065.1,0,1
+303,Chubut,Soja,False,Zona 5,90.0,0,1
+329,Ciudad Autónoma de Buenos Aires,Soja,False,Rosario S,24.0,0,1
+330,Ciudad Autónoma de Buenos Aires,Soja,False,Zona 15,852.99,0,1
+331,Ciudad Autónoma de Buenos Aires,Soja,False,Zona 6,90.0,0,1
+381,Corrientes,Soja,False,Rosario N,497.61,0,1
+382,Corrientes,Soja,False,Rosario S,1.44,0,1
+383,Corrientes,Soja,False,Zona 14,77.52,0,1
+384,Corrientes,Soja,False,Zona 5,1349.46,0,1
+385,Corrientes,Soja,False,Zona 9,621.5699999999999,0,1
+457,Córdoba,Soja,False,B.Blanca,530.5,0,1
+458,Córdoba,Soja,False,Bs As,1947.3899999999999,0,1
+459,Córdoba,Soja,False,Cordoba,62208.81000000001,0,1
+460,Córdoba,Soja,False,Quequen,113.75999999999999,0,1
+461,Córdoba,Soja,False,Resto del País,333.02,0,1
+462,Córdoba,Soja,False,Rosario N,2581565.27,0,1
+463,Córdoba,Soja,False,Rosario S,1783017.4999999995,0,1
+464,Córdoba,Soja,False,Zona 1,1627.3000000000002,0,1
+465,Córdoba,Soja,False,Zona 10,68243.18,0,1
+466,Córdoba,Soja,False,Zona 11,416789.45000000007,0,1
+467,Córdoba,Soja,False,Zona 12,192714.46,0,1
+468,Córdoba,Soja,False,Zona 13,1280.2700000000002,0,1
+469,Córdoba,Soja,False,Zona 14,261202.38999999998,0,1
+470,Córdoba,Soja,False,Zona 15,1182.21,0,1
+471,Córdoba,Soja,False,Zona 16,937.7,0,1
+472,Córdoba,Soja,False,Zona 17,282.0,0,1
+473,Córdoba,Soja,False,Zona 18,38367.84,0,1
+474,Córdoba,Soja,False,Zona 5,380.37,0,1
+475,Córdoba,Soja,False,Zona 6,1246.3200000000002,0,1
+476,Córdoba,Soja,False,Zona 7,8785.82,0,1
+477,Córdoba,Soja,False,Zona 8,608791.27,0,1
+478,Córdoba,Soja,False,Zona 9,2086923.6800000002,0,1
+582,Entre Ríos,Soja,False,Bs As,259.59,0,1
+583,Entre Ríos,Soja,False,Rosario N,323898.0800000001,0,1
+584,Entre Ríos,Soja,False,Rosario S,422827.1299999999,0,1
+585,Entre Ríos,Soja,False,Zona 12,20570.57,0,1
+586,Entre Ríos,Soja,False,Zona 13,160909.74,0,1
+587,Entre Ríos,Soja,False,Zona 14,26873.74,0,1
+588,Entre Ríos,Soja,False,Zona 15,222.15,0,1
+589,Entre Ríos,Soja,False,Zona 18,273130.99,0,1
+590,Entre Ríos,Soja,False,Zona 5,34802.71,0,1
+591,Entre Ríos,Soja,False,Zona 6,581.86,0,1
+592,Entre Ríos,Soja,False,Zona 8,660.0,0,1
+593,Entre Ríos,Soja,False,Zona 9,4200.0599999999995,0,1
+659,Formosa,Soja,False,Rosario N,1888.26,0,1
+660,Formosa,Soja,False,Rosario S,90.0,0,1
+661,Formosa,Soja,False,Zona 15,1.68,0,1
+662,Formosa,Soja,False,Zona 17,404.0,0,1
+663,Formosa,Soja,False,Zona 8,3.26,0,1
+664,Formosa,Soja,False,Zona 9,140.64,0,1
+693,Jujuy,Soja,False,Rosario N,8730.44,0,1
+694,Jujuy,Soja,False,Rosario S,57.23,0,1
+695,Jujuy,Soja,False,Zona 15,106.0,0,1
+752,La Pampa,Soja,False,B.Blanca,107029.23999999999,0,1
+753,La Pampa,Soja,False,Quequen,34.16,0,1
+754,La Pampa,Soja,False,Rosario N,45924.53,0,1
+755,La Pampa,Soja,False,Rosario S,24524.0,0,1
+756,La Pampa,Soja,False,Zona 10,120.0,0,1
+757,La Pampa,Soja,False,Zona 11,157.38,0,1
+758,La Pampa,Soja,False,Zona 12,397.64000000000004,0,1
+759,La Pampa,Soja,False,Zona 13,30.0,0,1
+760,La Pampa,Soja,False,Zona 14,17803.68,0,1
+761,La Pampa,Soja,False,Zona 18,89.35,0,1
+762,La Pampa,Soja,False,Zona 2,67979.6,0,1
+763,La Pampa,Soja,False,Zona 5,19307.76,0,1
+764,La Pampa,Soja,False,Zona 6,150.0,0,1
+765,La Pampa,Soja,False,Zona 7,91714.14,0,1
+766,La Pampa,Soja,False,Zona 9,560.5400000000001,0,1
+823,La Rioja,Soja,False,Rosario N,235.0,0,1
+824,La Rioja,Soja,False,Zona 9,497.42,0,1
+836,Mendoza,Soja,False,Rosario N,843.67,0,1
+837,Mendoza,Soja,False,Zona 17,67.0,0,1
+856,Misiones,Soja,False,Rosario N,1300.0,0,1
+857,Misiones,Soja,False,Rosario S,120.0,0,1
+858,Misiones,Soja,False,Zona 14,530.0,0,1
+870,Neuquén,Soja,False,B.Blanca,120.0,0,1
+871,Neuquén,Soja,False,Rosario N,61.92,0,1
+872,Neuquén,Soja,False,Zona 2,220.0,0,1
+885,Río Negro,Soja,False,Zona 18,5.52,0,1
+930,Salta,Soja,False,Bs As,12.0,0,1
+931,Salta,Soja,False,Cordoba,89.24,0,1
+932,Salta,Soja,False,Quequen,2600.0,0,1
+933,Salta,Soja,False,Rosario N,293963.03999999986,0,1
+934,Salta,Soja,False,Rosario S,29521.149999999998,0,1
+935,Salta,Soja,False,Zona 11,85.42,0,1
+936,Salta,Soja,False,Zona 13,300.0,0,1
+937,Salta,Soja,False,Zona 14,1322.48,0,1
+938,Salta,Soja,False,Zona 15,10119.23,0,1
+939,Salta,Soja,False,Zona 16,2047.3400000000001,0,1
+940,Salta,Soja,False,Zona 17,47369.22,0,1
+941,Salta,Soja,False,Zona 18,2814.24,0,1
+942,Salta,Soja,False,Zona 9,1718.86,0,1
+992,San Juan,Soja,False,Cordoba,76.03,0,1
+993,San Juan,Soja,False,Zona 10,128.0,0,1
+1033,San Luis,Soja,False,B.Blanca,630.0,0,1
+1034,San Luis,Soja,False,Bs As,180.0,0,1
+1035,San Luis,Soja,False,Cordoba,300.0,0,1
+1036,San Luis,Soja,False,Quequen,1180.0,0,1
+1037,San Luis,Soja,False,Rosario N,36204.93,0,1
+1038,San Luis,Soja,False,Rosario S,19943.640000000003,0,1
+1039,San Luis,Soja,False,Zona 1,19767.78,0,1
+1040,San Luis,Soja,False,Zona 10,3907.33,0,1
+1041,San Luis,Soja,False,Zona 11,2256.1300000000006,0,1
+1042,San Luis,Soja,False,Zona 12,724.0,0,1
+1043,San Luis,Soja,False,Zona 13,300.0,0,1
+1044,San Luis,Soja,False,Zona 14,2219.25,0,1
+1045,San Luis,Soja,False,Zona 18,90.0,0,1
+1046,San Luis,Soja,False,Zona 5,2653.21,0,1
+1047,San Luis,Soja,False,Zona 8,358.84,0,1
+1048,San Luis,Soja,False,Zona 9,128894.37999999999,0,1
+1144,Santa Fe,Soja,False,B.Blanca,7991.07,0,1
+1145,Santa Fe,Soja,False,Bs As,1408.02,0,1
+1146,Santa Fe,Soja,False,Cordoba,62.84,0,1
+1147,Santa Fe,Soja,False,Quequen,180.0,0,1
+1148,Santa Fe,Soja,False,Rosario N,6346505.869999999,0,1
+1149,Santa Fe,Soja,False,Rosario S,1946798.9199999997,0,1
+1150,Santa Fe,Soja,False,Zona 1,9000.0,0,1
+1151,Santa Fe,Soja,False,Zona 10,100.34,0,1
+1152,Santa Fe,Soja,False,Zona 11,188.24,0,1
+1153,Santa Fe,Soja,False,Zona 12,5082259.170000003,0,1
+1154,Santa Fe,Soja,False,Zona 13,5795.07,0,1
+1155,Santa Fe,Soja,False,Zona 14,205386.00999999998,0,1
+1156,Santa Fe,Soja,False,Zona 15,12272.74,0,1
+1157,Santa Fe,Soja,False,Zona 18,19899.18,0,1
+1158,Santa Fe,Soja,False,Zona 2,480.0,0,1
+1159,Santa Fe,Soja,False,Zona 3,210.0,0,1
+1160,Santa Fe,Soja,False,Zona 5,14649.25,0,1
+1161,Santa Fe,Soja,False,Zona 6,71411.53,0,1
+1162,Santa Fe,Soja,False,Zona 7,5318.860000000001,0,1
+1163,Santa Fe,Soja,False,Zona 8,517027.19000000006,0,1
+1164,Santa Fe,Soja,False,Zona 9,45204.83,0,1
+1269,Santiago del Estero,Soja,False,Cordoba,56.47,0,1
+1270,Santiago del Estero,Soja,False,Rosario N,405558.44999999995,0,1
+1271,Santiago del Estero,Soja,False,Rosario S,60338.44999999998,0,1
+1272,Santiago del Estero,Soja,False,Zona 11,665.9,0,1
+1273,Santiago del Estero,Soja,False,Zona 12,17908.690000000002,0,1
+1274,Santiago del Estero,Soja,False,Zona 13,433.31,0,1
+1275,Santiago del Estero,Soja,False,Zona 14,25627.739999999998,0,1
+1276,Santiago del Estero,Soja,False,Zona 15,29598.150000000005,0,1
+1277,Santiago del Estero,Soja,False,Zona 16,22944.84,0,1
+1278,Santiago del Estero,Soja,False,Zona 17,4081.99,0,1
+1279,Santiago del Estero,Soja,False,Zona 18,1575.32,0,1
+1280,Santiago del Estero,Soja,False,Zona 7,89.48,0,1
+1281,Santiago del Estero,Soja,False,Zona 8,1670.9800000000002,0,1
+1282,Santiago del Estero,Soja,False,Zona 9,655.74,0,1
+1378,Tucumán,Soja,False,Cordoba,25.2,0,1
+1379,Tucumán,Soja,False,Rosario N,21270.27,0,1
+1380,Tucumán,Soja,False,Rosario S,9917.230000000001,0,1
+1381,Tucumán,Soja,False,Zona 11,359.32,0,1
+1382,Tucumán,Soja,False,Zona 12,82.66,0,1
+1383,Tucumán,Soja,False,Zona 14,1678.96,0,1
+1384,Tucumán,Soja,False,Zona 15,7246.97,0,1
+1385,Tucumán,Soja,False,Zona 16,40578.91,0,1
+1386,Tucumán,Soja,False,Zona 17,630.0,0,1
+1387,Tucumán,Soja,False,Zona 18,626.35,0,1
+1388,Tucumán,Soja,False,Zona 8,4490.0,0,1
+1389,Tucumán,Soja,False,Zona 9,7217.31,0,1
+69,Buenos Aires,Soja,True,B.Blanca,7918168.080000001,0,2
+70,Buenos Aires,Soja,True,Bs As,68089.13,0,2
+71,Buenos Aires,Soja,True,Cordoba,91.34,0,2
+72,Buenos Aires,Soja,True,Quequen,8249686.68,0,2
+73,Buenos Aires,Soja,True,Resto del País,90.0,0,2
+74,Buenos Aires,Soja,True,Rosario N,8149917.410000003,0,2
+75,Buenos Aires,Soja,True,Rosario S,9882887.5,0,2
+76,Buenos Aires,Soja,True,Zona 1,2968.6200000000013,0,2
+77,Buenos Aires,Soja,True,Zona 10,40869.62,0,2
+78,Buenos Aires,Soja,True,Zona 11,59541.15000000001,0,2
+79,Buenos Aires,Soja,True,Zona 12,1488774.2800000003,0,2
+80,Buenos Aires,Soja,True,Zona 13,924065.5700000002,0,2
+81,Buenos Aires,Soja,True,Zona 14,257456.43000000005,0,2
+82,Buenos Aires,Soja,True,Zona 15,4076.67,0,2
+83,Buenos Aires,Soja,True,Zona 16,2084.63,0,2
+84,Buenos Aires,Soja,True,Zona 17,16311.59,0,2
+85,Buenos Aires,Soja,True,Zona 18,12770.709999999997,0,2
+86,Buenos Aires,Soja,True,Zona 2,234735.09999999992,0,2
+87,Buenos Aires,Soja,True,Zona 3,356824.84,0,2
+88,Buenos Aires,Soja,True,Zona 4,314063.9799999999,0,2
+89,Buenos Aires,Soja,True,Zona 5,4139415.54,0,2
+90,Buenos Aires,Soja,True,Zona 6,4349808.890000001,0,2
+91,Buenos Aires,Soja,True,Zona 7,5212598.519999999,0,2
+92,Buenos Aires,Soja,True,Zona 8,850738.7100000002,0,2
+93,Buenos Aires,Soja,True,Zona 9,21027.440000000002,0,2
+170,Catamarca,Soja,True,B.Blanca,1000.0,0,2
+171,Catamarca,Soja,True,Cordoba,1468.09,0,2
+172,Catamarca,Soja,True,Rosario N,13498.76,0,2
+173,Catamarca,Soja,True,Rosario S,3894.0,0,2
+174,Catamarca,Soja,True,Zona 11,247934.43,0,2
+175,Catamarca,Soja,True,Zona 12,510.0,0,2
+176,Catamarca,Soja,True,Zona 14,393.0,0,2
+177,Catamarca,Soja,True,Zona 15,36891.340000000004,0,2
+178,Catamarca,Soja,True,Zona 16,20603.690000000002,0,2
+179,Catamarca,Soja,True,Zona 17,3298.0,0,2
+180,Catamarca,Soja,True,Zona 5,29.44,0,2
+181,Catamarca,Soja,True,Zona 8,809.24,0,2
+247,Chaco,Soja,True,Bs As,60.0,0,2
+248,Chaco,Soja,True,Cordoba,360.71999999999997,0,2
+249,Chaco,Soja,True,Quequen,156.22,0,2
+250,Chaco,Soja,True,Rosario N,1916702.7399999995,0,2
+251,Chaco,Soja,True,Rosario S,253674.14000000007,0,2
+252,Chaco,Soja,True,Zona 11,12915.719999999998,0,2
+253,Chaco,Soja,True,Zona 12,94927.09999999999,0,2
+254,Chaco,Soja,True,Zona 13,5295.86,0,2
+255,Chaco,Soja,True,Zona 14,147417.15000000002,0,2
+256,Chaco,Soja,True,Zona 15,783555.55,0,2
+257,Chaco,Soja,True,Zona 17,723795.5599999998,0,2
+258,Chaco,Soja,True,Zona 18,9385.32,0,2
+259,Chaco,Soja,True,Zona 3,30.0,0,2
+260,Chaco,Soja,True,Zona 4,32.6,0,2
+261,Chaco,Soja,True,Zona 5,1300.0,0,2
+262,Chaco,Soja,True,Zona 6,59.89,0,2
+263,Chaco,Soja,True,Zona 7,158.0,0,2
+264,Chaco,Soja,True,Zona 8,5574.120000000001,0,2
+265,Chaco,Soja,True,Zona 9,11640.620000000003,0,2
+304,Chubut,Soja,True,Zona 7,54.31,0,2
+305,Chubut,Soja,True,Zona 8,7.36,0,2
+332,Ciudad Autónoma de Buenos Aires,Soja,True,B.Blanca,150436.79,0,2
+333,Ciudad Autónoma de Buenos Aires,Soja,True,Bs As,593.59,0,2
+334,Ciudad Autónoma de Buenos Aires,Soja,True,Cordoba,960.5400000000001,0,2
+335,Ciudad Autónoma de Buenos Aires,Soja,True,Quequen,71324.68999999997,0,2
+336,Ciudad Autónoma de Buenos Aires,Soja,True,Rosario N,4056617.71,0,2
+337,Ciudad Autónoma de Buenos Aires,Soja,True,Rosario S,606287.01,0,2
+338,Ciudad Autónoma de Buenos Aires,Soja,True,Zona 10,120.0,0,2
+339,Ciudad Autónoma de Buenos Aires,Soja,True,Zona 11,2889.6400000000003,0,2
+340,Ciudad Autónoma de Buenos Aires,Soja,True,Zona 12,301605.61999999994,0,2
+341,Ciudad Autónoma de Buenos Aires,Soja,True,Zona 13,22038.350000000006,0,2
+342,Ciudad Autónoma de Buenos Aires,Soja,True,Zona 14,2346.3100000000004,0,2
+343,Ciudad Autónoma de Buenos Aires,Soja,True,Zona 15,4404.17,0,2
+344,Ciudad Autónoma de Buenos Aires,Soja,True,Zona 17,25146.72,0,2
+345,Ciudad Autónoma de Buenos Aires,Soja,True,Zona 5,62773.37,0,2
+346,Ciudad Autónoma de Buenos Aires,Soja,True,Zona 6,94144.79,0,2
+347,Ciudad Autónoma de Buenos Aires,Soja,True,Zona 7,90629.59999999999,0,2
+348,Ciudad Autónoma de Buenos Aires,Soja,True,Zona 8,117206.93000000001,0,2
+349,Ciudad Autónoma de Buenos Aires,Soja,True,Zona 9,2305.54,0,2
+386,Corrientes,Soja,True,Cordoba,30.0,0,2
+387,Corrientes,Soja,True,Quequen,180.0,0,2
+388,Corrientes,Soja,True,Rosario N,12210.349999999997,0,2
+389,Corrientes,Soja,True,Rosario S,3756.0,0,2
+390,Corrientes,Soja,True,Zona 11,120.0,0,2
+391,Corrientes,Soja,True,Zona 12,1161.0799999999997,0,2
+392,Corrientes,Soja,True,Zona 13,1628.0,0,2
+393,Corrientes,Soja,True,Zona 14,29.0,0,2
+394,Corrientes,Soja,True,Zona 18,400.0,0,2
+395,Corrientes,Soja,True,Zona 5,300.0,0,2
+396,Corrientes,Soja,True,Zona 6,360.0,0,2
+397,Corrientes,Soja,True,Zona 8,30.0,0,2
+398,Corrientes,Soja,True,Zona 9,8020.580000000001,0,2
+479,Córdoba,Soja,True,B.Blanca,79979.9,0,2
+480,Córdoba,Soja,True,Bs As,1481.8899999999999,0,2
+481,Córdoba,Soja,True,Cordoba,1948639.2200000002,0,2
+482,Córdoba,Soja,True,Quequen,15243.900000000001,0,2
+483,Córdoba,Soja,True,Resto del País,6073.199999999999,0,2
+484,Córdoba,Soja,True,Rosario N,22179505.01999998,0,2
+485,Córdoba,Soja,True,Rosario S,5704126.56,0,2
+486,Córdoba,Soja,True,Zona 1,5399.57,0,2
+487,Córdoba,Soja,True,Zona 10,822813.59,0,2
+488,Córdoba,Soja,True,Zona 11,3193857.7900000005,0,2
+489,Córdoba,Soja,True,Zona 12,1492056.07,0,2
+490,Córdoba,Soja,True,Zona 13,91441.75000000001,0,2
+491,Córdoba,Soja,True,Zona 14,538159.8700000001,0,2
+492,Córdoba,Soja,True,Zona 15,25154.589999999997,0,2
+493,Córdoba,Soja,True,Zona 16,5779.639999999999,0,2
+494,Córdoba,Soja,True,Zona 17,90090.39000000001,0,2
+495,Córdoba,Soja,True,Zona 18,95923.67,0,2
+496,Córdoba,Soja,True,Zona 2,2270.0,0,2
+497,Córdoba,Soja,True,Zona 3,48.7,0,2
+498,Córdoba,Soja,True,Zona 4,448.41,0,2
+499,Córdoba,Soja,True,Zona 5,116600.33000000002,0,2
+500,Córdoba,Soja,True,Zona 6,15808.12,0,2
+501,Córdoba,Soja,True,Zona 7,104646.94999999998,0,2
+502,Córdoba,Soja,True,Zona 8,3014948.0200000005,0,2
+503,Córdoba,Soja,True,Zona 9,8553635.49,0,2
+594,Entre Ríos,Soja,True,B.Blanca,2830.0,0,2
+595,Entre Ríos,Soja,True,Bs As,452.22,0,2
+596,Entre Ríos,Soja,True,Cordoba,1141.94,0,2
+597,Entre Ríos,Soja,True,Quequen,1492.8400000000001,0,2
+598,Entre Ríos,Soja,True,Rosario N,4039632.3999999994,0,2
+599,Entre Ríos,Soja,True,Rosario S,863468.44,0,2
+600,Entre Ríos,Soja,True,Zona 1,69.65,0,2
+601,Entre Ríos,Soja,True,Zona 11,1031.8,0,2
+602,Entre Ríos,Soja,True,Zona 12,466577.81,0,2
+603,Entre Ríos,Soja,True,Zona 13,2623730.9299999997,0,2
+604,Entre Ríos,Soja,True,Zona 14,116877.94999999998,0,2
+605,Entre Ríos,Soja,True,Zona 16,180.0,0,2
+606,Entre Ríos,Soja,True,Zona 17,1178.65,0,2
+607,Entre Ríos,Soja,True,Zona 18,887598.8300000001,0,2
+608,Entre Ríos,Soja,True,Zona 2,30.0,0,2
+609,Entre Ríos,Soja,True,Zona 3,60.0,0,2
+610,Entre Ríos,Soja,True,Zona 4,120.0,0,2
+611,Entre Ríos,Soja,True,Zona 5,86884.23000000003,0,2
+612,Entre Ríos,Soja,True,Zona 6,6932.31,0,2
+613,Entre Ríos,Soja,True,Zona 7,4099.25,0,2
+614,Entre Ríos,Soja,True,Zona 8,13414.779999999999,0,2
+615,Entre Ríos,Soja,True,Zona 9,6398.92,0,2
+665,Formosa,Soja,True,Quequen,120.0,0,2
+666,Formosa,Soja,True,Rosario N,13712.34,0,2
+667,Formosa,Soja,True,Rosario S,1545.0,0,2
+668,Formosa,Soja,True,Zona 17,30258.78,0,2
+669,Formosa,Soja,True,Zona 5,90.0,0,2
+670,Formosa,Soja,True,Zona 8,0.5,0,2
+671,Formosa,Soja,True,Zona 9,570.28,0,2
+696,Jujuy,Soja,True,Cordoba,480.0,0,2
+697,Jujuy,Soja,True,Rosario N,9219.789999999999,0,2
+698,Jujuy,Soja,True,Rosario S,30.0,0,2
+699,Jujuy,Soja,True,Zona 11,1287.75,0,2
+700,Jujuy,Soja,True,Zona 12,1203.07,0,2
+701,Jujuy,Soja,True,Zona 13,480.0,0,2
+702,Jujuy,Soja,True,Zona 16,22647.09,0,2
+703,Jujuy,Soja,True,Zona 17,13656.769999999997,0,2
+704,Jujuy,Soja,True,Zona 5,210.0,0,2
+705,Jujuy,Soja,True,Zona 8,27.29,0,2
+767,La Pampa,Soja,True,B.Blanca,1721076.2099999995,0,2
+768,La Pampa,Soja,True,Bs As,1812.3600000000001,0,2
+769,La Pampa,Soja,True,Cordoba,30.0,0,2
+770,La Pampa,Soja,True,Quequen,81777.36000000002,0,2
+771,La Pampa,Soja,True,Rosario N,1743104.56,0,2
+772,La Pampa,Soja,True,Rosario S,412263.17,0,2
+773,La Pampa,Soja,True,Zona 10,32689.899999999994,0,2
+774,La Pampa,Soja,True,Zona 11,1220.0,0,2
+775,La Pampa,Soja,True,Zona 12,58467.46000000001,0,2
+776,La Pampa,Soja,True,Zona 13,67490.29,0,2
+777,La Pampa,Soja,True,Zona 14,25633.05,0,2
+778,La Pampa,Soja,True,Zona 16,1786.03,0,2
+779,La Pampa,Soja,True,Zona 18,178.88,0,2
+780,La Pampa,Soja,True,Zona 2,53771.939999999995,0,2
+781,La Pampa,Soja,True,Zona 3,450.0,0,2
+782,La Pampa,Soja,True,Zona 4,590.0,0,2
+783,La Pampa,Soja,True,Zona 5,77329.18,0,2
+784,La Pampa,Soja,True,Zona 6,16082.769999999999,0,2
+785,La Pampa,Soja,True,Zona 7,803352.2000000001,0,2
+786,La Pampa,Soja,True,Zona 8,19977.810000000005,0,2
+787,La Pampa,Soja,True,Zona 9,22184.53,0,2
+825,La Rioja,Soja,True,Cordoba,1336.16,0,2
+826,La Rioja,Soja,True,Rosario S,200.0,0,2
+838,Mendoza,Soja,True,Quequen,150.0,0,2
+839,Mendoza,Soja,True,Rosario N,237.21,0,2
+840,Mendoza,Soja,True,Rosario S,120.0,0,2
+841,Mendoza,Soja,True,Zona 1,10133.06,0,2
+842,Mendoza,Soja,True,Zona 12,90.0,0,2
+843,Mendoza,Soja,True,Zona 17,60.0,0,2
+844,Mendoza,Soja,True,Zona 5,120.0,0,2
+845,Mendoza,Soja,True,Zona 6,79775.14999999998,0,2
+846,Mendoza,Soja,True,Zona 7,180.0,0,2
+859,Misiones,Soja,True,Rosario N,2330.0,0,2
+860,Misiones,Soja,True,Rosario S,497.0,0,2
+861,Misiones,Soja,True,Zona 7,20122.399999999998,0,2
+873,Neuquén,Soja,True,Rosario N,30.0,0,2
+874,Neuquén,Soja,True,Rosario S,180.0,0,2
+875,Neuquén,Soja,True,Zona 17,141.33,0,2
+876,Neuquén,Soja,True,Zona 7,6.97,0,2
+886,Río Negro,Soja,True,B.Blanca,360.0,0,2
+887,Río Negro,Soja,True,Rosario N,223.63000000000002,0,2
+943,Salta,Soja,True,B.Blanca,200.0,0,2
+944,Salta,Soja,True,Bs As,12.0,0,2
+945,Salta,Soja,True,Resto del País,700.0,0,2
+946,Salta,Soja,True,Rosario N,622345.18,0,2
+947,Salta,Soja,True,Rosario S,97274.44000000002,0,2
+948,Salta,Soja,True,Zona 11,59747.43999999998,0,2
+949,Salta,Soja,True,Zona 12,13115.380000000001,0,2
+950,Salta,Soja,True,Zona 13,10799.93,0,2
+951,Salta,Soja,True,Zona 14,16153.900000000001,0,2
+952,Salta,Soja,True,Zona 15,43906.96,0,2
+953,Salta,Soja,True,Zona 16,1094307.9000000004,0,2
+954,Salta,Soja,True,Zona 17,1182712.86,0,2
+955,Salta,Soja,True,Zona 18,7240.0,0,2
+956,Salta,Soja,True,Zona 4,600.0,0,2
+957,Salta,Soja,True,Zona 5,30.0,0,2
+958,Salta,Soja,True,Zona 6,2696.4,0,2
+959,Salta,Soja,True,Zona 7,63147.99000000002,0,2
+960,Salta,Soja,True,Zona 8,1792.1399999999999,0,2
+961,Salta,Soja,True,Zona 9,4950.13,0,2
+994,San Juan,Soja,True,Rosario S,532.0,0,2
+995,San Juan,Soja,True,Zona 16,10.21,0,2
+1049,San Luis,Soja,True,B.Blanca,900.0,0,2
+1050,San Luis,Soja,True,Cordoba,331.34,0,2
+1051,San Luis,Soja,True,Quequen,3543.2799999999997,0,2
+1052,San Luis,Soja,True,Rosario N,232450.25,0,2
+1053,San Luis,Soja,True,Rosario S,117980.05000000003,0,2
+1054,San Luis,Soja,True,Zona 1,60704.82000000001,0,2
+1055,San Luis,Soja,True,Zona 10,108427.83,0,2
+1056,San Luis,Soja,True,Zona 11,1796.21,0,2
+1057,San Luis,Soja,True,Zona 12,1948.0,0,2
+1058,San Luis,Soja,True,Zona 13,2642.49,0,2
+1059,San Luis,Soja,True,Zona 14,3103.04,0,2
+1060,San Luis,Soja,True,Zona 15,90.0,0,2
+1061,San Luis,Soja,True,Zona 18,600.0,0,2
+1062,San Luis,Soja,True,Zona 4,40.0,0,2
+1063,San Luis,Soja,True,Zona 5,3635.0,0,2
+1064,San Luis,Soja,True,Zona 6,331.34000000000003,0,2
+1065,San Luis,Soja,True,Zona 7,232.29,0,2
+1066,San Luis,Soja,True,Zona 8,31906.839999999997,0,2
+1067,San Luis,Soja,True,Zona 9,630093.0399999999,0,2
+1165,Santa Fe,Soja,True,B.Blanca,48703.93,0,2
+1166,Santa Fe,Soja,True,Bs As,11912.389999999998,0,2
+1167,Santa Fe,Soja,True,Cordoba,4641.18,0,2
+1168,Santa Fe,Soja,True,Quequen,112603.61999999998,0,2
+1169,Santa Fe,Soja,True,Rosario N,55502555.76,0,2
+1170,Santa Fe,Soja,True,Rosario S,10961945.25,0,2
+1171,Santa Fe,Soja,True,Zona 1,93.12,0,2
+1172,Santa Fe,Soja,True,Zona 10,11231.86,0,2
+1173,Santa Fe,Soja,True,Zona 11,126077.29000000001,0,2
+1174,Santa Fe,Soja,True,Zona 12,4239370.690000001,0,2
+1175,Santa Fe,Soja,True,Zona 13,37942.65,0,2
+1176,Santa Fe,Soja,True,Zona 14,1099941.1499999997,0,2
+1177,Santa Fe,Soja,True,Zona 15,52123.41000000001,0,2
+1178,Santa Fe,Soja,True,Zona 16,5773.71,0,2
+1179,Santa Fe,Soja,True,Zona 17,66761.11999999998,0,2
+1180,Santa Fe,Soja,True,Zona 18,90291.99,0,2
+1181,Santa Fe,Soja,True,Zona 2,1247.16,0,2
+1182,Santa Fe,Soja,True,Zona 3,21956.91,0,2
+1183,Santa Fe,Soja,True,Zona 4,1649.77,0,2
+1184,Santa Fe,Soja,True,Zona 5,314885.22000000003,0,2
+1185,Santa Fe,Soja,True,Zona 6,915192.6799999999,0,2
+1186,Santa Fe,Soja,True,Zona 7,131245.91999999998,0,2
+1187,Santa Fe,Soja,True,Zona 8,3192641.330000001,0,2
+1188,Santa Fe,Soja,True,Zona 9,50090.50999999999,0,2
+1283,Santiago del Estero,Soja,True,B.Blanca,1129.76,0,2
+1284,Santiago del Estero,Soja,True,Bs As,840.0,0,2
+1285,Santiago del Estero,Soja,True,Cordoba,11710.68,0,2
+1286,Santiago del Estero,Soja,True,Quequen,528.0,0,2
+1287,Santiago del Estero,Soja,True,Rosario N,2344930.3799999994,0,2
+1288,Santiago del Estero,Soja,True,Rosario S,489344.32999999984,0,2
+1289,Santiago del Estero,Soja,True,Zona 10,171.18,0,2
+1290,Santiago del Estero,Soja,True,Zona 11,1490189.57,0,2
+1291,Santiago del Estero,Soja,True,Zona 12,89257.68999999999,0,2
+1292,Santiago del Estero,Soja,True,Zona 13,15140.86,0,2
+1293,Santiago del Estero,Soja,True,Zona 14,809311.1599999998,0,2
+1294,Santiago del Estero,Soja,True,Zona 15,830458.1400000004,0,2
+1295,Santiago del Estero,Soja,True,Zona 16,623692.7999999997,0,2
+1296,Santiago del Estero,Soja,True,Zona 17,23876.649999999994,0,2
+1297,Santiago del Estero,Soja,True,Zona 18,56933.62,0,2
+1298,Santiago del Estero,Soja,True,Zona 4,82.6,0,2
+1299,Santiago del Estero,Soja,True,Zona 5,1295.68,0,2
+1300,Santiago del Estero,Soja,True,Zona 6,1339.71,0,2
+1301,Santiago del Estero,Soja,True,Zona 7,124.56,0,2
+1302,Santiago del Estero,Soja,True,Zona 8,10754.140000000001,0,2
+1303,Santiago del Estero,Soja,True,Zona 9,22148.62,0,2
+1346,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Soja,True,Zona 5,2100.0,0,2
+1390,Tucumán,Soja,True,B.Blanca,420.0,0,2
+1391,Tucumán,Soja,True,Cordoba,1672.21,0,2
+1392,Tucumán,Soja,True,Rosario N,91879.18000000004,0,2
+1393,Tucumán,Soja,True,Rosario S,57911.88,0,2
+1394,Tucumán,Soja,True,Zona 1,105.8,0,2
+1395,Tucumán,Soja,True,Zona 10,2574.4,0,2
+1396,Tucumán,Soja,True,Zona 11,318517.8599999999,0,2
+1397,Tucumán,Soja,True,Zona 12,10298.14,0,2
+1398,Tucumán,Soja,True,Zona 13,1820.0,0,2
+1399,Tucumán,Soja,True,Zona 14,13369.249999999998,0,2
+1400,Tucumán,Soja,True,Zona 15,115403.64000000001,0,2
+1401,Tucumán,Soja,True,Zona 16,1449774.9499999997,0,2
+1402,Tucumán,Soja,True,Zona 17,119.68,0,2
+1403,Tucumán,Soja,True,Zona 18,59501.0,0,2
+1404,Tucumán,Soja,True,Zona 5,1238.0,0,2
+1405,Tucumán,Soja,True,Zona 6,46565.200000000004,0,2
+1406,Tucumán,Soja,True,Zona 7,6125.630000000002,0,2
+1407,Tucumán,Soja,True,Zona 8,2003.0,0,2
+1408,Tucumán,Soja,True,Zona 9,2139.76,0,2
+47,B.Blanca,Soja,False,B.Blanca,631733.7799999998,1,2
+48,Bs As,Soja,False,Bs As,2081.9199999999996,1,2
+49,Quequen,Soja,False,Quequen,754100.0600000002,1,2
+50,Rosario N,Soja,False,Rosario N,717223.25,1,2
+51,Rosario S,Soja,False,Rosario S,1112996.5899999996,1,2
+52,Zona 10,Soja,False,Zona 10,213.11,1,2
+53,Zona 11,Soja,False,Zona 11,314.21000000000004,1,2
+54,Zona 12,Soja,False,Zona 12,60892.21,1,2
+55,Zona 13,Soja,False,Zona 13,40128.73,1,2
+56,Zona 14,Soja,False,Zona 14,68683.5,1,2
+57,Zona 15,Soja,False,Zona 15,89.0,1,2
+58,Zona 16,Soja,False,Zona 16,60.0,1,2
+59,Zona 17,Soja,False,Zona 17,300.0,1,2
+60,Zona 18,Soja,False,Zona 18,341.83,1,2
+61,Zona 2,Soja,False,Zona 2,65905.07,1,2
+62,Zona 3,Soja,False,Zona 3,194369.67000000004,1,2
+63,Zona 4,Soja,False,Zona 4,126409.60999999999,1,2
+64,Zona 5,Soja,False,Zona 5,928907.0000000001,1,2
+65,Zona 6,Soja,False,Zona 6,329446.6200000001,1,2
+66,Zona 7,Soja,False,Zona 7,617586.5100000001,1,2
+67,Zona 8,Soja,False,Zona 8,2954.4799999999996,1,2
+68,Zona 9,Soja,False,Zona 9,79692.51999999999,1,2
+161,Quequen,Soja,False,Quequen,60.0,1,2
+162,Rosario N,Soja,False,Rosario N,420.0,1,2
+163,Rosario S,Soja,False,Rosario S,607.6,1,2
+164,Zona 11,Soja,False,Zona 11,445.0,1,2
+165,Zona 14,Soja,False,Zona 14,392.37,1,2
+166,Zona 15,Soja,False,Zona 15,2779.2,1,2
+167,Zona 16,Soja,False,Zona 16,110.0,1,2
+168,Zona 18,Soja,False,Zona 18,6900.220000000001,1,2
+169,Zona 9,Soja,False,Zona 9,141.37,1,2
+234,Cordoba,Soja,False,Cordoba,15.52,1,2
+235,Rosario N,Soja,False,Rosario N,376396.35999999987,1,2
+236,Rosario S,Soja,False,Rosario S,30404.240000000005,1,2
+237,Zona 11,Soja,False,Zona 11,71.0,1,2
+238,Zona 12,Soja,False,Zona 12,9989.789999999999,1,2
+239,Zona 13,Soja,False,Zona 13,171.51,1,2
+240,Zona 14,Soja,False,Zona 14,23748.530000000002,1,2
+241,Zona 15,Soja,False,Zona 15,188221.19999999995,1,2
+242,Zona 17,Soja,False,Zona 17,52853.579999999994,1,2
+243,Zona 18,Soja,False,Zona 18,680.54,1,2
+244,Zona 5,Soja,False,Zona 5,11840.0,1,2
+245,Zona 8,Soja,False,Zona 8,229.85,1,2
+246,Zona 9,Soja,False,Zona 9,1065.1,1,2
+303,Zona 5,Soja,False,Zona 5,90.0,1,2
+329,Rosario S,Soja,False,Rosario S,24.0,1,2
+330,Zona 15,Soja,False,Zona 15,852.99,1,2
+331,Zona 6,Soja,False,Zona 6,90.0,1,2
+381,Rosario N,Soja,False,Rosario N,497.61,1,2
+382,Rosario S,Soja,False,Rosario S,1.44,1,2
+383,Zona 14,Soja,False,Zona 14,77.52,1,2
+384,Zona 5,Soja,False,Zona 5,1349.46,1,2
+385,Zona 9,Soja,False,Zona 9,621.5699999999999,1,2
+457,B.Blanca,Soja,False,B.Blanca,530.5,1,2
+458,Bs As,Soja,False,Bs As,1947.3899999999999,1,2
+459,Cordoba,Soja,False,Cordoba,62208.81000000001,1,2
+460,Quequen,Soja,False,Quequen,113.75999999999999,1,2
+461,Resto del País,Soja,False,Resto del País,333.02,1,2
+462,Rosario N,Soja,False,Rosario N,2581565.27,1,2
+463,Rosario S,Soja,False,Rosario S,1783017.4999999995,1,2
+464,Zona 1,Soja,False,Zona 1,1627.3000000000002,1,2
+465,Zona 10,Soja,False,Zona 10,68243.18,1,2
+466,Zona 11,Soja,False,Zona 11,416789.45000000007,1,2
+467,Zona 12,Soja,False,Zona 12,192714.46,1,2
+468,Zona 13,Soja,False,Zona 13,1280.2700000000002,1,2
+469,Zona 14,Soja,False,Zona 14,261202.38999999998,1,2
+470,Zona 15,Soja,False,Zona 15,1182.21,1,2
+471,Zona 16,Soja,False,Zona 16,937.7,1,2
+472,Zona 17,Soja,False,Zona 17,282.0,1,2
+473,Zona 18,Soja,False,Zona 18,38367.84,1,2
+474,Zona 5,Soja,False,Zona 5,380.37,1,2
+475,Zona 6,Soja,False,Zona 6,1246.3200000000002,1,2
+476,Zona 7,Soja,False,Zona 7,8785.82,1,2
+477,Zona 8,Soja,False,Zona 8,608791.27,1,2
+478,Zona 9,Soja,False,Zona 9,2086923.6800000002,1,2
+582,Bs As,Soja,False,Bs As,259.59,1,2
+583,Rosario N,Soja,False,Rosario N,323898.0800000001,1,2
+584,Rosario S,Soja,False,Rosario S,422827.1299999999,1,2
+585,Zona 12,Soja,False,Zona 12,20570.57,1,2
+586,Zona 13,Soja,False,Zona 13,160909.74,1,2
+587,Zona 14,Soja,False,Zona 14,26873.74,1,2
+588,Zona 15,Soja,False,Zona 15,222.15,1,2
+589,Zona 18,Soja,False,Zona 18,273130.99,1,2
+590,Zona 5,Soja,False,Zona 5,34802.71,1,2
+591,Zona 6,Soja,False,Zona 6,581.86,1,2
+592,Zona 8,Soja,False,Zona 8,660.0,1,2
+593,Zona 9,Soja,False,Zona 9,4200.0599999999995,1,2
+659,Rosario N,Soja,False,Rosario N,1888.26,1,2
+660,Rosario S,Soja,False,Rosario S,90.0,1,2
+661,Zona 15,Soja,False,Zona 15,1.68,1,2
+662,Zona 17,Soja,False,Zona 17,404.0,1,2
+663,Zona 8,Soja,False,Zona 8,3.26,1,2
+664,Zona 9,Soja,False,Zona 9,140.64,1,2
+693,Rosario N,Soja,False,Rosario N,8730.44,1,2
+694,Rosario S,Soja,False,Rosario S,57.23,1,2
+695,Zona 15,Soja,False,Zona 15,106.0,1,2
+752,B.Blanca,Soja,False,B.Blanca,107029.23999999999,1,2
+753,Quequen,Soja,False,Quequen,34.16,1,2
+754,Rosario N,Soja,False,Rosario N,45924.53,1,2
+755,Rosario S,Soja,False,Rosario S,24524.0,1,2
+756,Zona 10,Soja,False,Zona 10,120.0,1,2
+757,Zona 11,Soja,False,Zona 11,157.38,1,2
+758,Zona 12,Soja,False,Zona 12,397.64000000000004,1,2
+759,Zona 13,Soja,False,Zona 13,30.0,1,2
+760,Zona 14,Soja,False,Zona 14,17803.68,1,2
+761,Zona 18,Soja,False,Zona 18,89.35,1,2
+762,Zona 2,Soja,False,Zona 2,67979.6,1,2
+763,Zona 5,Soja,False,Zona 5,19307.76,1,2
+764,Zona 6,Soja,False,Zona 6,150.0,1,2
+765,Zona 7,Soja,False,Zona 7,91714.14,1,2
+766,Zona 9,Soja,False,Zona 9,560.5400000000001,1,2
+823,Rosario N,Soja,False,Rosario N,235.0,1,2
+824,Zona 9,Soja,False,Zona 9,497.42,1,2
+836,Rosario N,Soja,False,Rosario N,843.67,1,2
+837,Zona 17,Soja,False,Zona 17,67.0,1,2
+856,Rosario N,Soja,False,Rosario N,1300.0,1,2
+857,Rosario S,Soja,False,Rosario S,120.0,1,2
+858,Zona 14,Soja,False,Zona 14,530.0,1,2
+870,B.Blanca,Soja,False,B.Blanca,120.0,1,2
+871,Rosario N,Soja,False,Rosario N,61.92,1,2
+872,Zona 2,Soja,False,Zona 2,220.0,1,2
+885,Zona 18,Soja,False,Zona 18,5.52,1,2
+930,Bs As,Soja,False,Bs As,12.0,1,2
+931,Cordoba,Soja,False,Cordoba,89.24,1,2
+932,Quequen,Soja,False,Quequen,2600.0,1,2
+933,Rosario N,Soja,False,Rosario N,293963.03999999986,1,2
+934,Rosario S,Soja,False,Rosario S,29521.149999999998,1,2
+935,Zona 11,Soja,False,Zona 11,85.42,1,2
+936,Zona 13,Soja,False,Zona 13,300.0,1,2
+937,Zona 14,Soja,False,Zona 14,1322.48,1,2
+938,Zona 15,Soja,False,Zona 15,10119.23,1,2
+939,Zona 16,Soja,False,Zona 16,2047.3400000000001,1,2
+940,Zona 17,Soja,False,Zona 17,47369.22,1,2
+941,Zona 18,Soja,False,Zona 18,2814.24,1,2
+942,Zona 9,Soja,False,Zona 9,1718.86,1,2
+992,Cordoba,Soja,False,Cordoba,76.03,1,2
+993,Zona 10,Soja,False,Zona 10,128.0,1,2
+1033,B.Blanca,Soja,False,B.Blanca,630.0,1,2
+1034,Bs As,Soja,False,Bs As,180.0,1,2
+1035,Cordoba,Soja,False,Cordoba,300.0,1,2
+1036,Quequen,Soja,False,Quequen,1180.0,1,2
+1037,Rosario N,Soja,False,Rosario N,36204.93,1,2
+1038,Rosario S,Soja,False,Rosario S,19943.640000000003,1,2
+1039,Zona 1,Soja,False,Zona 1,19767.78,1,2
+1040,Zona 10,Soja,False,Zona 10,3907.33,1,2
+1041,Zona 11,Soja,False,Zona 11,2256.1300000000006,1,2
+1042,Zona 12,Soja,False,Zona 12,724.0,1,2
+1043,Zona 13,Soja,False,Zona 13,300.0,1,2
+1044,Zona 14,Soja,False,Zona 14,2219.25,1,2
+1045,Zona 18,Soja,False,Zona 18,90.0,1,2
+1046,Zona 5,Soja,False,Zona 5,2653.21,1,2
+1047,Zona 8,Soja,False,Zona 8,358.84,1,2
+1048,Zona 9,Soja,False,Zona 9,128894.37999999999,1,2
+1144,B.Blanca,Soja,False,B.Blanca,7991.07,1,2
+1145,Bs As,Soja,False,Bs As,1408.02,1,2
+1146,Cordoba,Soja,False,Cordoba,62.84,1,2
+1147,Quequen,Soja,False,Quequen,180.0,1,2
+1148,Rosario N,Soja,False,Rosario N,6346505.869999999,1,2
+1149,Rosario S,Soja,False,Rosario S,1946798.9199999997,1,2
+1150,Zona 1,Soja,False,Zona 1,9000.0,1,2
+1151,Zona 10,Soja,False,Zona 10,100.34,1,2
+1152,Zona 11,Soja,False,Zona 11,188.24,1,2
+1153,Zona 12,Soja,False,Zona 12,5082259.170000003,1,2
+1154,Zona 13,Soja,False,Zona 13,5795.07,1,2
+1155,Zona 14,Soja,False,Zona 14,205386.00999999998,1,2
+1156,Zona 15,Soja,False,Zona 15,12272.74,1,2
+1157,Zona 18,Soja,False,Zona 18,19899.18,1,2
+1158,Zona 2,Soja,False,Zona 2,480.0,1,2
+1159,Zona 3,Soja,False,Zona 3,210.0,1,2
+1160,Zona 5,Soja,False,Zona 5,14649.25,1,2
+1161,Zona 6,Soja,False,Zona 6,71411.53,1,2
+1162,Zona 7,Soja,False,Zona 7,5318.860000000001,1,2
+1163,Zona 8,Soja,False,Zona 8,517027.19000000006,1,2
+1164,Zona 9,Soja,False,Zona 9,45204.83,1,2
+1269,Cordoba,Soja,False,Cordoba,56.47,1,2
+1270,Rosario N,Soja,False,Rosario N,405558.44999999995,1,2
+1271,Rosario S,Soja,False,Rosario S,60338.44999999998,1,2
+1272,Zona 11,Soja,False,Zona 11,665.9,1,2
+1273,Zona 12,Soja,False,Zona 12,17908.690000000002,1,2
+1274,Zona 13,Soja,False,Zona 13,433.31,1,2
+1275,Zona 14,Soja,False,Zona 14,25627.739999999998,1,2
+1276,Zona 15,Soja,False,Zona 15,29598.150000000005,1,2
+1277,Zona 16,Soja,False,Zona 16,22944.84,1,2
+1278,Zona 17,Soja,False,Zona 17,4081.99,1,2
+1279,Zona 18,Soja,False,Zona 18,1575.32,1,2
+1280,Zona 7,Soja,False,Zona 7,89.48,1,2
+1281,Zona 8,Soja,False,Zona 8,1670.9800000000002,1,2
+1282,Zona 9,Soja,False,Zona 9,655.74,1,2
+1378,Cordoba,Soja,False,Cordoba,25.2,1,2
+1379,Rosario N,Soja,False,Rosario N,21270.27,1,2
+1380,Rosario S,Soja,False,Rosario S,9917.230000000001,1,2
+1381,Zona 11,Soja,False,Zona 11,359.32,1,2
+1382,Zona 12,Soja,False,Zona 12,82.66,1,2
+1383,Zona 14,Soja,False,Zona 14,1678.96,1,2
+1384,Zona 15,Soja,False,Zona 15,7246.97,1,2
+1385,Zona 16,Soja,False,Zona 16,40578.91,1,2
+1386,Zona 17,Soja,False,Zona 17,630.0,1,2
+1387,Zona 18,Soja,False,Zona 18,626.35,1,2
+1388,Zona 8,Soja,False,Zona 8,4490.0,1,2
+1389,Zona 9,Soja,False,Zona 9,7217.31,1,2

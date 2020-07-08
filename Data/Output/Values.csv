@@ -1,0 +1,3704 @@
+,Cultivo,Año,Origen,Destino,Cantidad Transportada (MTn)
+0,Maiz,2015,Buenos Aires,B.Blanca,0.7654035199999999
+1,Maiz,2016,Buenos Aires,B.Blanca,1.7046780900000003
+2,Maiz,2017,Buenos Aires,B.Blanca,1.47864984
+3,Maiz,2018,Buenos Aires,B.Blanca,1.4141174100000002
+4,Maiz,2019,Buenos Aires,B.Blanca,2.4978749900000006
+5,Maiz,2020,Buenos Aires,B.Blanca,0.827688
+6,Maiz,2015,Buenos Aires,Bs As,0.22462024000000003
+7,Maiz,2016,Buenos Aires,Bs As,0.11902857000000003
+8,Maiz,2017,Buenos Aires,Bs As,0.13664557000000005
+9,Maiz,2018,Buenos Aires,Bs As,0.14736006000000001
+10,Maiz,2019,Buenos Aires,Bs As,0.08338282000000001
+11,Maiz,2020,Buenos Aires,Bs As,0.00549
+12,Maiz,2015,Buenos Aires,Cordoba,0.00014453
+13,Maiz,2016,Buenos Aires,Cordoba,0.00017166
+14,Maiz,2018,Buenos Aires,Cordoba,0.002227
+15,Maiz,2019,Buenos Aires,Cordoba,0.002525
+16,Maiz,2015,Buenos Aires,Quequen,0.29162795
+17,Maiz,2016,Buenos Aires,Quequen,0.92260282
+18,Maiz,2017,Buenos Aires,Quequen,0.6884915100000001
+19,Maiz,2018,Buenos Aires,Quequen,0.8454822099999997
+20,Maiz,2019,Buenos Aires,Quequen,1.2451773699999997
+21,Maiz,2020,Buenos Aires,Quequen,0.52745722
+22,Maiz,2015,Buenos Aires,Resto del País,0.0011208099999999999
+23,Maiz,2016,Buenos Aires,Resto del País,0.0006952600000000002
+24,Maiz,2017,Buenos Aires,Resto del País,0.00129534
+25,Maiz,2018,Buenos Aires,Resto del País,0.00021746
+26,Maiz,2019,Buenos Aires,Resto del País,0.001
+27,Maiz,2015,Buenos Aires,Rosario N,0.31787913
+28,Maiz,2016,Buenos Aires,Rosario N,0.50553906
+29,Maiz,2017,Buenos Aires,Rosario N,0.4295813000000001
+30,Maiz,2018,Buenos Aires,Rosario N,0.3438201199999999
+31,Maiz,2019,Buenos Aires,Rosario N,0.69375922
+32,Maiz,2020,Buenos Aires,Rosario N,0.33343306000000006
+33,Maiz,2015,Buenos Aires,Rosario S,0.5438703899999999
+34,Maiz,2016,Buenos Aires,Rosario S,0.8475711500000004
+35,Maiz,2017,Buenos Aires,Rosario S,0.9738111200000001
+36,Maiz,2018,Buenos Aires,Rosario S,0.89553896
+37,Maiz,2019,Buenos Aires,Rosario S,1.2874561599999996
+38,Maiz,2020,Buenos Aires,Rosario S,0.66043944
+39,Maiz,2022,Buenos Aires,Rosario S,0.0002
+40,Maiz,2015,Buenos Aires,Zona 1,0.00210312
+41,Maiz,2016,Buenos Aires,Zona 1,0.00037
+42,Maiz,2017,Buenos Aires,Zona 1,0.0001754
+43,Maiz,2018,Buenos Aires,Zona 1,0.00024
+44,Maiz,2019,Buenos Aires,Zona 1,2.3e-05
+45,Maiz,2015,Buenos Aires,Zona 10,0.00078
+46,Maiz,2016,Buenos Aires,Zona 10,0.00038452000000000007
+47,Maiz,2017,Buenos Aires,Zona 10,0.00190352
+48,Maiz,2018,Buenos Aires,Zona 10,0.00989691
+49,Maiz,2019,Buenos Aires,Zona 10,0.009328519999999998
+50,Maiz,2020,Buenos Aires,Zona 10,0.00055
+51,Maiz,2015,Buenos Aires,Zona 11,0.00352879
+52,Maiz,2016,Buenos Aires,Zona 11,0.0025918200000000003
+53,Maiz,2017,Buenos Aires,Zona 11,0.01049498
+54,Maiz,2018,Buenos Aires,Zona 11,0.03091786
+55,Maiz,2019,Buenos Aires,Zona 11,0.026284780000000004
+56,Maiz,2020,Buenos Aires,Zona 11,0.004619
+57,Maiz,2015,Buenos Aires,Zona 12,0.02941386
+58,Maiz,2016,Buenos Aires,Zona 12,0.0796924
+59,Maiz,2017,Buenos Aires,Zona 12,0.08117144999999999
+60,Maiz,2018,Buenos Aires,Zona 12,0.01584501
+61,Maiz,2019,Buenos Aires,Zona 12,0.052950800000000006
+62,Maiz,2020,Buenos Aires,Zona 12,0.041345
+63,Maiz,2015,Buenos Aires,Zona 13,0.012144050000000002
+64,Maiz,2016,Buenos Aires,Zona 13,0.06580406999999999
+65,Maiz,2017,Buenos Aires,Zona 13,0.01866129
+66,Maiz,2018,Buenos Aires,Zona 13,0.022477260000000002
+67,Maiz,2019,Buenos Aires,Zona 13,0.00682996
+68,Maiz,2015,Buenos Aires,Zona 14,0.01921039
+69,Maiz,2016,Buenos Aires,Zona 14,0.04277832
+70,Maiz,2017,Buenos Aires,Zona 14,0.01568795
+71,Maiz,2018,Buenos Aires,Zona 14,0.01199565
+72,Maiz,2019,Buenos Aires,Zona 14,0.012560120000000001
+73,Maiz,2020,Buenos Aires,Zona 14,0.033858
+74,Maiz,2017,Buenos Aires,Zona 15,0.0005419
+75,Maiz,2018,Buenos Aires,Zona 15,0.00023009999999999998
+76,Maiz,2019,Buenos Aires,Zona 15,0.00036895
+77,Maiz,2015,Buenos Aires,Zona 16,0.00042
+78,Maiz,2016,Buenos Aires,Zona 16,0.000285
+79,Maiz,2017,Buenos Aires,Zona 16,0.00457029
+80,Maiz,2015,Buenos Aires,Zona 17,0.0003
+81,Maiz,2016,Buenos Aires,Zona 17,0.00651
+82,Maiz,2017,Buenos Aires,Zona 17,0.025
+83,Maiz,2018,Buenos Aires,Zona 17,0.00603
+84,Maiz,2019,Buenos Aires,Zona 17,0.0033294
+85,Maiz,2015,Buenos Aires,Zona 18,0.00135
+86,Maiz,2016,Buenos Aires,Zona 18,0.00280313
+87,Maiz,2017,Buenos Aires,Zona 18,0.00199
+88,Maiz,2018,Buenos Aires,Zona 18,0.000908
+89,Maiz,2019,Buenos Aires,Zona 18,0.0006
+90,Maiz,2020,Buenos Aires,Zona 18,0.00014019
+91,Maiz,2015,Buenos Aires,Zona 2,0.039738350000000006
+92,Maiz,2016,Buenos Aires,Zona 2,0.06427138
+93,Maiz,2017,Buenos Aires,Zona 2,0.06103626000000001
+94,Maiz,2018,Buenos Aires,Zona 2,0.03580724
+95,Maiz,2019,Buenos Aires,Zona 2,0.04360291
+96,Maiz,2020,Buenos Aires,Zona 2,0.001154
+97,Maiz,2015,Buenos Aires,Zona 3,0.023248150000000006
+98,Maiz,2016,Buenos Aires,Zona 3,0.0639837
+99,Maiz,2017,Buenos Aires,Zona 3,0.039271379999999995
+100,Maiz,2018,Buenos Aires,Zona 3,0.042900629999999995
+101,Maiz,2019,Buenos Aires,Zona 3,0.08144322999999998
+102,Maiz,2020,Buenos Aires,Zona 3,0.025333380000000003
+103,Maiz,2015,Buenos Aires,Zona 4,0.11228224000000003
+104,Maiz,2016,Buenos Aires,Zona 4,0.11221840000000004
+105,Maiz,2017,Buenos Aires,Zona 4,0.17235593
+106,Maiz,2018,Buenos Aires,Zona 4,0.13234711999999998
+107,Maiz,2019,Buenos Aires,Zona 4,0.13796372
+108,Maiz,2020,Buenos Aires,Zona 4,0.0069873
+109,Maiz,2015,Buenos Aires,Zona 5,0.6149081999999998
+110,Maiz,2016,Buenos Aires,Zona 5,0.55269155
+111,Maiz,2017,Buenos Aires,Zona 5,1.04384986
+112,Maiz,2018,Buenos Aires,Zona 5,0.9106732200000002
+113,Maiz,2019,Buenos Aires,Zona 5,1.0385394300000002
+114,Maiz,2020,Buenos Aires,Zona 5,0.17846324
+115,Maiz,2015,Buenos Aires,Zona 6,0.8215474700000001
+116,Maiz,2016,Buenos Aires,Zona 6,0.8516017300000002
+117,Maiz,2017,Buenos Aires,Zona 6,0.65461973
+118,Maiz,2018,Buenos Aires,Zona 6,0.5981262100000001
+119,Maiz,2019,Buenos Aires,Zona 6,0.8437431599999998
+120,Maiz,2020,Buenos Aires,Zona 6,0.27416856
+121,Maiz,2021,Buenos Aires,Zona 6,0.00072
+122,Maiz,2015,Buenos Aires,Zona 7,0.7005618699999997
+123,Maiz,2016,Buenos Aires,Zona 7,0.70567315
+124,Maiz,2017,Buenos Aires,Zona 7,0.30833428999999996
+125,Maiz,2018,Buenos Aires,Zona 7,0.20645832000000003
+126,Maiz,2019,Buenos Aires,Zona 7,0.28126671
+127,Maiz,2020,Buenos Aires,Zona 7,0.07331823
+128,Maiz,2015,Buenos Aires,Zona 8,0.023525970000000007
+129,Maiz,2016,Buenos Aires,Zona 8,0.023940140000000002
+130,Maiz,2017,Buenos Aires,Zona 8,0.01935964
+131,Maiz,2018,Buenos Aires,Zona 8,0.02819896
+132,Maiz,2019,Buenos Aires,Zona 8,0.03186568000000001
+133,Maiz,2020,Buenos Aires,Zona 8,0.0034
+134,Maiz,2015,Buenos Aires,Zona 9,0.00771915
+135,Maiz,2016,Buenos Aires,Zona 9,0.0035706899999999988
+136,Maiz,2017,Buenos Aires,Zona 9,0.00268013
+137,Maiz,2018,Buenos Aires,Zona 9,0.00262989
+138,Maiz,2019,Buenos Aires,Zona 9,0.0112056
+139,Maiz,2020,Buenos Aires,Zona 9,0.00018
+140,Soja,2015,Buenos Aires,B.Blanca,1.9795737299999998
+141,Soja,2016,Buenos Aires,B.Blanca,1.9175969200000005
+142,Soja,2017,Buenos Aires,B.Blanca,1.4679502599999998
+143,Soja,2018,Buenos Aires,B.Blanca,0.8437878899999999
+144,Soja,2019,Buenos Aires,B.Blanca,1.8272748099999998
+145,Soja,2020,Buenos Aires,B.Blanca,0.51371825
+146,Soja,2015,Buenos Aires,Bs As,0.020795380000000002
+147,Soja,2016,Buenos Aires,Bs As,0.016054330000000002
+148,Soja,2017,Buenos Aires,Bs As,0.0169622
+149,Soja,2018,Buenos Aires,Bs As,0.007613440000000001
+150,Soja,2019,Buenos Aires,Bs As,0.0086557
+151,Soja,2020,Buenos Aires,Bs As,9e-05
+152,Soja,2016,Buenos Aires,Cordoba,9.134e-05
+153,Soja,2015,Buenos Aires,Quequen,2.21720772
+154,Soja,2016,Buenos Aires,Quequen,2.1797220399999997
+155,Soja,2017,Buenos Aires,Quequen,1.6080026399999996
+156,Soja,2018,Buenos Aires,Quequen,1.08949958
+157,Soja,2019,Buenos Aires,Quequen,1.4931181199999999
+158,Soja,2020,Buenos Aires,Quequen,0.41623664
+159,Soja,2017,Buenos Aires,Resto del País,9e-05
+160,Soja,2015,Buenos Aires,Rosario N,1.6107154799999996
+161,Soja,2016,Buenos Aires,Rosario N,2.00858677
+162,Soja,2017,Buenos Aires,Rosario N,1.3243630599999996
+163,Soja,2018,Buenos Aires,Rosario N,1.6330364599999998
+164,Soja,2019,Buenos Aires,Rosario N,1.9039681
+165,Soja,2020,Buenos Aires,Rosario N,0.38461679000000004
+166,Soja,2021,Buenos Aires,Rosario N,0.001854
+167,Soja,2015,Buenos Aires,Rosario S,2.28879588
+168,Soja,2016,Buenos Aires,Rosario S,2.759334850000001
+169,Soja,2017,Buenos Aires,Rosario S,2.21744069
+170,Soja,2018,Buenos Aires,Rosario S,1.5058343399999998
+171,Soja,2019,Buenos Aires,Rosario S,1.68712708
+172,Soja,2020,Buenos Aires,Rosario S,0.53675125
+173,Soja,2022,Buenos Aires,Rosario S,0.0006
+174,Soja,2015,Buenos Aires,Zona 1,0.0029686200000000012
+175,Soja,2015,Buenos Aires,Zona 10,0.011209060000000002
+176,Soja,2016,Buenos Aires,Zona 10,0.003509199999999999
+177,Soja,2017,Buenos Aires,Zona 10,0.0068701
+178,Soja,2018,Buenos Aires,Zona 10,0.005367630000000001
+179,Soja,2019,Buenos Aires,Zona 10,0.014126740000000004
+180,Soja,2015,Buenos Aires,Zona 11,0.01133485
+181,Soja,2016,Buenos Aires,Zona 11,0.0020878399999999997
+182,Soja,2017,Buenos Aires,Zona 11,0.017125359999999996
+183,Soja,2018,Buenos Aires,Zona 11,0.01445264
+184,Soja,2019,Buenos Aires,Zona 11,0.01485467
+185,Soja,2015,Buenos Aires,Zona 12,0.11441790000000002
+186,Soja,2016,Buenos Aires,Zona 12,0.41637177000000003
+187,Soja,2017,Buenos Aires,Zona 12,0.41006957999999993
+188,Soja,2018,Buenos Aires,Zona 12,0.31380790999999997
+189,Soja,2019,Buenos Aires,Zona 12,0.26573132999999993
+190,Soja,2020,Buenos Aires,Zona 12,0.029268
+191,Soja,2015,Buenos Aires,Zona 13,0.13544351999999998
+192,Soja,2016,Buenos Aires,Zona 13,0.18533418
+193,Soja,2017,Buenos Aires,Zona 13,0.14367964
+194,Soja,2018,Buenos Aires,Zona 13,0.10037102
+195,Soja,2019,Buenos Aires,Zona 13,0.28666813
+196,Soja,2020,Buenos Aires,Zona 13,0.11269781
+197,Soja,2015,Buenos Aires,Zona 14,0.07071582000000001
+198,Soja,2016,Buenos Aires,Zona 14,0.10495829
+199,Soja,2017,Buenos Aires,Zona 14,0.07128518999999998
+200,Soja,2018,Buenos Aires,Zona 14,0.031695850000000005
+201,Soja,2019,Buenos Aires,Zona 14,0.034989780000000005
+202,Soja,2020,Buenos Aires,Zona 14,0.012495
+203,Soja,2015,Buenos Aires,Zona 15,0.00146423
+204,Soja,2016,Buenos Aires,Zona 15,0.0008124400000000002
+205,Soja,2017,Buenos Aires,Zona 15,0.000705
+206,Soja,2018,Buenos Aires,Zona 15,0.001184
+207,Soja,2015,Buenos Aires,Zona 16,0.00015
+208,Soja,2017,Buenos Aires,Zona 16,0.00157463
+209,Soja,2018,Buenos Aires,Zona 16,0.00036
+210,Soja,2019,Buenos Aires,Zona 16,6e-05
+211,Soja,2015,Buenos Aires,Zona 17,6e-05
+212,Soja,2016,Buenos Aires,Zona 17,0.00180797
+213,Soja,2017,Buenos Aires,Zona 17,0.0012
+214,Soja,2018,Buenos Aires,Zona 17,0.00012
+215,Soja,2019,Buenos Aires,Zona 17,0.00802362
+216,Soja,2020,Buenos Aires,Zona 17,0.0054
+217,Soja,2015,Buenos Aires,Zona 18,0.00044448
+218,Soja,2016,Buenos Aires,Zona 18,0.00196951
+219,Soja,2017,Buenos Aires,Zona 18,0.00429938
+220,Soja,2018,Buenos Aires,Zona 18,0.00126651
+221,Soja,2019,Buenos Aires,Zona 18,0.004806
+222,Soja,2020,Buenos Aires,Zona 18,0.00032666000000000005
+223,Soja,2015,Buenos Aires,Zona 2,0.031233870000000004
+224,Soja,2016,Buenos Aires,Zona 2,0.12135302
+225,Soja,2017,Buenos Aires,Zona 2,0.08869144
+226,Soja,2018,Buenos Aires,Zona 2,0.025232739999999997
+227,Soja,2019,Buenos Aires,Zona 2,0.03203461
+228,Soja,2020,Buenos Aires,Zona 2,0.0020944899999999996
+229,Soja,2015,Buenos Aires,Zona 3,0.0594568
+230,Soja,2016,Buenos Aires,Zona 3,0.11563244000000002
+231,Soja,2017,Buenos Aires,Zona 3,0.06389641000000001
+232,Soja,2018,Buenos Aires,Zona 3,0.07968798
+233,Soja,2019,Buenos Aires,Zona 3,0.18457488000000002
+234,Soja,2020,Buenos Aires,Zona 3,0.047946
+235,Soja,2015,Buenos Aires,Zona 4,0.08142094999999998
+236,Soja,2016,Buenos Aires,Zona 4,0.08499552999999999
+237,Soja,2017,Buenos Aires,Zona 4,0.14024951000000002
+238,Soja,2018,Buenos Aires,Zona 4,0.07198345999999999
+239,Soja,2019,Buenos Aires,Zona 4,0.05614713999999998
+240,Soja,2020,Buenos Aires,Zona 4,0.005677
+241,Soja,2015,Buenos Aires,Zona 5,1.1837304899999999
+242,Soja,2016,Buenos Aires,Zona 5,0.97700879
+243,Soja,2017,Buenos Aires,Zona 5,0.9387166800000001
+244,Soja,2018,Buenos Aires,Zona 5,0.5523412499999999
+245,Soja,2019,Buenos Aires,Zona 5,0.9892101200000003
+246,Soja,2020,Buenos Aires,Zona 5,0.42731521
+247,Soja,2015,Buenos Aires,Zona 6,1.2898138500000003
+248,Soja,2016,Buenos Aires,Zona 6,1.3494418900000003
+249,Soja,2017,Buenos Aires,Zona 6,0.8762210600000001
+250,Soja,2018,Buenos Aires,Zona 6,0.5157712199999999
+251,Soja,2019,Buenos Aires,Zona 6,0.5824135599999999
+252,Soja,2020,Buenos Aires,Zona 6,0.06559393
+253,Soja,2015,Buenos Aires,Zona 7,1.7735969600000001
+254,Soja,2016,Buenos Aires,Zona 7,1.9261489599999992
+255,Soja,2017,Buenos Aires,Zona 7,1.00931084
+256,Soja,2018,Buenos Aires,Zona 7,0.5628684399999999
+257,Soja,2019,Buenos Aires,Zona 7,0.4917333300000001
+258,Soja,2020,Buenos Aires,Zona 7,0.0665265
+259,Soja,2015,Buenos Aires,Zona 8,0.17754416999999997
+260,Soja,2016,Buenos Aires,Zona 8,0.16957711999999997
+261,Soja,2017,Buenos Aires,Zona 8,0.15150100000000002
+262,Soja,2018,Buenos Aires,Zona 8,0.14676199000000004
+263,Soja,2019,Buenos Aires,Zona 8,0.19942830000000006
+264,Soja,2020,Buenos Aires,Zona 8,0.00888061
+265,Soja,2015,Buenos Aires,Zona 9,0.07437254999999998
+266,Soja,2016,Buenos Aires,Zona 9,0.012697440000000003
+267,Soja,2017,Buenos Aires,Zona 9,0.00396374
+268,Soja,2018,Buenos Aires,Zona 9,0.00500936
+269,Soja,2019,Buenos Aires,Zona 9,0.0046768700000000005
+270,Trigo,2015,Buenos Aires,B.Blanca,0.8103427200000001
+271,Trigo,2016,Buenos Aires,B.Blanca,2.13872346
+272,Trigo,2017,Buenos Aires,B.Blanca,2.2373526800000003
+273,Trigo,2018,Buenos Aires,B.Blanca,1.5878034500000007
+274,Trigo,2019,Buenos Aires,B.Blanca,1.98415
+275,Trigo,2020,Buenos Aires,B.Blanca,0.59595502
+276,Trigo,2021,Buenos Aires,B.Blanca,0.0003
+277,Trigo,2015,Buenos Aires,Bs As,0.75665868
+278,Trigo,2016,Buenos Aires,Bs As,0.58718501
+279,Trigo,2017,Buenos Aires,Bs As,0.8325049700000001
+280,Trigo,2018,Buenos Aires,Bs As,0.54242335
+281,Trigo,2019,Buenos Aires,Bs As,0.65636771
+282,Trigo,2020,Buenos Aires,Bs As,0.02397342
+283,Trigo,2015,Buenos Aires,Cordoba,0.00021132
+284,Trigo,2016,Buenos Aires,Cordoba,0.00155526
+285,Trigo,2017,Buenos Aires,Cordoba,0.00039
+286,Trigo,2018,Buenos Aires,Cordoba,0.0009488600000000002
+287,Trigo,2019,Buenos Aires,Cordoba,0.007083879999999999
+288,Trigo,2015,Buenos Aires,Quequen,0.44179457000000005
+289,Trigo,2016,Buenos Aires,Quequen,1.1506425299999996
+290,Trigo,2017,Buenos Aires,Quequen,1.1111752500000003
+291,Trigo,2018,Buenos Aires,Quequen,0.9584075999999999
+292,Trigo,2019,Buenos Aires,Quequen,1.1478336800000006
+293,Trigo,2020,Buenos Aires,Quequen,0.5759782
+294,Trigo,2015,Buenos Aires,Rosario N,0.10571808000000002
+295,Trigo,2016,Buenos Aires,Rosario N,0.1443363
+296,Trigo,2017,Buenos Aires,Rosario N,0.20326752
+297,Trigo,2018,Buenos Aires,Rosario N,0.21451047999999995
+298,Trigo,2019,Buenos Aires,Rosario N,0.4078869
+299,Trigo,2020,Buenos Aires,Rosario N,0.10457
+300,Trigo,2015,Buenos Aires,Rosario S,0.09093011999999998
+301,Trigo,2016,Buenos Aires,Rosario S,0.30815481000000006
+302,Trigo,2017,Buenos Aires,Rosario S,0.5001678699999998
+303,Trigo,2018,Buenos Aires,Rosario S,0.48801040000000007
+304,Trigo,2019,Buenos Aires,Rosario S,0.7486904499999998
+305,Trigo,2020,Buenos Aires,Rosario S,0.178801
+306,Trigo,2021,Buenos Aires,Rosario S,0.000748
+307,Trigo,2015,Buenos Aires,Zona 1,0.0029508600000000005
+308,Trigo,2016,Buenos Aires,Zona 1,0.0020498400000000003
+309,Trigo,2015,Buenos Aires,Zona 10,0.00125445
+310,Trigo,2016,Buenos Aires,Zona 10,0.0015301400000000001
+311,Trigo,2017,Buenos Aires,Zona 10,0.0017226199999999998
+312,Trigo,2018,Buenos Aires,Zona 10,0.0032525200000000005
+313,Trigo,2019,Buenos Aires,Zona 10,0.00855634
+314,Trigo,2015,Buenos Aires,Zona 11,0.0006578999999999999
+315,Trigo,2016,Buenos Aires,Zona 11,0.0023155
+316,Trigo,2017,Buenos Aires,Zona 11,0.01677014
+317,Trigo,2018,Buenos Aires,Zona 11,0.00578
+318,Trigo,2019,Buenos Aires,Zona 11,0.006007879999999999
+319,Trigo,2015,Buenos Aires,Zona 12,0.005087889999999999
+320,Trigo,2016,Buenos Aires,Zona 12,0.057722840000000004
+321,Trigo,2017,Buenos Aires,Zona 12,0.053989550000000004
+322,Trigo,2018,Buenos Aires,Zona 12,0.01733816
+323,Trigo,2019,Buenos Aires,Zona 12,0.006169610000000001
+324,Trigo,2020,Buenos Aires,Zona 12,0.00177
+325,Trigo,2015,Buenos Aires,Zona 13,0.0033525900000000003
+326,Trigo,2016,Buenos Aires,Zona 13,0.04220586
+327,Trigo,2017,Buenos Aires,Zona 13,0.035106729999999996
+328,Trigo,2018,Buenos Aires,Zona 13,0.03585575
+329,Trigo,2019,Buenos Aires,Zona 13,0.05129521
+330,Trigo,2020,Buenos Aires,Zona 13,0.00656
+331,Trigo,2015,Buenos Aires,Zona 14,0.03127452
+332,Trigo,2016,Buenos Aires,Zona 14,0.02790907
+333,Trigo,2017,Buenos Aires,Zona 14,0.016744870000000002
+334,Trigo,2018,Buenos Aires,Zona 14,0.0064664
+335,Trigo,2019,Buenos Aires,Zona 14,0.021223440000000003
+336,Trigo,2020,Buenos Aires,Zona 14,0.01355
+337,Trigo,2018,Buenos Aires,Zona 15,0.0008
+338,Trigo,2019,Buenos Aires,Zona 15,8.4e-05
+339,Trigo,2015,Buenos Aires,Zona 16,0.0004
+340,Trigo,2016,Buenos Aires,Zona 16,0.0045778500000000005
+341,Trigo,2017,Buenos Aires,Zona 16,0.00111
+342,Trigo,2018,Buenos Aires,Zona 16,0.00684212
+343,Trigo,2019,Buenos Aires,Zona 16,0.00029519999999999997
+344,Trigo,2015,Buenos Aires,Zona 17,0.00477032
+345,Trigo,2019,Buenos Aires,Zona 17,0.00102
+346,Trigo,2015,Buenos Aires,Zona 18,0.00018429999999999998
+347,Trigo,2016,Buenos Aires,Zona 18,0.00090768
+348,Trigo,2017,Buenos Aires,Zona 18,0.00021386000000000002
+349,Trigo,2018,Buenos Aires,Zona 18,0.00024
+350,Trigo,2019,Buenos Aires,Zona 18,0.00127137
+351,Trigo,2020,Buenos Aires,Zona 18,0.000668
+352,Trigo,2015,Buenos Aires,Zona 2,0.21753841000000002
+353,Trigo,2016,Buenos Aires,Zona 2,0.24321597999999997
+354,Trigo,2017,Buenos Aires,Zona 2,0.19597002000000002
+355,Trigo,2018,Buenos Aires,Zona 2,0.15613950000000004
+356,Trigo,2019,Buenos Aires,Zona 2,0.12138965999999995
+357,Trigo,2020,Buenos Aires,Zona 2,0.00122
+358,Trigo,2015,Buenos Aires,Zona 3,0.4908677999999999
+359,Trigo,2016,Buenos Aires,Zona 3,0.4537946
+360,Trigo,2017,Buenos Aires,Zona 3,0.23621490999999997
+361,Trigo,2018,Buenos Aires,Zona 3,0.29494008
+362,Trigo,2019,Buenos Aires,Zona 3,0.32671449
+363,Trigo,2020,Buenos Aires,Zona 3,0.065145
+364,Trigo,2015,Buenos Aires,Zona 4,0.20234533000000002
+365,Trigo,2016,Buenos Aires,Zona 4,0.16907944999999996
+366,Trigo,2017,Buenos Aires,Zona 4,0.13483139000000002
+367,Trigo,2018,Buenos Aires,Zona 4,0.11028632000000001
+368,Trigo,2019,Buenos Aires,Zona 4,0.15005364999999998
+369,Trigo,2020,Buenos Aires,Zona 4,0.006598
+370,Trigo,2015,Buenos Aires,Zona 5,0.3624920400000001
+371,Trigo,2016,Buenos Aires,Zona 5,0.7140616600000002
+372,Trigo,2017,Buenos Aires,Zona 5,0.5856950200000001
+373,Trigo,2018,Buenos Aires,Zona 5,0.6892133
+374,Trigo,2019,Buenos Aires,Zona 5,0.8463284399999997
+375,Trigo,2020,Buenos Aires,Zona 5,0.118474
+376,Trigo,2015,Buenos Aires,Zona 6,0.7108274200000002
+377,Trigo,2016,Buenos Aires,Zona 6,0.66510747
+378,Trigo,2017,Buenos Aires,Zona 6,0.7726670299999998
+379,Trigo,2018,Buenos Aires,Zona 6,0.72248005
+380,Trigo,2019,Buenos Aires,Zona 6,0.7086763599999999
+381,Trigo,2020,Buenos Aires,Zona 6,0.04666422
+382,Trigo,2015,Buenos Aires,Zona 7,0.29201267999999997
+383,Trigo,2016,Buenos Aires,Zona 7,0.29683694
+384,Trigo,2017,Buenos Aires,Zona 7,0.6974560800000001
+385,Trigo,2018,Buenos Aires,Zona 7,0.17971914000000003
+386,Trigo,2019,Buenos Aires,Zona 7,0.21300017
+387,Trigo,2020,Buenos Aires,Zona 7,0.00313
+388,Trigo,2015,Buenos Aires,Zona 8,0.01633628
+389,Trigo,2016,Buenos Aires,Zona 8,0.020998390000000002
+390,Trigo,2017,Buenos Aires,Zona 8,0.02168236
+391,Trigo,2018,Buenos Aires,Zona 8,0.02749837
+392,Trigo,2019,Buenos Aires,Zona 8,0.036493489999999996
+393,Trigo,2015,Buenos Aires,Zona 9,0.060644630000000005
+394,Trigo,2016,Buenos Aires,Zona 9,0.06387839000000001
+395,Trigo,2017,Buenos Aires,Zona 9,0.013563219999999999
+396,Trigo,2018,Buenos Aires,Zona 9,0.01495227
+397,Trigo,2019,Buenos Aires,Zona 9,0.03154896
+398,Trigo,2020,Buenos Aires,Zona 9,0.0004
+399,Maiz,2018,Catamarca,B.Blanca,0.0005
+400,Maiz,2019,Catamarca,B.Blanca,0.00036
+401,Maiz,2015,Catamarca,Cordoba,0.00039069
+402,Maiz,2016,Catamarca,Cordoba,0.0010133400000000002
+403,Maiz,2017,Catamarca,Cordoba,0.00025703
+404,Maiz,2018,Catamarca,Cordoba,0.00139
+405,Maiz,2019,Catamarca,Cordoba,0.00171
+406,Maiz,2016,Catamarca,Resto del País,0.00042
+407,Maiz,2017,Catamarca,Resto del País,0.00045
+408,Maiz,2019,Catamarca,Resto del País,0.00237
+409,Maiz,2015,Catamarca,Rosario N,2.9579999999999998e-05
+410,Maiz,2016,Catamarca,Rosario N,0.008251610000000001
+411,Maiz,2017,Catamarca,Rosario N,0.00152619
+412,Maiz,2018,Catamarca,Rosario N,0.00619375
+413,Maiz,2019,Catamarca,Rosario N,0.00745251
+414,Maiz,2020,Catamarca,Rosario N,0.00172
+415,Maiz,2015,Catamarca,Rosario S,0.00168
+416,Maiz,2016,Catamarca,Rosario S,0.00102
+417,Maiz,2017,Catamarca,Rosario S,0.0015699599999999998
+418,Maiz,2018,Catamarca,Rosario S,0.00039
+419,Maiz,2019,Catamarca,Rosario S,0.0031423
+420,Maiz,2017,Catamarca,Zona 10,9.5e-05
+421,Maiz,2015,Catamarca,Zona 11,0.0007660599999999999
+422,Maiz,2016,Catamarca,Zona 11,0.00116918
+423,Maiz,2017,Catamarca,Zona 11,0.0006237699999999999
+424,Maiz,2018,Catamarca,Zona 11,0.011765620000000001
+425,Maiz,2019,Catamarca,Zona 11,0.00665073
+426,Maiz,2015,Catamarca,Zona 12,0.00035982
+427,Maiz,2016,Catamarca,Zona 12,0.0005027699999999999
+428,Maiz,2019,Catamarca,Zona 12,0.00036061000000000003
+429,Maiz,2015,Catamarca,Zona 13,0.00021
+430,Maiz,2016,Catamarca,Zona 13,0.00116
+431,Maiz,2017,Catamarca,Zona 13,0.0011
+432,Maiz,2018,Catamarca,Zona 13,0.00072
+433,Maiz,2019,Catamarca,Zona 13,0.0005
+434,Maiz,2016,Catamarca,Zona 14,0.0005
+435,Maiz,2017,Catamarca,Zona 14,0.00021
+436,Maiz,2019,Catamarca,Zona 14,0.0015133199999999996
+437,Maiz,2015,Catamarca,Zona 16,0.00199257
+438,Maiz,2016,Catamarca,Zona 16,0.00204399
+439,Maiz,2017,Catamarca,Zona 16,0.003947
+440,Maiz,2018,Catamarca,Zona 16,0.0034232899999999994
+441,Maiz,2019,Catamarca,Zona 16,0.0021810799999999997
+442,Maiz,2020,Catamarca,Zona 16,0.0005
+443,Maiz,2016,Catamarca,Zona 17,0.00031551999999999996
+444,Maiz,2016,Catamarca,Zona 18,0.0014051899999999997
+445,Maiz,2017,Catamarca,Zona 18,0.0004044
+446,Maiz,2018,Catamarca,Zona 18,0.0005232300000000001
+447,Maiz,2019,Catamarca,Zona 18,2.74e-06
+448,Maiz,2017,Catamarca,Zona 5,0.00014618
+449,Maiz,2018,Catamarca,Zona 6,6e-05
+450,Maiz,2015,Catamarca,Zona 8,0.00168
+451,Maiz,2017,Catamarca,Zona 8,0.00012
+452,Maiz,2018,Catamarca,Zona 8,8.520999999999999e-05
+453,Maiz,2019,Catamarca,Zona 8,0.00014848
+454,Maiz,2015,Catamarca,Zona 9,0.0011
+455,Maiz,2019,Catamarca,Zona 9,0.00021
+456,Soja,2016,Catamarca,B.Blanca,0.001
+457,Soja,2015,Catamarca,Cordoba,2.081e-05
+458,Soja,2016,Catamarca,Cordoba,0.00010092
+459,Soja,2017,Catamarca,Cordoba,0.0005189600000000001
+460,Soja,2019,Catamarca,Cordoba,0.0008274
+461,Soja,2015,Catamarca,Quequen,6e-05
+462,Soja,2015,Catamarca,Rosario N,0.00138
+463,Soja,2016,Catamarca,Rosario N,0.005341350000000001
+464,Soja,2017,Catamarca,Rosario N,0.00159706
+465,Soja,2018,Catamarca,Rosario N,0.00251706
+466,Soja,2019,Catamarca,Rosario N,0.0028432899999999996
+467,Soja,2020,Catamarca,Rosario N,0.00024
+468,Soja,2016,Catamarca,Rosario S,0.001
+469,Soja,2017,Catamarca,Rosario S,0.00029
+470,Soja,2018,Catamarca,Rosario S,0.0017364000000000001
+471,Soja,2019,Catamarca,Rosario S,0.0014751999999999999
+472,Soja,2015,Catamarca,Zona 11,0.04139318
+473,Soja,2016,Catamarca,Zona 11,0.063145
+474,Soja,2017,Catamarca,Zona 11,0.040848050000000004
+475,Soja,2018,Catamarca,Zona 11,0.033864689999999996
+476,Soja,2019,Catamarca,Zona 11,0.06754851
+477,Soja,2020,Catamarca,Zona 11,0.00158
+478,Soja,2018,Catamarca,Zona 12,0.00051
+479,Soja,2016,Catamarca,Zona 14,2.9370000000000002e-05
+480,Soja,2017,Catamarca,Zona 14,3e-05
+481,Soja,2018,Catamarca,Zona 14,0.000726
+482,Soja,2015,Catamarca,Zona 15,0.025172689999999998
+483,Soja,2016,Catamarca,Zona 15,0.0031988099999999994
+484,Soja,2017,Catamarca,Zona 15,0.00850904
+485,Soja,2018,Catamarca,Zona 15,0.00279
+486,Soja,2015,Catamarca,Zona 16,0.00160673
+487,Soja,2016,Catamarca,Zona 16,0.00317875
+488,Soja,2017,Catamarca,Zona 16,0.00363166
+489,Soja,2018,Catamarca,Zona 16,0.00298896
+490,Soja,2019,Catamarca,Zona 16,0.008977590000000002
+491,Soja,2020,Catamarca,Zona 16,0.00033
+492,Soja,2016,Catamarca,Zona 17,0.003298
+493,Soja,2015,Catamarca,Zona 18,0.0022404900000000004
+494,Soja,2016,Catamarca,Zona 18,0.0017344
+495,Soja,2017,Catamarca,Zona 18,0.00192769
+496,Soja,2018,Catamarca,Zona 18,0.00020443000000000002
+497,Soja,2019,Catamarca,Zona 18,0.0007932099999999999
+498,Soja,2017,Catamarca,Zona 5,2.9440000000000003e-05
+499,Soja,2015,Catamarca,Zona 8,0.00072
+500,Soja,2018,Catamarca,Zona 8,5.4980000000000006e-05
+501,Soja,2019,Catamarca,Zona 8,3.426e-05
+502,Soja,2019,Catamarca,Zona 9,0.00014137
+503,Trigo,2015,Catamarca,Cordoba,0.00370806
+504,Trigo,2016,Catamarca,Cordoba,0.00403921
+505,Trigo,2017,Catamarca,Cordoba,0.005217889999999999
+506,Trigo,2018,Catamarca,Cordoba,0.00231
+507,Trigo,2019,Catamarca,Cordoba,0.0035669300000000003
+508,Trigo,2015,Catamarca,Rosario N,0.000589
+509,Trigo,2016,Catamarca,Rosario N,0.0034653199999999996
+510,Trigo,2017,Catamarca,Rosario N,0.00568241
+511,Trigo,2018,Catamarca,Rosario N,0.0030753
+512,Trigo,2019,Catamarca,Rosario N,0.009622710000000001
+513,Trigo,2020,Catamarca,Rosario N,0.00036
+514,Trigo,2015,Catamarca,Rosario S,0.00118
+515,Trigo,2016,Catamarca,Rosario S,0.00173
+516,Trigo,2017,Catamarca,Rosario S,0.00332851
+517,Trigo,2018,Catamarca,Rosario S,0.0010522299999999997
+518,Trigo,2019,Catamarca,Rosario S,0.0011151199999999996
+519,Trigo,2016,Catamarca,Zona 10,3e-05
+520,Trigo,2018,Catamarca,Zona 10,8.620000000000001e-05
+521,Trigo,2019,Catamarca,Zona 10,2.668e-05
+522,Trigo,2016,Catamarca,Zona 11,0.00173
+523,Trigo,2017,Catamarca,Zona 11,0.0004
+524,Trigo,2019,Catamarca,Zona 11,0.00042
+525,Trigo,2016,Catamarca,Zona 12,0.00095
+526,Trigo,2016,Catamarca,Zona 14,0.0005
+527,Trigo,2017,Catamarca,Zona 14,9e-05
+528,Trigo,2016,Catamarca,Zona 15,0.00017242
+529,Trigo,2015,Catamarca,Zona 16,0.012962
+530,Trigo,2016,Catamarca,Zona 16,0.00717748
+531,Trigo,2017,Catamarca,Zona 16,0.026477269999999997
+532,Trigo,2018,Catamarca,Zona 16,0.020275900000000003
+533,Trigo,2019,Catamarca,Zona 16,0.00932757
+534,Trigo,2015,Catamarca,Zona 17,0.00971907
+535,Trigo,2016,Catamarca,Zona 17,0.00867616
+536,Trigo,2017,Catamarca,Zona 17,0.0020356
+537,Trigo,2018,Catamarca,Zona 17,0.0011505400000000002
+538,Trigo,2019,Catamarca,Zona 17,0.0017171299999999999
+539,Trigo,2015,Catamarca,Zona 18,0.00028787
+540,Trigo,2016,Catamarca,Zona 18,0.00043017999999999995
+541,Trigo,2017,Catamarca,Zona 18,0.00031232000000000005
+542,Trigo,2018,Catamarca,Zona 18,0.0005405
+543,Trigo,2019,Catamarca,Zona 18,0.00017005
+544,Trigo,2016,Catamarca,Zona 4,3e-05
+545,Trigo,2015,Catamarca,Zona 5,0.0003
+546,Trigo,2016,Catamarca,Zona 5,0.00033
+547,Trigo,2018,Catamarca,Zona 5,6e-05
+548,Trigo,2019,Catamarca,Zona 5,0.0003
+549,Trigo,2016,Catamarca,Zona 6,3e-05
+550,Trigo,2017,Catamarca,Zona 6,0.0003
+551,Trigo,2015,Catamarca,Zona 8,0.00299
+552,Trigo,2016,Catamarca,Zona 8,0.006941139999999999
+553,Trigo,2017,Catamarca,Zona 8,0.00014979000000000004
+554,Trigo,2018,Catamarca,Zona 8,0.00063
+555,Trigo,2019,Catamarca,Zona 8,0.00145968
+556,Trigo,2015,Catamarca,Zona 9,0.0008
+557,Trigo,2016,Catamarca,Zona 9,0.004880690000000001
+558,Trigo,2017,Catamarca,Zona 9,0.00036
+559,Trigo,2018,Catamarca,Zona 9,0.00015
+560,Trigo,2019,Catamarca,Zona 9,0.00083576
+561,Maiz,2015,Chaco,Bs As,0.00174
+562,Maiz,2016,Chaco,Bs As,3e-05
+563,Maiz,2017,Chaco,Bs As,0.00066
+564,Maiz,2018,Chaco,Bs As,0.0005028
+565,Maiz,2019,Chaco,Bs As,0.005830149999999999
+566,Maiz,2018,Chaco,Cordoba,0.00075
+567,Maiz,2016,Chaco,Quequen,9e-05
+568,Maiz,2015,Chaco,Rosario N,0.10346736999999999
+569,Maiz,2016,Chaco,Rosario N,0.17726426000000006
+570,Maiz,2017,Chaco,Rosario N,0.23148089
+571,Maiz,2018,Chaco,Rosario N,0.23535685
+572,Maiz,2019,Chaco,Rosario N,0.32835351
+573,Maiz,2020,Chaco,Rosario N,0.080653
+574,Maiz,2015,Chaco,Rosario S,0.03845514
+575,Maiz,2016,Chaco,Rosario S,0.09251190000000001
+576,Maiz,2017,Chaco,Rosario S,0.04353901999999999
+577,Maiz,2018,Chaco,Rosario S,0.07624562000000001
+578,Maiz,2019,Chaco,Rosario S,0.08717164
+579,Maiz,2020,Chaco,Rosario S,0.077506
+580,Maiz,2021,Chaco,Rosario S,6e-05
+581,Maiz,2015,Chaco,Zona 10,0.001
+582,Maiz,2016,Chaco,Zona 10,0.0005
+583,Maiz,2017,Chaco,Zona 10,9.122e-05
+584,Maiz,2019,Chaco,Zona 10,2.932e-05
+585,Maiz,2015,Chaco,Zona 11,0.00044467000000000004
+586,Maiz,2016,Chaco,Zona 11,0.00067395
+587,Maiz,2017,Chaco,Zona 11,0.00026999
+588,Maiz,2018,Chaco,Zona 11,0.0007113000000000001
+589,Maiz,2019,Chaco,Zona 11,0.00063537
+590,Maiz,2015,Chaco,Zona 12,0.01053139
+591,Maiz,2016,Chaco,Zona 12,0.01096477
+592,Maiz,2017,Chaco,Zona 12,0.02257112
+593,Maiz,2018,Chaco,Zona 12,0.0070785200000000005
+594,Maiz,2019,Chaco,Zona 12,0.015345059999999999
+595,Maiz,2020,Chaco,Zona 12,0.00433
+596,Maiz,2015,Chaco,Zona 13,0.00798
+597,Maiz,2016,Chaco,Zona 13,0.01322
+598,Maiz,2017,Chaco,Zona 13,0.00702015
+599,Maiz,2018,Chaco,Zona 13,0.017546690000000004
+600,Maiz,2019,Chaco,Zona 13,0.009258959999999998
+601,Maiz,2015,Chaco,Zona 14,0.0591866
+602,Maiz,2016,Chaco,Zona 14,0.056661829999999996
+603,Maiz,2017,Chaco,Zona 14,0.06219582
+604,Maiz,2018,Chaco,Zona 14,0.038370839999999996
+605,Maiz,2019,Chaco,Zona 14,0.08890404
+606,Maiz,2020,Chaco,Zona 14,0.0003
+607,Maiz,2015,Chaco,Zona 15,0.025519380000000005
+608,Maiz,2016,Chaco,Zona 15,0.03879343000000001
+609,Maiz,2017,Chaco,Zona 15,0.02968757
+610,Maiz,2018,Chaco,Zona 15,0.05817581000000001
+611,Maiz,2019,Chaco,Zona 15,0.06336798000000002
+612,Maiz,2020,Chaco,Zona 15,0.0086
+613,Maiz,2015,Chaco,Zona 17,0.008814600000000002
+614,Maiz,2016,Chaco,Zona 17,0.01682689
+615,Maiz,2017,Chaco,Zona 17,0.08517625999999998
+616,Maiz,2018,Chaco,Zona 17,0.050314500000000005
+617,Maiz,2019,Chaco,Zona 17,0.07124173000000002
+618,Maiz,2020,Chaco,Zona 17,0.0052
+619,Maiz,2015,Chaco,Zona 18,0.012422060000000002
+620,Maiz,2016,Chaco,Zona 18,0.01010042
+621,Maiz,2017,Chaco,Zona 18,0.01125202
+622,Maiz,2018,Chaco,Zona 18,0.013554690000000001
+623,Maiz,2019,Chaco,Zona 18,0.00710034
+624,Maiz,2018,Chaco,Zona 4,0.00045106
+625,Maiz,2015,Chaco,Zona 5,0.0056
+626,Maiz,2018,Chaco,Zona 5,0.0015
+627,Maiz,2019,Chaco,Zona 5,0.0006
+628,Maiz,2015,Chaco,Zona 6,0.00242236
+629,Maiz,2019,Chaco,Zona 6,0.00318
+630,Maiz,2015,Chaco,Zona 8,0.00866
+631,Maiz,2016,Chaco,Zona 8,0.01702
+632,Maiz,2018,Chaco,Zona 8,3.5e-05
+633,Maiz,2019,Chaco,Zona 8,0.0012
+634,Maiz,2018,Chaco,Zona 9,0.000144
+635,Soja,2017,Chaco,Bs As,6e-05
+636,Soja,2015,Chaco,Cordoba,9.771999999999999e-05
+637,Soja,2016,Chaco,Cordoba,3.452e-05
+638,Soja,2018,Chaco,Cordoba,0.000174
+639,Soja,2019,Chaco,Cordoba,7e-05
+640,Soja,2017,Chaco,Quequen,0.00015622
+641,Soja,2015,Chaco,Rosario N,0.44133491999999985
+642,Soja,2016,Chaco,Rosario N,0.42114858999999993
+643,Soja,2017,Chaco,Rosario N,0.46925346999999984
+644,Soja,2018,Chaco,Rosario N,0.36112763
+645,Soja,2019,Chaco,Rosario N,0.46774049
+646,Soja,2020,Chaco,Rosario N,0.132224
+647,Soja,2021,Chaco,Rosario N,0.00027
+648,Soja,2015,Chaco,Rosario S,0.044024069999999985
+649,Soja,2016,Chaco,Rosario S,0.05232509
+650,Soja,2017,Chaco,Rosario S,0.08058609
+651,Soja,2018,Chaco,Rosario S,0.025493960000000006
+652,Soja,2019,Chaco,Rosario S,0.05188517
+653,Soja,2020,Chaco,Rosario S,0.029644
+654,Soja,2021,Chaco,Rosario S,0.00012
+655,Soja,2015,Chaco,Zona 11,0.00450821
+656,Soja,2016,Chaco,Zona 11,0.0024847000000000003
+657,Soja,2017,Chaco,Zona 11,0.00201243
+658,Soja,2018,Chaco,Zona 11,0.00126267
+659,Soja,2019,Chaco,Zona 11,0.0027187099999999996
+660,Soja,2015,Chaco,Zona 12,0.025238620000000003
+661,Soja,2016,Chaco,Zona 12,0.0155055
+662,Soja,2017,Chaco,Zona 12,0.03228606
+663,Soja,2018,Chaco,Zona 12,0.019329350000000002
+664,Soja,2019,Chaco,Zona 12,0.00838736
+665,Soja,2020,Chaco,Zona 12,0.00417
+666,Soja,2015,Chaco,Zona 13,1.338e-05
+667,Soja,2016,Chaco,Zona 13,0.00041346
+668,Soja,2017,Chaco,Zona 13,0.0012
+669,Soja,2018,Chaco,Zona 13,0.0033005300000000003
+670,Soja,2019,Chaco,Zona 13,0.00054
+671,Soja,2015,Chaco,Zona 14,0.04407486
+672,Soja,2016,Chaco,Zona 14,0.04128267000000002
+673,Soja,2017,Chaco,Zona 14,0.04671704
+674,Soja,2018,Chaco,Zona 14,0.0296079
+675,Soja,2019,Chaco,Zona 14,0.009313209999999999
+676,Soja,2020,Chaco,Zona 14,0.00017
+677,Soja,2015,Chaco,Zona 15,0.25022781
+678,Soja,2016,Chaco,Zona 15,0.14878296999999993
+679,Soja,2017,Chaco,Zona 15,0.19761683000000008
+680,Soja,2018,Chaco,Zona 15,0.19576071999999997
+681,Soja,2019,Chaco,Zona 15,0.16728842
+682,Soja,2020,Chaco,Zona 15,0.0121
+683,Soja,2015,Chaco,Zona 17,0.17985631000000002
+684,Soja,2016,Chaco,Zona 17,0.12483457
+685,Soja,2017,Chaco,Zona 17,0.23108621999999998
+686,Soja,2018,Chaco,Zona 17,0.13034604
+687,Soja,2019,Chaco,Zona 17,0.099438
+688,Soja,2020,Chaco,Zona 17,0.011088
+689,Soja,2015,Chaco,Zona 18,0.0019766199999999997
+690,Soja,2016,Chaco,Zona 18,0.00277958
+691,Soja,2017,Chaco,Zona 18,0.00119
+692,Soja,2018,Chaco,Zona 18,0.00203146
+693,Soja,2019,Chaco,Zona 18,0.0020881999999999997
+694,Soja,2017,Chaco,Zona 3,3e-05
+695,Soja,2017,Chaco,Zona 4,3.26e-05
+696,Soja,2015,Chaco,Zona 5,0.01184
+697,Soja,2019,Chaco,Zona 5,0.001
+698,Soja,2020,Chaco,Zona 5,0.0003
+699,Soja,2015,Chaco,Zona 6,2.989e-05
+700,Soja,2016,Chaco,Zona 6,3e-05
+701,Soja,2018,Chaco,Zona 7,0.0001
+702,Soja,2019,Chaco,Zona 7,5.8e-05
+703,Soja,2015,Chaco,Zona 8,0.00242729
+704,Soja,2016,Chaco,Zona 8,0.00054469
+705,Soja,2017,Chaco,Zona 8,0.0011273899999999998
+706,Soja,2018,Chaco,Zona 8,0.00011976
+707,Soja,2019,Chaco,Zona 8,0.0015848400000000001
+708,Soja,2015,Chaco,Zona 9,2e-05
+709,Soja,2016,Chaco,Zona 9,0.000494
+710,Soja,2017,Chaco,Zona 9,9.961000000000002e-05
+711,Soja,2018,Chaco,Zona 9,0.00052511
+712,Soja,2019,Chaco,Zona 9,0.011567000000000003
+713,Trigo,2015,Chaco,Bs As,0.001068
+714,Trigo,2016,Chaco,Bs As,0.00101
+715,Trigo,2017,Chaco,Bs As,0.00066
+716,Trigo,2018,Chaco,Bs As,0.00334
+717,Trigo,2019,Chaco,Bs As,0.00999997
+718,Trigo,2015,Chaco,Cordoba,0.00023375999999999998
+719,Trigo,2016,Chaco,Cordoba,8.802e-05
+720,Trigo,2017,Chaco,Cordoba,0.0001087
+721,Trigo,2018,Chaco,Cordoba,0.00644581
+722,Trigo,2019,Chaco,Cordoba,0.00268115
+723,Trigo,2017,Chaco,Quequen,0.00024
+724,Trigo,2015,Chaco,Rosario N,0.01005686
+725,Trigo,2016,Chaco,Rosario N,0.028574529999999994
+726,Trigo,2017,Chaco,Rosario N,0.035061049999999996
+727,Trigo,2018,Chaco,Rosario N,0.02732393
+728,Trigo,2019,Chaco,Rosario N,0.08336541000000001
+729,Trigo,2020,Chaco,Rosario N,0.00128
+730,Trigo,2015,Chaco,Rosario S,0.00422715
+731,Trigo,2016,Chaco,Rosario S,0.014333360000000002
+732,Trigo,2017,Chaco,Rosario S,0.00930812
+733,Trigo,2018,Chaco,Rosario S,0.01288895
+734,Trigo,2019,Chaco,Rosario S,0.03752846
+735,Trigo,2020,Chaco,Rosario S,0.00424
+736,Trigo,2016,Chaco,Zona 11,0.00647
+737,Trigo,2017,Chaco,Zona 11,8.904e-05
+738,Trigo,2018,Chaco,Zona 11,0.00015
+739,Trigo,2015,Chaco,Zona 12,0.00153356
+740,Trigo,2016,Chaco,Zona 12,0.024089029999999997
+741,Trigo,2017,Chaco,Zona 12,0.00438917
+742,Trigo,2018,Chaco,Zona 12,0.0076351200000000004
+743,Trigo,2019,Chaco,Zona 12,0.00709597
+744,Trigo,2020,Chaco,Zona 12,0.0003
+745,Trigo,2016,Chaco,Zona 13,0.00033
+746,Trigo,2015,Chaco,Zona 14,0.00212938
+747,Trigo,2016,Chaco,Zona 14,0.00724456
+748,Trigo,2017,Chaco,Zona 14,0.00513421
+749,Trigo,2018,Chaco,Zona 14,0.0008972000000000001
+750,Trigo,2019,Chaco,Zona 14,0.00539118
+751,Trigo,2020,Chaco,Zona 14,0.005
+752,Trigo,2015,Chaco,Zona 15,0.04362024000000001
+753,Trigo,2016,Chaco,Zona 15,0.012393730000000002
+754,Trigo,2017,Chaco,Zona 15,0.0026784300000000003
+755,Trigo,2018,Chaco,Zona 15,0.005897940000000002
+756,Trigo,2019,Chaco,Zona 15,0.03370546
+757,Trigo,2020,Chaco,Zona 15,0.0011116199999999998
+758,Trigo,2015,Chaco,Zona 16,0.003235
+759,Trigo,2016,Chaco,Zona 16,0.010671380000000001
+760,Trigo,2017,Chaco,Zona 16,0.00528408
+761,Trigo,2018,Chaco,Zona 16,0.025913150000000003
+762,Trigo,2019,Chaco,Zona 16,0.00828761
+763,Trigo,2015,Chaco,Zona 17,0.029173229999999998
+764,Trigo,2016,Chaco,Zona 17,0.03454729
+765,Trigo,2017,Chaco,Zona 17,0.05381357
+766,Trigo,2018,Chaco,Zona 17,0.03729964000000001
+767,Trigo,2019,Chaco,Zona 17,0.025348440000000003
+768,Trigo,2015,Chaco,Zona 18,0.0014206800000000001
+769,Trigo,2016,Chaco,Zona 18,6e-05
+770,Trigo,2015,Chaco,Zona 3,0.00039
+771,Trigo,2015,Chaco,Zona 5,0.00012
+772,Trigo,2016,Chaco,Zona 5,0.00318
+773,Trigo,2017,Chaco,Zona 5,0.00127308
+774,Trigo,2018,Chaco,Zona 5,0.00382577
+775,Trigo,2019,Chaco,Zona 5,0.00495722
+776,Trigo,2015,Chaco,Zona 6,0.00255959
+777,Trigo,2016,Chaco,Zona 6,0.0012776900000000002
+778,Trigo,2018,Chaco,Zona 6,0.00822582
+779,Trigo,2019,Chaco,Zona 6,0.01317122
+780,Trigo,2020,Chaco,Zona 6,0.0006
+781,Trigo,2015,Chaco,Zona 7,6e-05
+782,Trigo,2016,Chaco,Zona 7,0.0005
+783,Trigo,2018,Chaco,Zona 7,0.0005
+784,Trigo,2019,Chaco,Zona 7,0.00258251
+785,Trigo,2015,Chaco,Zona 8,0.00070411
+786,Trigo,2016,Chaco,Zona 8,0.001936
+787,Trigo,2017,Chaco,Zona 8,0.00051
+788,Trigo,2018,Chaco,Zona 8,0.005596599999999999
+789,Trigo,2019,Chaco,Zona 8,0.00261
+790,Trigo,2015,Chaco,Zona 9,9e-05
+791,Trigo,2018,Chaco,Zona 9,0.00464072
+792,Trigo,2019,Chaco,Zona 9,0.00488
+793,Maiz,2017,Chubut,Rosario N,0.0003
+794,Maiz,2015,Chubut,Rosario S,2.73e-06
+795,Soja,2016,Chubut,Zona 5,9e-05
+796,Soja,2016,Chubut,Zona 7,5.431e-05
+797,Soja,2015,Chubut,Zona 8,7.360000000000001e-06
+798,Trigo,2016,Chubut,Rosario N,0.00015
+799,Maiz,2015,Ciudad Autónoma de Buenos Aires,B.Blanca,0.00163
+800,Maiz,2016,Ciudad Autónoma de Buenos Aires,B.Blanca,0.018406380000000003
+801,Maiz,2017,Ciudad Autónoma de Buenos Aires,B.Blanca,0.00242498
+802,Maiz,2018,Ciudad Autónoma de Buenos Aires,B.Blanca,0.01615658
+803,Maiz,2019,Ciudad Autónoma de Buenos Aires,B.Blanca,0.07701481
+804,Maiz,2020,Ciudad Autónoma de Buenos Aires,B.Blanca,0.022297
+805,Maiz,2015,Ciudad Autónoma de Buenos Aires,Bs As,0.000726
+806,Maiz,2016,Ciudad Autónoma de Buenos Aires,Bs As,0.0079
+807,Maiz,2019,Ciudad Autónoma de Buenos Aires,Bs As,6.419e-05
+808,Maiz,2018,Ciudad Autónoma de Buenos Aires,Cordoba,0.00041954000000000004
+809,Maiz,2019,Ciudad Autónoma de Buenos Aires,Cordoba,0.001754
+810,Maiz,2016,Ciudad Autónoma de Buenos Aires,Quequen,0.01582649
+811,Maiz,2017,Ciudad Autónoma de Buenos Aires,Quequen,0.00875
+812,Maiz,2018,Ciudad Autónoma de Buenos Aires,Quequen,0.00271462
+813,Maiz,2019,Ciudad Autónoma de Buenos Aires,Quequen,0.0177439
+814,Maiz,2020,Ciudad Autónoma de Buenos Aires,Quequen,0.00121
+815,Maiz,2015,Ciudad Autónoma de Buenos Aires,Rosario N,0.00729198
+816,Maiz,2016,Ciudad Autónoma de Buenos Aires,Rosario N,0.035488360000000004
+817,Maiz,2017,Ciudad Autónoma de Buenos Aires,Rosario N,0.0466961
+818,Maiz,2018,Ciudad Autónoma de Buenos Aires,Rosario N,0.05897578999999999
+819,Maiz,2019,Ciudad Autónoma de Buenos Aires,Rosario N,0.6407442
+820,Maiz,2020,Ciudad Autónoma de Buenos Aires,Rosario N,0.361061
+821,Maiz,2015,Ciudad Autónoma de Buenos Aires,Rosario S,0.0038893499999999998
+822,Maiz,2016,Ciudad Autónoma de Buenos Aires,Rosario S,0.005395360000000001
+823,Maiz,2017,Ciudad Autónoma de Buenos Aires,Rosario S,0.02025604
+824,Maiz,2018,Ciudad Autónoma de Buenos Aires,Rosario S,0.02538019
+825,Maiz,2019,Ciudad Autónoma de Buenos Aires,Rosario S,0.23905499
+826,Maiz,2020,Ciudad Autónoma de Buenos Aires,Rosario S,0.170726
+827,Maiz,2015,Ciudad Autónoma de Buenos Aires,Zona 11,0.0005
+828,Maiz,2018,Ciudad Autónoma de Buenos Aires,Zona 11,0.00224691
+829,Maiz,2019,Ciudad Autónoma de Buenos Aires,Zona 11,0.00021916
+830,Maiz,2020,Ciudad Autónoma de Buenos Aires,Zona 11,0.00395
+831,Maiz,2015,Ciudad Autónoma de Buenos Aires,Zona 12,0.018333010000000004
+832,Maiz,2016,Ciudad Autónoma de Buenos Aires,Zona 12,0.00872671
+833,Maiz,2017,Ciudad Autónoma de Buenos Aires,Zona 12,0.00262
+834,Maiz,2018,Ciudad Autónoma de Buenos Aires,Zona 12,0.002236
+835,Maiz,2019,Ciudad Autónoma de Buenos Aires,Zona 12,0.00018
+836,Maiz,2015,Ciudad Autónoma de Buenos Aires,Zona 13,0.00066
+837,Maiz,2016,Ciudad Autónoma de Buenos Aires,Zona 13,0.00012
+838,Maiz,2017,Ciudad Autónoma de Buenos Aires,Zona 13,0.000127
+839,Maiz,2018,Ciudad Autónoma de Buenos Aires,Zona 13,0.005552
+840,Maiz,2019,Ciudad Autónoma de Buenos Aires,Zona 13,0.00329404
+841,Maiz,2015,Ciudad Autónoma de Buenos Aires,Zona 14,0.003843
+842,Maiz,2019,Ciudad Autónoma de Buenos Aires,Zona 14,9.258e-05
+843,Maiz,2016,Ciudad Autónoma de Buenos Aires,Zona 15,0.00149498
+844,Maiz,2019,Ciudad Autónoma de Buenos Aires,Zona 15,0.00179746
+845,Maiz,2015,Ciudad Autónoma de Buenos Aires,Zona 17,5.8299999999999994e-05
+846,Maiz,2018,Ciudad Autónoma de Buenos Aires,Zona 18,0.00124368
+847,Maiz,2019,Ciudad Autónoma de Buenos Aires,Zona 18,0.00039106
+848,Maiz,2019,Ciudad Autónoma de Buenos Aires,Zona 2,0.00024
+849,Maiz,2015,Ciudad Autónoma de Buenos Aires,Zona 3,0.00015371000000000002
+850,Maiz,2016,Ciudad Autónoma de Buenos Aires,Zona 3,0.0012705499999999998
+851,Maiz,2020,Ciudad Autónoma de Buenos Aires,Zona 3,0.00011338
+852,Maiz,2018,Ciudad Autónoma de Buenos Aires,Zona 4,0.0003
+853,Maiz,2019,Ciudad Autónoma de Buenos Aires,Zona 4,0.00019234
+854,Maiz,2015,Ciudad Autónoma de Buenos Aires,Zona 5,0.00059
+855,Maiz,2016,Ciudad Autónoma de Buenos Aires,Zona 5,0.00338
+856,Maiz,2017,Ciudad Autónoma de Buenos Aires,Zona 5,0.002441
+857,Maiz,2018,Ciudad Autónoma de Buenos Aires,Zona 5,0.00225
+858,Maiz,2019,Ciudad Autónoma de Buenos Aires,Zona 5,0.00315
+859,Maiz,2015,Ciudad Autónoma de Buenos Aires,Zona 6,0.00034506
+860,Maiz,2017,Ciudad Autónoma de Buenos Aires,Zona 6,0.00084795
+861,Maiz,2019,Ciudad Autónoma de Buenos Aires,Zona 6,0.015799280000000002
+862,Maiz,2020,Ciudad Autónoma de Buenos Aires,Zona 6,0.005
+863,Maiz,2017,Ciudad Autónoma de Buenos Aires,Zona 7,0.00072
+864,Maiz,2018,Ciudad Autónoma de Buenos Aires,Zona 7,0.00066836
+865,Maiz,2019,Ciudad Autónoma de Buenos Aires,Zona 7,0.00701783
+866,Maiz,2020,Ciudad Autónoma de Buenos Aires,Zona 7,0.00522
+867,Maiz,2015,Ciudad Autónoma de Buenos Aires,Zona 8,0.00511317
+868,Maiz,2016,Ciudad Autónoma de Buenos Aires,Zona 8,0.00459958
+869,Maiz,2017,Ciudad Autónoma de Buenos Aires,Zona 8,0.00010489000000000001
+870,Maiz,2018,Ciudad Autónoma de Buenos Aires,Zona 8,0.0006495600000000001
+871,Maiz,2019,Ciudad Autónoma de Buenos Aires,Zona 8,0.0017733699999999998
+872,Maiz,2020,Ciudad Autónoma de Buenos Aires,Zona 8,0.00223703
+873,Maiz,2015,Ciudad Autónoma de Buenos Aires,Zona 9,0.00112417
+874,Maiz,2016,Ciudad Autónoma de Buenos Aires,Zona 9,0.00024021
+875,Maiz,2017,Ciudad Autónoma de Buenos Aires,Zona 9,0.00170974
+876,Maiz,2019,Ciudad Autónoma de Buenos Aires,Zona 9,0.0006
+877,Soja,2015,Ciudad Autónoma de Buenos Aires,B.Blanca,0.00270225
+878,Soja,2016,Ciudad Autónoma de Buenos Aires,B.Blanca,0.00424105
+879,Soja,2017,Ciudad Autónoma de Buenos Aires,B.Blanca,0.021715
+880,Soja,2018,Ciudad Autónoma de Buenos Aires,B.Blanca,0.03234609
+881,Soja,2019,Ciudad Autónoma de Buenos Aires,B.Blanca,0.0768924
+882,Soja,2020,Ciudad Autónoma de Buenos Aires,B.Blanca,0.01254
+883,Soja,2016,Ciudad Autónoma de Buenos Aires,Bs As,0.00056
+884,Soja,2017,Ciudad Autónoma de Buenos Aires,Bs As,3.359e-05
+885,Soja,2018,Ciudad Autónoma de Buenos Aires,Cordoba,7.494e-05
+886,Soja,2019,Ciudad Autónoma de Buenos Aires,Cordoba,0.0008856000000000001
+887,Soja,2015,Ciudad Autónoma de Buenos Aires,Quequen,0.01219233
+888,Soja,2016,Ciudad Autónoma de Buenos Aires,Quequen,0.02230343
+889,Soja,2017,Ciudad Autónoma de Buenos Aires,Quequen,0.01312959
+890,Soja,2018,Ciudad Autónoma de Buenos Aires,Quequen,0.00664042
+891,Soja,2019,Ciudad Autónoma de Buenos Aires,Quequen,0.015938920000000002
+892,Soja,2020,Ciudad Autónoma de Buenos Aires,Quequen,0.00112
+893,Soja,2015,Ciudad Autónoma de Buenos Aires,Rosario N,0.66951954
+894,Soja,2016,Ciudad Autónoma de Buenos Aires,Rosario N,0.44967621999999996
+895,Soja,2017,Ciudad Autónoma de Buenos Aires,Rosario N,0.43916126999999994
+896,Soja,2018,Ciudad Autónoma de Buenos Aires,Rosario N,1.46530756
+897,Soja,2019,Ciudad Autónoma de Buenos Aires,Rosario N,0.83046012
+898,Soja,2020,Ciudad Autónoma de Buenos Aires,Rosario N,0.202493
+899,Soja,2015,Ciudad Autónoma de Buenos Aires,Rosario S,0.14069839
+900,Soja,2016,Ciudad Autónoma de Buenos Aires,Rosario S,0.054978
+901,Soja,2017,Ciudad Autónoma de Buenos Aires,Rosario S,0.05685176
+902,Soja,2018,Ciudad Autónoma de Buenos Aires,Rosario S,0.12414986
+903,Soja,2019,Ciudad Autónoma de Buenos Aires,Rosario S,0.153392
+904,Soja,2020,Ciudad Autónoma de Buenos Aires,Rosario S,0.076241
+905,Soja,2015,Ciudad Autónoma de Buenos Aires,Zona 10,0.00012
+906,Soja,2015,Ciudad Autónoma de Buenos Aires,Zona 11,0.00031904000000000004
+907,Soja,2017,Ciudad Autónoma de Buenos Aires,Zona 11,2.5280000000000002e-05
+908,Soja,2018,Ciudad Autónoma de Buenos Aires,Zona 11,0.0009977000000000002
+909,Soja,2019,Ciudad Autónoma de Buenos Aires,Zona 11,0.00154762
+910,Soja,2015,Ciudad Autónoma de Buenos Aires,Zona 12,0.05774782
+911,Soja,2016,Ciudad Autónoma de Buenos Aires,Zona 12,0.0745709
+912,Soja,2017,Ciudad Autónoma de Buenos Aires,Zona 12,0.10234439999999999
+913,Soja,2018,Ciudad Autónoma de Buenos Aires,Zona 12,0.06689407000000001
+914,Soja,2019,Ciudad Autónoma de Buenos Aires,Zona 12,1.8429999999999998e-05
+915,Soja,2020,Ciudad Autónoma de Buenos Aires,Zona 12,3e-05
+916,Soja,2015,Ciudad Autónoma de Buenos Aires,Zona 13,0.00425754
+917,Soja,2016,Ciudad Autónoma de Buenos Aires,Zona 13,0.0036956999999999992
+918,Soja,2017,Ciudad Autónoma de Buenos Aires,Zona 13,0.0015
+919,Soja,2018,Ciudad Autónoma de Buenos Aires,Zona 13,0.00043995
+920,Soja,2019,Ciudad Autónoma de Buenos Aires,Zona 13,0.011737160000000002
+921,Soja,2020,Ciudad Autónoma de Buenos Aires,Zona 13,0.000408
+922,Soja,2015,Ciudad Autónoma de Buenos Aires,Zona 14,0.0006971799999999999
+923,Soja,2017,Ciudad Autónoma de Buenos Aires,Zona 14,0.0003
+924,Soja,2018,Ciudad Autónoma de Buenos Aires,Zona 14,0.00015941
+925,Soja,2019,Ciudad Autónoma de Buenos Aires,Zona 14,0.00118972
+926,Soja,2015,Ciudad Autónoma de Buenos Aires,Zona 15,0.0029713999999999995
+927,Soja,2016,Ciudad Autónoma de Buenos Aires,Zona 15,0.0014180899999999999
+928,Soja,2017,Ciudad Autónoma de Buenos Aires,Zona 15,0.00019566999999999997
+929,Soja,2018,Ciudad Autónoma de Buenos Aires,Zona 15,0.00033087
+930,Soja,2019,Ciudad Autónoma de Buenos Aires,Zona 15,0.00034113
+931,Soja,2017,Ciudad Autónoma de Buenos Aires,Zona 17,0.00014672
+932,Soja,2019,Ciudad Autónoma de Buenos Aires,Zona 17,0.025
+933,Soja,2015,Ciudad Autónoma de Buenos Aires,Zona 5,0.00297152
+934,Soja,2016,Ciudad Autónoma de Buenos Aires,Zona 5,0.03266078
+935,Soja,2017,Ciudad Autónoma de Buenos Aires,Zona 5,0.00841117
+936,Soja,2018,Ciudad Autónoma de Buenos Aires,Zona 5,0.00164075
+937,Soja,2019,Ciudad Autónoma de Buenos Aires,Zona 5,0.01708915
+938,Soja,2015,Ciudad Autónoma de Buenos Aires,Zona 6,0.01013098
+939,Soja,2016,Ciudad Autónoma de Buenos Aires,Zona 6,0.009175
+940,Soja,2017,Ciudad Autónoma de Buenos Aires,Zona 6,0.005436
+941,Soja,2018,Ciudad Autónoma de Buenos Aires,Zona 6,0.01246891
+942,Soja,2019,Ciudad Autónoma de Buenos Aires,Zona 6,0.056933899999999996
+943,Soja,2020,Ciudad Autónoma de Buenos Aires,Zona 6,9e-05
+944,Soja,2016,Ciudad Autónoma de Buenos Aires,Zona 7,8.5e-05
+945,Soja,2017,Ciudad Autónoma de Buenos Aires,Zona 7,0.000938
+946,Soja,2018,Ciudad Autónoma de Buenos Aires,Zona 7,0.027705059999999997
+947,Soja,2019,Ciudad Autónoma de Buenos Aires,Zona 7,0.06172153999999999
+948,Soja,2020,Ciudad Autónoma de Buenos Aires,Zona 7,0.00018
+949,Soja,2015,Ciudad Autónoma de Buenos Aires,Zona 8,0.00374594
+950,Soja,2016,Ciudad Autónoma de Buenos Aires,Zona 8,0.00334858
+951,Soja,2017,Ciudad Autónoma de Buenos Aires,Zona 8,0.00011884000000000001
+952,Soja,2018,Ciudad Autónoma de Buenos Aires,Zona 8,0.00070978
+953,Soja,2019,Ciudad Autónoma de Buenos Aires,Zona 8,0.10901379
+954,Soja,2020,Ciudad Autónoma de Buenos Aires,Zona 8,0.00027
+955,Soja,2017,Ciudad Autónoma de Buenos Aires,Zona 9,0.002245
+956,Soja,2018,Ciudad Autónoma de Buenos Aires,Zona 9,6.053999999999999e-05
+957,Trigo,2015,Ciudad Autónoma de Buenos Aires,B.Blanca,0.0014684000000000001
+958,Trigo,2016,Ciudad Autónoma de Buenos Aires,B.Blanca,0.00408518
+959,Trigo,2017,Ciudad Autónoma de Buenos Aires,B.Blanca,0.03816871
+960,Trigo,2018,Ciudad Autónoma de Buenos Aires,B.Blanca,0.012427869999999999
+961,Trigo,2019,Ciudad Autónoma de Buenos Aires,B.Blanca,0.03555118
+962,Trigo,2020,Ciudad Autónoma de Buenos Aires,B.Blanca,0.02054
+963,Trigo,2015,Ciudad Autónoma de Buenos Aires,Bs As,6.52600000000001e-05
+964,Trigo,2016,Ciudad Autónoma de Buenos Aires,Bs As,0.0028247600000000004
+965,Trigo,2017,Ciudad Autónoma de Buenos Aires,Bs As,0.00288
+966,Trigo,2018,Ciudad Autónoma de Buenos Aires,Bs As,0.00921
+967,Trigo,2019,Ciudad Autónoma de Buenos Aires,Bs As,0.01078877
+968,Trigo,2015,Ciudad Autónoma de Buenos Aires,Quequen,0.00102
+969,Trigo,2016,Ciudad Autónoma de Buenos Aires,Quequen,0.00209
+970,Trigo,2017,Ciudad Autónoma de Buenos Aires,Quequen,0.00094903
+971,Trigo,2018,Ciudad Autónoma de Buenos Aires,Quequen,0.0041
+972,Trigo,2019,Ciudad Autónoma de Buenos Aires,Quequen,0.010381040000000001
+973,Trigo,2020,Ciudad Autónoma de Buenos Aires,Quequen,0.00102
+974,Trigo,2015,Ciudad Autónoma de Buenos Aires,Rosario N,0.00795202
+975,Trigo,2016,Ciudad Autónoma de Buenos Aires,Rosario N,0.00991477
+976,Trigo,2017,Ciudad Autónoma de Buenos Aires,Rosario N,0.005114690000000001
+977,Trigo,2018,Ciudad Autónoma de Buenos Aires,Rosario N,0.016278420000000002
+978,Trigo,2019,Ciudad Autónoma de Buenos Aires,Rosario N,0.11121642
+979,Trigo,2020,Ciudad Autónoma de Buenos Aires,Rosario N,0.07089
+980,Trigo,2015,Ciudad Autónoma de Buenos Aires,Rosario S,0.00042
+981,Trigo,2016,Ciudad Autónoma de Buenos Aires,Rosario S,0.001127
+982,Trigo,2017,Ciudad Autónoma de Buenos Aires,Rosario S,0.0007200399999999999
+983,Trigo,2018,Ciudad Autónoma de Buenos Aires,Rosario S,0.01328
+984,Trigo,2019,Ciudad Autónoma de Buenos Aires,Rosario S,0.10199493000000001
+985,Trigo,2020,Ciudad Autónoma de Buenos Aires,Rosario S,0.01406
+986,Trigo,2017,Ciudad Autónoma de Buenos Aires,Zona 11,0.0023
+987,Trigo,2015,Ciudad Autónoma de Buenos Aires,Zona 12,0.0008079100000000001
+988,Trigo,2016,Ciudad Autónoma de Buenos Aires,Zona 12,0.00101
+989,Trigo,2017,Ciudad Autónoma de Buenos Aires,Zona 12,0.00060415
+990,Trigo,2018,Ciudad Autónoma de Buenos Aires,Zona 12,0.0003
+991,Trigo,2015,Ciudad Autónoma de Buenos Aires,Zona 13,0.00688
+992,Trigo,2016,Ciudad Autónoma de Buenos Aires,Zona 13,0.00296
+993,Trigo,2017,Ciudad Autónoma de Buenos Aires,Zona 13,0.0025866599999999997
+994,Trigo,2018,Ciudad Autónoma de Buenos Aires,Zona 13,0.008573029999999999
+995,Trigo,2019,Ciudad Autónoma de Buenos Aires,Zona 13,0.00723834
+996,Trigo,2017,Ciudad Autónoma de Buenos Aires,Zona 17,0.00041
+997,Trigo,2019,Ciudad Autónoma de Buenos Aires,Zona 17,0.00815769
+998,Trigo,2020,Ciudad Autónoma de Buenos Aires,Zona 17,0.004
+999,Trigo,2018,Ciudad Autónoma de Buenos Aires,Zona 18,3e-05
+1000,Trigo,2019,Ciudad Autónoma de Buenos Aires,Zona 18,0.00040043
+1001,Trigo,2016,Ciudad Autónoma de Buenos Aires,Zona 2,0.00018
+1002,Trigo,2015,Ciudad Autónoma de Buenos Aires,Zona 3,0.005855
+1003,Trigo,2016,Ciudad Autónoma de Buenos Aires,Zona 3,0.0045
+1004,Trigo,2017,Ciudad Autónoma de Buenos Aires,Zona 3,0.00156
+1005,Trigo,2018,Ciudad Autónoma de Buenos Aires,Zona 3,0.00071
+1006,Trigo,2019,Ciudad Autónoma de Buenos Aires,Zona 3,0.00099
+1007,Trigo,2015,Ciudad Autónoma de Buenos Aires,Zona 5,0.0136715
+1008,Trigo,2016,Ciudad Autónoma de Buenos Aires,Zona 5,0.004345559999999999
+1009,Trigo,2017,Ciudad Autónoma de Buenos Aires,Zona 5,0.00145677
+1010,Trigo,2018,Ciudad Autónoma de Buenos Aires,Zona 5,0.010623380000000002
+1011,Trigo,2019,Ciudad Autónoma de Buenos Aires,Zona 5,0.00518712
+1012,Trigo,2020,Ciudad Autónoma de Buenos Aires,Zona 5,0.00015
+1013,Trigo,2015,Ciudad Autónoma de Buenos Aires,Zona 6,3e-05
+1014,Trigo,2016,Ciudad Autónoma de Buenos Aires,Zona 6,0.00018
+1015,Trigo,2017,Ciudad Autónoma de Buenos Aires,Zona 6,0.00220962
+1016,Trigo,2018,Ciudad Autónoma de Buenos Aires,Zona 6,0.00065
+1017,Trigo,2019,Ciudad Autónoma de Buenos Aires,Zona 6,0.01915325
+1018,Trigo,2020,Ciudad Autónoma de Buenos Aires,Zona 6,0.00039
+1019,Trigo,2016,Ciudad Autónoma de Buenos Aires,Zona 7,0.0006
+1020,Trigo,2017,Ciudad Autónoma de Buenos Aires,Zona 7,0.00099
+1021,Trigo,2018,Ciudad Autónoma de Buenos Aires,Zona 7,1.6e-05
+1022,Trigo,2019,Ciudad Autónoma de Buenos Aires,Zona 7,0.01191084
+1023,Trigo,2015,Ciudad Autónoma de Buenos Aires,Zona 8,0.00068
+1024,Trigo,2016,Ciudad Autónoma de Buenos Aires,Zona 8,0.00047205
+1025,Trigo,2017,Ciudad Autónoma de Buenos Aires,Zona 8,0.001
+1026,Trigo,2018,Ciudad Autónoma de Buenos Aires,Zona 8,3e-05
+1027,Trigo,2019,Ciudad Autónoma de Buenos Aires,Zona 8,0.0022
+1028,Trigo,2015,Ciudad Autónoma de Buenos Aires,Zona 9,0.00526932
+1029,Maiz,2017,Corrientes,Cordoba,3e-05
+1030,Maiz,2015,Corrientes,Rosario N,2.642e-05
+1031,Maiz,2016,Corrientes,Rosario N,0.000385
+1032,Maiz,2017,Corrientes,Rosario N,0.0027
+1033,Maiz,2018,Corrientes,Rosario N,8.926e-05
+1034,Maiz,2019,Corrientes,Rosario N,0.000318
+1035,Maiz,2020,Corrientes,Rosario N,0.00372
+1036,Maiz,2015,Corrientes,Rosario S,0.00021
+1037,Maiz,2016,Corrientes,Rosario S,0.000146
+1038,Maiz,2017,Corrientes,Rosario S,0.0014104
+1039,Maiz,2018,Corrientes,Rosario S,9e-05
+1040,Maiz,2016,Corrientes,Zona 11,0.0001
+1041,Maiz,2016,Corrientes,Zona 12,0.00051
+1042,Maiz,2015,Corrientes,Zona 13,0.00606
+1043,Maiz,2016,Corrientes,Zona 13,0.00659
+1044,Maiz,2017,Corrientes,Zona 13,0.00205
+1045,Maiz,2016,Corrientes,Zona 14,6e-05
+1046,Maiz,2015,Corrientes,Zona 18,0.0006
+1047,Maiz,2017,Corrientes,Zona 18,0.002
+1048,Maiz,2018,Corrientes,Zona 18,0.001
+1049,Maiz,2017,Corrientes,Zona 5,0.00032
+1050,Maiz,2018,Corrientes,Zona 5,0.00024
+1051,Maiz,2016,Corrientes,Zona 7,9.042e-05
+1052,Maiz,2015,Corrientes,Zona 9,0.03004957
+1053,Maiz,2016,Corrientes,Zona 9,0.010912880000000002
+1054,Maiz,2017,Corrientes,Zona 9,0.00395227
+1055,Maiz,2019,Corrientes,Zona 9,0.0005033700000000001
+1056,Soja,2017,Corrientes,Cordoba,3e-05
+1057,Soja,2017,Corrientes,Quequen,0.00018
+1058,Soja,2015,Corrientes,Rosario N,0.004240120000000001
+1059,Soja,2016,Corrientes,Rosario N,0.0021038000000000003
+1060,Soja,2017,Corrientes,Rosario N,0.00426595
+1061,Soja,2018,Corrientes,Rosario N,0.00011797
+1062,Soja,2019,Corrientes,Rosario N,0.0007301199999999999
+1063,Soja,2020,Corrientes,Rosario N,0.00125
+1064,Soja,2015,Corrientes,Rosario S,0.00237744
+1065,Soja,2017,Corrientes,Rosario S,0.00114
+1066,Soja,2019,Corrientes,Rosario S,0.00012
+1067,Soja,2020,Corrientes,Rosario S,0.00012
+1068,Soja,2017,Corrientes,Zona 11,0.00012
+1069,Soja,2015,Corrientes,Zona 12,1.676e-05
+1070,Soja,2016,Corrientes,Zona 12,0.00033642000000000003
+1071,Soja,2017,Corrientes,Zona 12,0.0008079
+1072,Soja,2015,Corrientes,Zona 13,6e-05
+1073,Soja,2018,Corrientes,Zona 13,0.00029
+1074,Soja,2019,Corrientes,Zona 13,0.000948
+1075,Soja,2020,Corrientes,Zona 13,0.00033
+1076,Soja,2015,Corrientes,Zona 14,7.751999999999999e-05
+1077,Soja,2017,Corrientes,Zona 14,2.9e-05
+1078,Soja,2017,Corrientes,Zona 18,0.0004
+1079,Soja,2016,Corrientes,Zona 5,0.00059946
+1080,Soja,2017,Corrientes,Zona 5,0.00105
+1081,Soja,2017,Corrientes,Zona 6,0.00036
+1082,Soja,2015,Corrientes,Zona 8,2e-06
+1083,Soja,2018,Corrientes,Zona 8,2.8e-05
+1084,Soja,2015,Corrientes,Zona 9,0.00595275
+1085,Soja,2016,Corrientes,Zona 9,0.0021542700000000002
+1086,Soja,2017,Corrientes,Zona 9,0.0005351299999999999
+1087,Trigo,2015,Corrientes,Bs As,0.0006
+1088,Trigo,2016,Corrientes,Bs As,0.0003
+1089,Trigo,2017,Corrientes,Bs As,0.00047
+1090,Trigo,2016,Corrientes,Rosario N,0.00045809
+1091,Trigo,2017,Corrientes,Rosario N,0.00012
+1092,Trigo,2018,Corrientes,Rosario N,0.0005838999999999999
+1093,Trigo,2019,Corrientes,Rosario N,0.001
+1094,Trigo,2017,Corrientes,Rosario S,0.001473
+1095,Trigo,2019,Corrientes,Rosario S,3e-05
+1096,Trigo,2015,Corrientes,Zona 13,0.001736
+1097,Trigo,2018,Corrientes,Zona 13,0.00250907
+1098,Trigo,2016,Corrientes,Zona 17,0.004
+1099,Trigo,2017,Corrientes,Zona 17,0.00195003
+1100,Trigo,2018,Corrientes,Zona 17,0.00018
+1101,Trigo,2015,Corrientes,Zona 18,0.00065
+1102,Trigo,2015,Corrientes,Zona 5,6e-05
+1103,Trigo,2015,Corrientes,Zona 9,0.00033053
+1104,Trigo,2016,Corrientes,Zona 9,0.00011805
+1105,Trigo,2017,Corrientes,Zona 9,0.00063
+1106,Trigo,2018,Corrientes,Zona 9,4.167e-05
+1107,Maiz,2015,Córdoba,B.Blanca,0.058669030000000004
+1108,Maiz,2016,Córdoba,B.Blanca,0.01358792
+1109,Maiz,2017,Córdoba,B.Blanca,0.029169890000000004
+1110,Maiz,2018,Córdoba,B.Blanca,0.02316827
+1111,Maiz,2019,Córdoba,B.Blanca,0.23878325
+1112,Maiz,2020,Córdoba,B.Blanca,0.034632
+1113,Maiz,2015,Córdoba,Bs As,0.0073582299999999995
+1114,Maiz,2016,Córdoba,Bs As,0.00101756
+1115,Maiz,2017,Córdoba,Bs As,0.00767949
+1116,Maiz,2018,Córdoba,Bs As,0.00306
+1117,Maiz,2019,Córdoba,Bs As,0.000422
+1118,Maiz,2020,Córdoba,Bs As,9e-05
+1119,Maiz,2015,Córdoba,Cordoba,0.36344069999999995
+1120,Maiz,2016,Córdoba,Cordoba,0.38264729000000003
+1121,Maiz,2017,Córdoba,Cordoba,0.35490279
+1122,Maiz,2018,Córdoba,Cordoba,0.37672844000000005
+1123,Maiz,2019,Córdoba,Cordoba,0.48027989
+1124,Maiz,2020,Córdoba,Cordoba,0.0373656
+1125,Maiz,2021,Córdoba,Cordoba,0.0014663299999999998
+1126,Maiz,2016,Córdoba,Quequen,0.00015
+1127,Maiz,2017,Córdoba,Quequen,0.00011784000000000001
+1128,Maiz,2018,Córdoba,Quequen,0.0003
+1129,Maiz,2019,Córdoba,Quequen,0.003837
+1130,Maiz,2020,Córdoba,Quequen,0.002
+1131,Maiz,2015,Córdoba,Resto del País,0.01129
+1132,Maiz,2016,Córdoba,Resto del País,0.01392
+1133,Maiz,2017,Córdoba,Resto del País,0.01180395
+1134,Maiz,2018,Córdoba,Resto del País,0.00161
+1135,Maiz,2019,Córdoba,Resto del País,0.00507
+1136,Maiz,2015,Córdoba,Rosario N,2.0877191200000005
+1137,Maiz,2016,Córdoba,Rosario N,3.012363780000001
+1138,Maiz,2017,Córdoba,Rosario N,3.3441862199999988
+1139,Maiz,2018,Córdoba,Rosario N,3.023839790000002
+1140,Maiz,2019,Córdoba,Rosario N,4.84635209
+1141,Maiz,2020,Córdoba,Rosario N,2.21263226
+1142,Maiz,2022,Córdoba,Rosario N,0.0002
+1143,Maiz,2015,Córdoba,Rosario S,1.3586237000000003
+1144,Maiz,2016,Córdoba,Rosario S,2.05848974
+1145,Maiz,2017,Córdoba,Rosario S,2.4292581
+1146,Maiz,2018,Córdoba,Rosario S,2.5672348500000006
+1147,Maiz,2019,Córdoba,Rosario S,3.2554326300000005
+1148,Maiz,2020,Córdoba,Rosario S,1.03255887
+1149,Maiz,2022,Córdoba,Rosario S,0.001
+1150,Maiz,2015,Córdoba,Zona 1,0.0007669199999999999
+1151,Maiz,2016,Córdoba,Zona 1,0.00034357
+1152,Maiz,2017,Córdoba,Zona 1,0.0007508100000000001
+1153,Maiz,2018,Córdoba,Zona 1,0.0015724799999999998
+1154,Maiz,2019,Córdoba,Zona 1,0.0052920300000000005
+1155,Maiz,2015,Córdoba,Zona 10,0.21671605999999996
+1156,Maiz,2016,Córdoba,Zona 10,0.15598784999999998
+1157,Maiz,2017,Córdoba,Zona 10,0.29399284000000003
+1158,Maiz,2018,Córdoba,Zona 10,0.25348527
+1159,Maiz,2019,Córdoba,Zona 10,0.28697455
+1160,Maiz,2020,Córdoba,Zona 10,0.02130503
+1161,Maiz,2015,Córdoba,Zona 11,0.2711404
+1162,Maiz,2016,Córdoba,Zona 11,0.28391073999999994
+1163,Maiz,2017,Córdoba,Zona 11,0.28235456
+1164,Maiz,2018,Córdoba,Zona 11,0.25546174999999993
+1165,Maiz,2019,Córdoba,Zona 11,0.397244
+1166,Maiz,2020,Córdoba,Zona 11,0.07778029
+1167,Maiz,2015,Córdoba,Zona 12,0.26973963999999995
+1168,Maiz,2016,Córdoba,Zona 12,0.35035287
+1169,Maiz,2017,Córdoba,Zona 12,0.48749174999999983
+1170,Maiz,2018,Córdoba,Zona 12,0.24126848999999997
+1171,Maiz,2019,Córdoba,Zona 12,0.32203986000000007
+1172,Maiz,2020,Córdoba,Zona 12,0.10964
+1173,Maiz,2015,Córdoba,Zona 13,0.10309090000000001
+1174,Maiz,2016,Córdoba,Zona 13,0.07994349000000002
+1175,Maiz,2017,Córdoba,Zona 13,0.06317523
+1176,Maiz,2018,Córdoba,Zona 13,0.07114637
+1177,Maiz,2019,Córdoba,Zona 13,0.04781499999999999
+1178,Maiz,2020,Córdoba,Zona 13,0.0033
+1179,Maiz,2015,Córdoba,Zona 14,0.16631988000000003
+1180,Maiz,2016,Córdoba,Zona 14,0.27563147
+1181,Maiz,2017,Córdoba,Zona 14,0.31067246000000004
+1182,Maiz,2018,Córdoba,Zona 14,0.17679643000000003
+1183,Maiz,2019,Córdoba,Zona 14,0.20013653000000003
+1184,Maiz,2020,Córdoba,Zona 14,0.0370446
+1185,Maiz,2015,Córdoba,Zona 15,0.0010306500000000004
+1186,Maiz,2016,Córdoba,Zona 15,0.00117493
+1187,Maiz,2017,Córdoba,Zona 15,0.00365276
+1188,Maiz,2018,Córdoba,Zona 15,0.009042719999999999
+1189,Maiz,2019,Córdoba,Zona 15,0.00223886
+1190,Maiz,2020,Córdoba,Zona 15,0.0005
+1191,Maiz,2015,Córdoba,Zona 16,0.00105693
+1192,Maiz,2016,Córdoba,Zona 16,0.006625
+1193,Maiz,2017,Córdoba,Zona 16,0.00402304
+1194,Maiz,2018,Córdoba,Zona 16,0.00035528
+1195,Maiz,2019,Córdoba,Zona 16,0.00021
+1196,Maiz,2015,Córdoba,Zona 17,0.046
+1197,Maiz,2018,Córdoba,Zona 17,0.00015
+1198,Maiz,2019,Córdoba,Zona 17,0.014
+1199,Maiz,2020,Córdoba,Zona 17,0.00543
+1200,Maiz,2015,Córdoba,Zona 18,0.13296622000000002
+1201,Maiz,2016,Córdoba,Zona 18,0.05380722000000001
+1202,Maiz,2017,Córdoba,Zona 18,0.07131733000000001
+1203,Maiz,2018,Córdoba,Zona 18,0.07464171999999998
+1204,Maiz,2019,Córdoba,Zona 18,0.02615597
+1205,Maiz,2020,Córdoba,Zona 18,0.00036
+1206,Maiz,2015,Córdoba,Zona 2,0.00253
+1207,Maiz,2016,Córdoba,Zona 2,0.004247600000000001
+1208,Maiz,2017,Córdoba,Zona 2,0.0011277999999999998
+1209,Maiz,2018,Córdoba,Zona 2,0.001
+1210,Maiz,2019,Córdoba,Zona 2,0.00619425
+1211,Maiz,2020,Córdoba,Zona 2,9e-05
+1212,Maiz,2015,Córdoba,Zona 3,0.001
+1213,Maiz,2019,Córdoba,Zona 3,6e-05
+1214,Maiz,2015,Córdoba,Zona 4,0.00186
+1215,Maiz,2016,Córdoba,Zona 4,0.00212
+1216,Maiz,2017,Córdoba,Zona 4,0.00010193000000000001
+1217,Maiz,2020,Córdoba,Zona 4,0.001
+1218,Maiz,2015,Córdoba,Zona 5,0.0529034
+1219,Maiz,2016,Córdoba,Zona 5,0.10023968
+1220,Maiz,2017,Córdoba,Zona 5,0.0180049
+1221,Maiz,2018,Córdoba,Zona 5,0.01543077
+1222,Maiz,2019,Córdoba,Zona 5,0.046703020000000005
+1223,Maiz,2020,Córdoba,Zona 5,0.00065
+1224,Maiz,2015,Córdoba,Zona 6,0.058670509999999995
+1225,Maiz,2016,Córdoba,Zona 6,0.025013880000000002
+1226,Maiz,2017,Córdoba,Zona 6,0.014636169999999999
+1227,Maiz,2018,Córdoba,Zona 6,0.01563826
+1228,Maiz,2019,Córdoba,Zona 6,0.01790551
+1229,Maiz,2020,Córdoba,Zona 6,0.00304
+1230,Maiz,2015,Córdoba,Zona 7,0.019702310000000004
+1231,Maiz,2016,Córdoba,Zona 7,0.027702759999999996
+1232,Maiz,2017,Córdoba,Zona 7,0.00555162
+1233,Maiz,2018,Córdoba,Zona 7,0.026394780000000003
+1234,Maiz,2019,Córdoba,Zona 7,0.021022649999999997
+1235,Maiz,2020,Córdoba,Zona 7,0.00745573
+1236,Maiz,2015,Córdoba,Zona 8,0.89448057
+1237,Maiz,2016,Córdoba,Zona 8,0.9101931000000002
+1238,Maiz,2017,Córdoba,Zona 8,0.9480431099999999
+1239,Maiz,2018,Córdoba,Zona 8,0.9222673199999998
+1240,Maiz,2019,Córdoba,Zona 8,0.9682401299999999
+1241,Maiz,2020,Córdoba,Zona 8,0.14766993
+1242,Maiz,2015,Córdoba,Zona 9,1.2000624100000001
+1243,Maiz,2016,Córdoba,Zona 9,1.32519053
+1244,Maiz,2017,Córdoba,Zona 9,1.22778026
+1245,Maiz,2018,Córdoba,Zona 9,1.2916568799999997
+1246,Maiz,2019,Córdoba,Zona 9,1.2807481399999996
+1247,Maiz,2020,Córdoba,Zona 9,0.067927
+1248,Soja,2015,Córdoba,B.Blanca,0.02261679
+1249,Soja,2016,Córdoba,B.Blanca,0.02881762
+1250,Soja,2017,Córdoba,B.Blanca,0.0041805
+1251,Soja,2018,Córdoba,B.Blanca,0.01108
+1252,Soja,2019,Córdoba,B.Blanca,0.01019549
+1253,Soja,2020,Córdoba,B.Blanca,0.00362
+1254,Soja,2015,Córdoba,Bs As,0.00193147
+1255,Soja,2016,Córdoba,Bs As,0.00030014
+1256,Soja,2017,Córdoba,Bs As,0.000745
+1257,Soja,2018,Córdoba,Bs As,0.00024466
+1258,Soja,2019,Córdoba,Bs As,0.00020800999999999998
+1259,Soja,2015,Córdoba,Cordoba,0.5384930900000002
+1260,Soja,2016,Córdoba,Cordoba,0.46037938
+1261,Soja,2017,Córdoba,Cordoba,0.3621533699999999
+1262,Soja,2018,Córdoba,Cordoba,0.2023579799999999
+1263,Soja,2019,Córdoba,Cordoba,0.4097031200000001
+1264,Soja,2020,Córdoba,Cordoba,0.03776109
+1265,Soja,2015,Córdoba,Quequen,0.00073626
+1266,Soja,2016,Córdoba,Quequen,0.00587
+1267,Soja,2017,Córdoba,Quequen,0.00018
+1268,Soja,2018,Córdoba,Quequen,0.00818253
+1269,Soja,2019,Córdoba,Quequen,0.00038887
+1270,Soja,2015,Córdoba,Resto del País,0.00558845
+1271,Soja,2016,Córdoba,Resto del País,0.00024
+1272,Soja,2017,Córdoba,Resto del País,0.00013890000000000002
+1273,Soja,2018,Córdoba,Resto del País,7.887000000000001e-05
+1274,Soja,2019,Córdoba,Resto del País,0.00036
+1275,Soja,2015,Córdoba,Rosario N,5.48731478
+1276,Soja,2016,Córdoba,Rosario N,5.57483046
+1277,Soja,2017,Córdoba,Rosario N,4.103303540000001
+1278,Soja,2018,Córdoba,Rosario N,3.615202559999997
+1279,Soja,2019,Córdoba,Rosario N,4.644286629999998
+1280,Soja,2020,Córdoba,Rosario N,1.3352663200000001
+1281,Soja,2021,Córdoba,Rosario N,0.000866
+1282,Soja,2015,Córdoba,Rosario S,1.3782268400000002
+1283,Soja,2016,Córdoba,Rosario S,1.5243493799999996
+1284,Soja,2017,Córdoba,Rosario S,1.8002655400000005
+1285,Soja,2018,Córdoba,Rosario S,1.0694211999999998
+1286,Soja,2019,Córdoba,Rosario S,1.4449668699999996
+1287,Soja,2020,Córdoba,Rosario S,0.26991423
+1288,Soja,2015,Córdoba,Zona 1,0.000146
+1289,Soja,2016,Córdoba,Zona 1,0.0011575
+1290,Soja,2017,Córdoba,Zona 1,0.0012857400000000003
+1291,Soja,2018,Córdoba,Zona 1,0.0020215800000000003
+1292,Soja,2019,Córdoba,Zona 1,0.0024160500000000003
+1293,Soja,2015,Córdoba,Zona 10,0.2691234199999999
+1294,Soja,2016,Córdoba,Zona 10,0.1834775199999999
+1295,Soja,2017,Córdoba,Zona 10,0.10373921
+1296,Soja,2018,Córdoba,Zona 10,0.09918888999999999
+1297,Soja,2019,Córdoba,Zona 10,0.20967075000000002
+1298,Soja,2020,Córdoba,Zona 10,0.025856979999999998
+1299,Soja,2015,Córdoba,Zona 11,1.0398646899999997
+1300,Soja,2016,Córdoba,Zona 11,0.9146532
+1301,Soja,2017,Córdoba,Zona 11,0.6157063800000001
+1302,Soja,2018,Córdoba,Zona 11,0.3468668499999999
+1303,Soja,2019,Córdoba,Zona 11,0.6692488899999995
+1304,Soja,2020,Córdoba,Zona 11,0.02430723
+1305,Soja,2015,Córdoba,Zona 12,0.3961418099999999
+1306,Soja,2016,Córdoba,Zona 12,0.3425569000000001
+1307,Soja,2017,Córdoba,Zona 12,0.45405152
+1308,Soja,2018,Córdoba,Zona 12,0.29572951999999997
+1309,Soja,2019,Córdoba,Zona 12,0.17198178000000003
+1310,Soja,2020,Córdoba,Zona 12,0.024309
+1311,Soja,2015,Córdoba,Zona 13,0.00039
+1312,Soja,2016,Córdoba,Zona 13,0.008037019999999999
+1313,Soja,2017,Córdoba,Zona 13,0.00428344
+1314,Soja,2018,Córdoba,Zona 13,0.07261692000000003
+1315,Soja,2019,Córdoba,Zona 13,0.00733864
+1316,Soja,2020,Córdoba,Zona 13,5.6e-05
+1317,Soja,2015,Córdoba,Zona 14,0.21227362
+1318,Soja,2016,Córdoba,Zona 14,0.22446914000000004
+1319,Soja,2017,Córdoba,Zona 14,0.17850662999999997
+1320,Soja,2018,Córdoba,Zona 14,0.11091716000000001
+1321,Soja,2019,Córdoba,Zona 14,0.05043571
+1322,Soja,2020,Córdoba,Zona 14,0.02276
+1323,Soja,2015,Córdoba,Zona 15,0.00110665
+1324,Soja,2016,Córdoba,Zona 15,0.00483148
+1325,Soja,2017,Córdoba,Zona 15,0.007841629999999999
+1326,Soja,2018,Córdoba,Zona 15,0.00520767
+1327,Soja,2019,Córdoba,Zona 15,0.007349370000000001
+1328,Soja,2015,Córdoba,Zona 16,0.000268
+1329,Soja,2016,Córdoba,Zona 16,0.0031236799999999998
+1330,Soja,2017,Córdoba,Zona 16,0.00239796
+1331,Soja,2018,Córdoba,Zona 16,0.0007177
+1332,Soja,2019,Córdoba,Zona 16,0.00021
+1333,Soja,2015,Córdoba,Zona 17,0.02203
+1334,Soja,2016,Córdoba,Zona 17,0.038910639999999996
+1335,Soja,2017,Córdoba,Zona 17,0.024826559999999998
+1336,Soja,2018,Córdoba,Zona 17,0.00356406
+1337,Soja,2019,Córdoba,Zona 17,0.0010411300000000001
+1338,Soja,2015,Córdoba,Zona 18,0.0251155
+1339,Soja,2016,Córdoba,Zona 18,0.03499911
+1340,Soja,2017,Córdoba,Zona 18,0.05775549000000001
+1341,Soja,2018,Córdoba,Zona 18,0.00947216
+1342,Soja,2019,Córdoba,Zona 18,0.006919250000000001
+1343,Soja,2020,Córdoba,Zona 18,3e-05
+1344,Soja,2016,Córdoba,Zona 2,0.00137
+1345,Soja,2018,Córdoba,Zona 2,0.00021
+1346,Soja,2019,Córdoba,Zona 2,0.00069
+1347,Soja,2019,Córdoba,Zona 3,4.8700000000000005e-05
+1348,Soja,2015,Córdoba,Zona 4,6e-05
+1349,Soja,2019,Córdoba,Zona 4,0.00038841
+1350,Soja,2015,Córdoba,Zona 5,0.0020790500000000003
+1351,Soja,2016,Córdoba,Zona 5,0.09483384
+1352,Soja,2017,Córdoba,Zona 5,0.0136385
+1353,Soja,2018,Córdoba,Zona 5,0.00033032
+1354,Soja,2019,Córdoba,Zona 5,0.0060989899999999994
+1355,Soja,2015,Córdoba,Zona 6,0.0030991699999999996
+1356,Soja,2016,Córdoba,Zona 6,0.00345496
+1357,Soja,2017,Córdoba,Zona 6,0.00674232
+1358,Soja,2018,Córdoba,Zona 6,0.00123196
+1359,Soja,2019,Córdoba,Zona 6,0.00221603
+1360,Soja,2020,Córdoba,Zona 6,0.00031
+1361,Soja,2015,Córdoba,Zona 7,0.03827306
+1362,Soja,2016,Córdoba,Zona 7,0.031852500000000006
+1363,Soja,2017,Córdoba,Zona 7,0.0075372799999999995
+1364,Soja,2018,Córdoba,Zona 7,0.014005849999999999
+1365,Soja,2019,Córdoba,Zona 7,0.02051774
+1366,Soja,2020,Córdoba,Zona 7,0.0012463399999999999
+1367,Soja,2015,Córdoba,Zona 8,0.8911903899999999
+1368,Soja,2016,Córdoba,Zona 8,0.81135872
+1369,Soja,2017,Córdoba,Zona 8,0.7014724099999999
+1370,Soja,2018,Córdoba,Zona 8,0.5205997900000001
+1371,Soja,2019,Córdoba,Zona 8,0.64674429
+1372,Soja,2020,Córdoba,Zona 8,0.05237369
+1373,Soja,2015,Córdoba,Zona 9,2.3893620399999995
+1374,Soja,2016,Córdoba,Zona 9,2.2012856700000003
+1375,Soja,2017,Córdoba,Zona 9,1.8609349899999998
+1376,Soja,2018,Córdoba,Zona 9,1.6815391899999996
+1377,Soja,2019,Córdoba,Zona 9,2.41905355
+1378,Soja,2020,Córdoba,Zona 9,0.08838373000000001
+1379,Trigo,2015,Córdoba,B.Blanca,0.00257863
+1380,Trigo,2016,Córdoba,B.Blanca,0.00650004
+1381,Trigo,2017,Córdoba,B.Blanca,0.001748
+1382,Trigo,2018,Córdoba,B.Blanca,0.00217967
+1383,Trigo,2019,Córdoba,B.Blanca,0.00587485
+1384,Trigo,2020,Córdoba,B.Blanca,0.00677
+1385,Trigo,2015,Córdoba,Bs As,0.021131090000000005
+1386,Trigo,2016,Córdoba,Bs As,0.01333188
+1387,Trigo,2017,Córdoba,Bs As,0.030449660000000003
+1388,Trigo,2018,Córdoba,Bs As,0.029068059999999996
+1389,Trigo,2019,Córdoba,Bs As,0.00850014
+1390,Trigo,2020,Córdoba,Bs As,0.00052
+1391,Trigo,2015,Córdoba,Cordoba,0.25084685
+1392,Trigo,2016,Córdoba,Cordoba,0.32380219999999993
+1393,Trigo,2017,Córdoba,Cordoba,0.29458707000000006
+1394,Trigo,2018,Córdoba,Cordoba,0.22248828000000004
+1395,Trigo,2019,Córdoba,Cordoba,0.26512912
+1396,Trigo,2020,Córdoba,Cordoba,0.00989
+1397,Trigo,2015,Córdoba,Quequen,7.2e-05
+1398,Trigo,2016,Córdoba,Quequen,0.0020499
+1399,Trigo,2017,Córdoba,Quequen,0.0006
+1400,Trigo,2018,Córdoba,Quequen,0.00045
+1401,Trigo,2019,Córdoba,Quequen,0.0026
+1402,Trigo,2020,Córdoba,Quequen,0.00027
+1403,Trigo,2017,Córdoba,Resto del País,0.00013083000000000002
+1404,Trigo,2015,Córdoba,Rosario N,0.37479038
+1405,Trigo,2016,Córdoba,Rosario N,0.6506321500000002
+1406,Trigo,2017,Córdoba,Rosario N,1.02973675
+1407,Trigo,2018,Córdoba,Rosario N,1.0886276799999997
+1408,Trigo,2019,Córdoba,Rosario N,0.8963173200000002
+1409,Trigo,2020,Córdoba,Rosario N,0.31339845
+1410,Trigo,2015,Córdoba,Rosario S,1.12585151
+1411,Trigo,2016,Córdoba,Rosario S,0.50001367
+1412,Trigo,2017,Córdoba,Rosario S,0.6667482899999999
+1413,Trigo,2018,Córdoba,Rosario S,0.6787176300000001
+1414,Trigo,2019,Córdoba,Rosario S,0.5367560499999998
+1415,Trigo,2020,Córdoba,Rosario S,0.168031
+1416,Trigo,2021,Córdoba,Rosario S,0.000838
+1417,Trigo,2018,Córdoba,Zona 1,0.00061373
+1418,Trigo,2019,Córdoba,Zona 1,0.00010729000000000001
+1419,Trigo,2015,Córdoba,Zona 10,0.024954410000000007
+1420,Trigo,2016,Córdoba,Zona 10,0.007688960000000002
+1421,Trigo,2017,Córdoba,Zona 10,0.03854040999999999
+1422,Trigo,2018,Córdoba,Zona 10,0.010497649999999996
+1423,Trigo,2019,Córdoba,Zona 10,0.019816699999999996
+1424,Trigo,2020,Córdoba,Zona 10,0.00062
+1425,Trigo,2015,Córdoba,Zona 11,0.12309869
+1426,Trigo,2016,Córdoba,Zona 11,0.14431878
+1427,Trigo,2017,Córdoba,Zona 11,0.12259201999999997
+1428,Trigo,2018,Córdoba,Zona 11,0.10188489
+1429,Trigo,2019,Córdoba,Zona 11,0.1063874
+1430,Trigo,2020,Córdoba,Zona 11,0.01727757
+1431,Trigo,2015,Córdoba,Zona 12,0.054619089999999995
+1432,Trigo,2016,Córdoba,Zona 12,0.23172589999999998
+1433,Trigo,2017,Córdoba,Zona 12,0.19793453000000003
+1434,Trigo,2018,Córdoba,Zona 12,0.10459791000000002
+1435,Trigo,2019,Córdoba,Zona 12,0.11364142000000002
+1436,Trigo,2020,Córdoba,Zona 12,0.035268
+1437,Trigo,2015,Córdoba,Zona 13,0.00051698
+1438,Trigo,2016,Córdoba,Zona 13,0.00105
+1439,Trigo,2017,Córdoba,Zona 13,0.0021762200000000004
+1440,Trigo,2018,Córdoba,Zona 13,0.00347708
+1441,Trigo,2019,Córdoba,Zona 13,0.001135
+1442,Trigo,2015,Córdoba,Zona 14,0.13977633999999997
+1443,Trigo,2016,Córdoba,Zona 14,0.07238807000000001
+1444,Trigo,2017,Córdoba,Zona 14,0.08005721999999997
+1445,Trigo,2018,Córdoba,Zona 14,0.07523903000000001
+1446,Trigo,2019,Córdoba,Zona 14,0.03565022000000002
+1447,Trigo,2020,Córdoba,Zona 14,0.01297
+1448,Trigo,2021,Córdoba,Zona 14,0.0003
+1449,Trigo,2016,Córdoba,Zona 15,6e-05
+1450,Trigo,2017,Córdoba,Zona 15,0.00015
+1451,Trigo,2018,Córdoba,Zona 15,0.00034
+1452,Trigo,2019,Córdoba,Zona 15,0.0005223
+1453,Trigo,2015,Córdoba,Zona 16,0.0008365099999999999
+1454,Trigo,2016,Córdoba,Zona 16,0.005007
+1455,Trigo,2017,Córdoba,Zona 16,0.00322
+1456,Trigo,2018,Córdoba,Zona 16,0.00591455
+1457,Trigo,2019,Córdoba,Zona 16,0.0084566
+1458,Trigo,2015,Córdoba,Zona 17,0.00100442
+1459,Trigo,2016,Córdoba,Zona 17,0.00239325
+1460,Trigo,2017,Córdoba,Zona 17,0.00651204
+1461,Trigo,2018,Córdoba,Zona 17,0.00156656
+1462,Trigo,2019,Córdoba,Zona 17,0.00639508
+1463,Trigo,2015,Córdoba,Zona 18,0.00403941
+1464,Trigo,2016,Córdoba,Zona 18,0.01521545
+1465,Trigo,2017,Córdoba,Zona 18,0.015409739999999998
+1466,Trigo,2018,Córdoba,Zona 18,0.004853980000000001
+1467,Trigo,2019,Córdoba,Zona 18,0.00170978
+1468,Trigo,2020,Córdoba,Zona 18,6e-05
+1469,Trigo,2016,Córdoba,Zona 2,0.00042
+1470,Trigo,2017,Córdoba,Zona 2,0.00152
+1471,Trigo,2018,Córdoba,Zona 2,0.000237
+1472,Trigo,2019,Córdoba,Zona 2,0.00011478
+1473,Trigo,2015,Córdoba,Zona 3,0.00017526
+1474,Trigo,2016,Córdoba,Zona 3,0.0028
+1475,Trigo,2015,Córdoba,Zona 4,0.00063
+1476,Trigo,2016,Córdoba,Zona 4,6e-05
+1477,Trigo,2019,Córdoba,Zona 4,0.00042
+1478,Trigo,2015,Córdoba,Zona 5,0.03231418999999999
+1479,Trigo,2016,Córdoba,Zona 5,0.018593239999999997
+1480,Trigo,2017,Córdoba,Zona 5,0.016569080000000003
+1481,Trigo,2018,Córdoba,Zona 5,0.0051046
+1482,Trigo,2019,Córdoba,Zona 5,0.00466324
+1483,Trigo,2015,Córdoba,Zona 6,0.05423312
+1484,Trigo,2016,Córdoba,Zona 6,0.03552185000000001
+1485,Trigo,2017,Córdoba,Zona 6,0.016559169999999998
+1486,Trigo,2018,Córdoba,Zona 6,0.0086599
+1487,Trigo,2019,Córdoba,Zona 6,0.011408409999999999
+1488,Trigo,2020,Córdoba,Zona 6,0.0009
+1489,Trigo,2015,Córdoba,Zona 7,0.0255146
+1490,Trigo,2016,Córdoba,Zona 7,0.026003239999999997
+1491,Trigo,2017,Córdoba,Zona 7,0.01430409
+1492,Trigo,2018,Córdoba,Zona 7,0.022128779999999994
+1493,Trigo,2019,Córdoba,Zona 7,0.014723739999999996
+1494,Trigo,2020,Córdoba,Zona 7,0.001075
+1495,Trigo,2015,Córdoba,Zona 8,0.4438586400000002
+1496,Trigo,2016,Córdoba,Zona 8,0.4524511400000001
+1497,Trigo,2017,Córdoba,Zona 8,0.47307303
+1498,Trigo,2018,Córdoba,Zona 8,0.4182290000000001
+1499,Trigo,2019,Córdoba,Zona 8,0.38770236999999985
+1500,Trigo,2020,Córdoba,Zona 8,0.019516099999999998
+1501,Trigo,2015,Córdoba,Zona 9,0.7640066299999999
+1502,Trigo,2016,Córdoba,Zona 9,1.1071009900000002
+1503,Trigo,2017,Córdoba,Zona 9,0.5710639099999999
+1504,Trigo,2018,Córdoba,Zona 9,0.44098979999999993
+1505,Trigo,2019,Córdoba,Zona 9,0.4622567600000001
+1506,Trigo,2020,Córdoba,Zona 9,0.017815
+1507,Maiz,2016,Entre Ríos,B.Blanca,0.00081
+1508,Maiz,2017,Entre Ríos,B.Blanca,0.00048314
+1509,Maiz,2015,Entre Ríos,Bs As,0.0016
+1510,Maiz,2016,Entre Ríos,Bs As,5.445e-05
+1511,Maiz,2017,Entre Ríos,Bs As,0.0007819200000000001
+1512,Maiz,2018,Entre Ríos,Bs As,0.0002
+1513,Maiz,2017,Entre Ríos,Cordoba,0.00012
+1514,Maiz,2016,Entre Ríos,Quequen,0.000544
+1515,Maiz,2017,Entre Ríos,Quequen,8.781e-05
+1516,Maiz,2015,Entre Ríos,Resto del País,9e-05
+1517,Maiz,2015,Entre Ríos,Rosario N,0.0885908
+1518,Maiz,2016,Entre Ríos,Rosario N,0.15753192
+1519,Maiz,2017,Entre Ríos,Rosario N,0.15081345999999998
+1520,Maiz,2018,Entre Ríos,Rosario N,0.09705344000000002
+1521,Maiz,2019,Entre Ríos,Rosario N,0.50424579
+1522,Maiz,2020,Entre Ríos,Rosario N,0.230431
+1523,Maiz,2015,Entre Ríos,Rosario S,0.07178176000000003
+1524,Maiz,2016,Entre Ríos,Rosario S,0.13348020999999996
+1525,Maiz,2017,Entre Ríos,Rosario S,0.09423893000000003
+1526,Maiz,2018,Entre Ríos,Rosario S,0.10843035999999999
+1527,Maiz,2019,Entre Ríos,Rosario S,0.32071563000000003
+1528,Maiz,2020,Entre Ríos,Rosario S,0.129495
+1529,Maiz,2016,Entre Ríos,Zona 10,2.144e-05
+1530,Maiz,2019,Entre Ríos,Zona 10,0.00071
+1531,Maiz,2017,Entre Ríos,Zona 11,3.275e-05
+1532,Maiz,2019,Entre Ríos,Zona 11,0.0006
+1533,Maiz,2015,Entre Ríos,Zona 12,0.01782717
+1534,Maiz,2016,Entre Ríos,Zona 12,0.019647
+1535,Maiz,2017,Entre Ríos,Zona 12,0.02991757
+1536,Maiz,2018,Entre Ríos,Zona 12,0.00456488
+1537,Maiz,2019,Entre Ríos,Zona 12,0.01959414
+1538,Maiz,2020,Entre Ríos,Zona 12,0.013852
+1539,Maiz,2015,Entre Ríos,Zona 13,0.6427859199999998
+1540,Maiz,2016,Entre Ríos,Zona 13,0.5711933800000001
+1541,Maiz,2017,Entre Ríos,Zona 13,0.8760542900000001
+1542,Maiz,2018,Entre Ríos,Zona 13,0.64594752
+1543,Maiz,2019,Entre Ríos,Zona 13,0.7640998699999999
+1544,Maiz,2020,Entre Ríos,Zona 13,0.058664
+1545,Maiz,2015,Entre Ríos,Zona 14,0.00599246
+1546,Maiz,2016,Entre Ríos,Zona 14,0.04403576
+1547,Maiz,2017,Entre Ríos,Zona 14,0.0161806
+1548,Maiz,2018,Entre Ríos,Zona 14,0.02825362
+1549,Maiz,2019,Entre Ríos,Zona 14,0.02116498
+1550,Maiz,2020,Entre Ríos,Zona 14,0.00506
+1551,Maiz,2018,Entre Ríos,Zona 15,3e-05
+1552,Maiz,2015,Entre Ríos,Zona 16,0.0009551900000000001
+1553,Maiz,2015,Entre Ríos,Zona 18,0.18830074
+1554,Maiz,2016,Entre Ríos,Zona 18,0.21061753
+1555,Maiz,2017,Entre Ríos,Zona 18,0.22829075
+1556,Maiz,2018,Entre Ríos,Zona 18,0.20826012
+1557,Maiz,2019,Entre Ríos,Zona 18,0.29954411999999997
+1558,Maiz,2020,Entre Ríos,Zona 18,0.017725150000000002
+1559,Maiz,2016,Entre Ríos,Zona 2,0.0003
+1560,Maiz,2018,Entre Ríos,Zona 2,0.00537058
+1561,Maiz,2017,Entre Ríos,Zona 4,0.00030648000000000003
+1562,Maiz,2015,Entre Ríos,Zona 5,0.01029068
+1563,Maiz,2016,Entre Ríos,Zona 5,0.003305
+1564,Maiz,2017,Entre Ríos,Zona 5,0.0411701
+1565,Maiz,2018,Entre Ríos,Zona 5,0.01905714
+1566,Maiz,2019,Entre Ríos,Zona 5,0.05200217000000001
+1567,Maiz,2020,Entre Ríos,Zona 5,0.01704
+1568,Maiz,2015,Entre Ríos,Zona 6,0.0011952
+1569,Maiz,2016,Entre Ríos,Zona 6,0.00803345
+1570,Maiz,2017,Entre Ríos,Zona 6,0.00242114
+1571,Maiz,2018,Entre Ríos,Zona 6,0.00042
+1572,Maiz,2019,Entre Ríos,Zona 6,0.01919664
+1573,Maiz,2015,Entre Ríos,Zona 7,0.00014718
+1574,Maiz,2016,Entre Ríos,Zona 7,0.00012868
+1575,Maiz,2018,Entre Ríos,Zona 7,0.00011664
+1576,Maiz,2015,Entre Ríos,Zona 8,0.00258777
+1577,Maiz,2016,Entre Ríos,Zona 8,0.00310998
+1578,Maiz,2017,Entre Ríos,Zona 8,0.0002
+1579,Maiz,2018,Entre Ríos,Zona 8,0.00054108
+1580,Maiz,2019,Entre Ríos,Zona 8,6e-05
+1581,Maiz,2015,Entre Ríos,Zona 9,0.00083591
+1582,Maiz,2016,Entre Ríos,Zona 9,0.006207299999999999
+1583,Maiz,2017,Entre Ríos,Zona 9,0.00256
+1584,Maiz,2018,Entre Ríos,Zona 9,4e-05
+1585,Maiz,2019,Entre Ríos,Zona 9,0.00051091
+1586,Soja,2015,Entre Ríos,B.Blanca,0.00181
+1587,Soja,2017,Entre Ríos,B.Blanca,0.00102
+1588,Soja,2015,Entre Ríos,Bs As,0.00044266000000000005
+1589,Soja,2016,Entre Ríos,Bs As,0.00026914999999999996
+1590,Soja,2015,Entre Ríos,Cordoba,0.00042
+1591,Soja,2016,Entre Ríos,Cordoba,0.00034114999999999997
+1592,Soja,2017,Entre Ríos,Cordoba,0.00035579000000000003
+1593,Soja,2018,Entre Ríos,Cordoba,2.5e-05
+1594,Soja,2015,Entre Ríos,Quequen,0.0003
+1595,Soja,2016,Entre Ríos,Quequen,0.000208
+1596,Soja,2017,Entre Ríos,Quequen,0.00098484
+1597,Soja,2015,Entre Ríos,Rosario N,1.05701134
+1598,Soja,2016,Entre Ríos,Rosario N,0.9667142900000004
+1599,Soja,2017,Entre Ríos,Rosario N,0.9449241899999999
+1600,Soja,2018,Entre Ríos,Rosario N,0.5061558700000001
+1601,Soja,2019,Entre Ríos,Rosario N,0.7014880899999999
+1602,Soja,2020,Entre Ríos,Rosario N,0.1872367
+1603,Soja,2015,Entre Ríos,Rosario S,0.29673371000000015
+1604,Soja,2016,Entre Ríos,Rosario S,0.23361771000000003
+1605,Soja,2017,Entre Ríos,Rosario S,0.24910197999999997
+1606,Soja,2018,Entre Ríos,Rosario S,0.11482384000000002
+1607,Soja,2019,Entre Ríos,Rosario S,0.33048812999999994
+1608,Soja,2020,Entre Ríos,Rosario S,0.0615302
+1609,Soja,2015,Entre Ríos,Zona 1,6.965e-05
+1610,Soja,2017,Entre Ríos,Zona 11,0.001
+1611,Soja,2019,Entre Ríos,Zona 11,3.18e-05
+1612,Soja,2015,Entre Ríos,Zona 12,0.08393508
+1613,Soja,2016,Entre Ríos,Zona 12,0.15790279000000002
+1614,Soja,2017,Entre Ríos,Zona 12,0.16426584
+1615,Soja,2018,Entre Ríos,Zona 12,0.03230301
+1616,Soja,2019,Entre Ríos,Zona 12,0.035072660000000005
+1617,Soja,2020,Entre Ríos,Zona 12,0.013669
+1618,Soja,2015,Entre Ríos,Zona 13,0.7849812199999999
+1619,Soja,2016,Entre Ríos,Zona 13,0.5638612700000001
+1620,Soja,2017,Entre Ríos,Zona 13,0.5736373300000002
+1621,Soja,2018,Entre Ríos,Zona 13,0.3001255499999999
+1622,Soja,2019,Entre Ríos,Zona 13,0.5008117199999998
+1623,Soja,2020,Entre Ríos,Zona 13,0.06122358
+1624,Soja,2015,Entre Ríos,Zona 14,0.045315039999999994
+1625,Soja,2016,Entre Ríos,Zona 14,0.037234550000000005
+1626,Soja,2017,Entre Ríos,Zona 14,0.03881591
+1627,Soja,2018,Entre Ríos,Zona 14,0.00744578
+1628,Soja,2019,Entre Ríos,Zona 14,0.01348041
+1629,Soja,2020,Entre Ríos,Zona 14,0.00146
+1630,Soja,2015,Entre Ríos,Zona 15,0.00022215
+1631,Soja,2018,Entre Ríos,Zona 16,6e-05
+1632,Soja,2019,Entre Ríos,Zona 16,6e-05
+1633,Soja,2020,Entre Ríos,Zona 16,6e-05
+1634,Soja,2016,Entre Ríos,Zona 17,0.00093865
+1635,Soja,2018,Entre Ríos,Zona 17,0.00024
+1636,Soja,2015,Entre Ríos,Zona 18,0.30456903
+1637,Soja,2016,Entre Ríos,Zona 18,0.21833175000000002
+1638,Soja,2017,Entre Ríos,Zona 18,0.2500003
+1639,Soja,2018,Entre Ríos,Zona 18,0.13321407999999996
+1640,Soja,2019,Entre Ríos,Zona 18,0.2525719900000001
+1641,Soja,2020,Entre Ríos,Zona 18,0.00204267
+1642,Soja,2018,Entre Ríos,Zona 2,3e-05
+1643,Soja,2017,Entre Ríos,Zona 3,6e-05
+1644,Soja,2015,Entre Ríos,Zona 4,0.00012
+1645,Soja,2015,Entre Ríos,Zona 5,0.01719122
+1646,Soja,2016,Entre Ríos,Zona 5,0.008540879999999999
+1647,Soja,2017,Entre Ríos,Zona 5,0.04134493
+1648,Soja,2018,Entre Ríos,Zona 5,0.025509880000000002
+1649,Soja,2019,Entre Ríos,Zona 5,0.014886030000000001
+1650,Soja,2020,Entre Ríos,Zona 5,0.014214
+1651,Soja,2015,Entre Ríos,Zona 6,0.00111092
+1652,Soja,2016,Entre Ríos,Zona 6,0.00399868
+1653,Soja,2017,Entre Ríos,Zona 6,0.00129835
+1654,Soja,2018,Entre Ríos,Zona 6,0.00024
+1655,Soja,2019,Entre Ríos,Zona 6,0.00014622
+1656,Soja,2020,Entre Ríos,Zona 6,0.00072
+1657,Soja,2015,Entre Ríos,Zona 7,0.0005642500000000001
+1658,Soja,2016,Entre Ríos,Zona 7,8.5e-05
+1659,Soja,2017,Entre Ríos,Zona 7,0.00345
+1660,Soja,2015,Entre Ríos,Zona 8,0.00330664
+1661,Soja,2016,Entre Ríos,Zona 8,0.007968880000000001
+1662,Soja,2017,Entre Ríos,Zona 8,0.0021473
+1663,Soja,2018,Entre Ríos,Zona 8,0.0003283
+1664,Soja,2019,Entre Ríos,Zona 8,0.00032366000000000003
+1665,Soja,2015,Entre Ríos,Zona 9,0.0038465199999999995
+1666,Soja,2016,Entre Ríos,Zona 9,0.00484108
+1667,Soja,2017,Entre Ríos,Zona 9,0.0008471600000000001
+1668,Soja,2018,Entre Ríos,Zona 9,0.00050574
+1669,Soja,2019,Entre Ríos,Zona 9,0.00055848
+1670,Trigo,2018,Entre Ríos,B.Blanca,0.0004
+1671,Trigo,2019,Entre Ríos,B.Blanca,0.0010298
+1672,Trigo,2015,Entre Ríos,Bs As,0.04209235000000001
+1673,Trigo,2016,Entre Ríos,Bs As,0.020977759999999998
+1674,Trigo,2017,Entre Ríos,Bs As,0.0128315
+1675,Trigo,2018,Entre Ríos,Bs As,0.03292711
+1676,Trigo,2019,Entre Ríos,Bs As,0.02260939
+1677,Trigo,2015,Entre Ríos,Cordoba,8.536e-05
+1678,Trigo,2017,Entre Ríos,Cordoba,3e-05
+1679,Trigo,2019,Entre Ríos,Cordoba,0.00044560000000000004
+1680,Trigo,2017,Entre Ríos,Quequen,0.00015
+1681,Trigo,2019,Entre Ríos,Quequen,0.0003
+1682,Trigo,2015,Entre Ríos,Rosario N,0.13070265000000003
+1683,Trigo,2016,Entre Ríos,Rosario N,0.20113806999999995
+1684,Trigo,2017,Entre Ríos,Rosario N,0.2309056
+1685,Trigo,2018,Entre Ríos,Rosario N,0.29501231
+1686,Trigo,2019,Entre Ríos,Rosario N,0.48223262000000006
+1687,Trigo,2020,Entre Ríos,Rosario N,0.133683
+1688,Trigo,2015,Entre Ríos,Rosario S,0.06837597
+1689,Trigo,2016,Entre Ríos,Rosario S,0.16232890999999997
+1690,Trigo,2017,Entre Ríos,Rosario S,0.14041192000000005
+1691,Trigo,2018,Entre Ríos,Rosario S,0.20027719000000002
+1692,Trigo,2019,Entre Ríos,Rosario S,0.21974778000000003
+1693,Trigo,2020,Entre Ríos,Rosario S,0.0404
+1694,Trigo,2021,Entre Ríos,Rosario S,0.00015
+1695,Trigo,2018,Entre Ríos,Zona 11,3.086e-05
+1696,Trigo,2015,Entre Ríos,Zona 12,0.014820449999999999
+1697,Trigo,2016,Entre Ríos,Zona 12,0.09180115
+1698,Trigo,2017,Entre Ríos,Zona 12,0.044582800000000006
+1699,Trigo,2018,Entre Ríos,Zona 12,0.036124529999999995
+1700,Trigo,2019,Entre Ríos,Zona 12,0.03458111999999999
+1701,Trigo,2020,Entre Ríos,Zona 12,0.00753
+1702,Trigo,2015,Entre Ríos,Zona 13,0.11961338999999999
+1703,Trigo,2016,Entre Ríos,Zona 13,0.25272615000000004
+1704,Trigo,2017,Entre Ríos,Zona 13,0.36852927
+1705,Trigo,2018,Entre Ríos,Zona 13,0.2662892999999999
+1706,Trigo,2019,Entre Ríos,Zona 13,0.29719329000000005
+1707,Trigo,2020,Entre Ríos,Zona 13,0.009132
+1708,Trigo,2015,Entre Ríos,Zona 14,0.023020509999999998
+1709,Trigo,2016,Entre Ríos,Zona 14,0.04364821000000001
+1710,Trigo,2017,Entre Ríos,Zona 14,0.020134809999999996
+1711,Trigo,2018,Entre Ríos,Zona 14,0.029773110000000002
+1712,Trigo,2019,Entre Ríos,Zona 14,0.0197998
+1713,Trigo,2020,Entre Ríos,Zona 14,0.00378
+1714,Trigo,2017,Entre Ríos,Zona 16,0.00018
+1715,Trigo,2019,Entre Ríos,Zona 16,0.00252
+1716,Trigo,2015,Entre Ríos,Zona 17,0.0045
+1717,Trigo,2015,Entre Ríos,Zona 18,0.13810112
+1718,Trigo,2016,Entre Ríos,Zona 18,0.19640622
+1719,Trigo,2017,Entre Ríos,Zona 18,0.17360313999999996
+1720,Trigo,2018,Entre Ríos,Zona 18,0.15724474
+1721,Trigo,2019,Entre Ríos,Zona 18,0.18778343999999997
+1722,Trigo,2020,Entre Ríos,Zona 18,0.00141
+1723,Trigo,2015,Entre Ríos,Zona 4,9e-05
+1724,Trigo,2016,Entre Ríos,Zona 4,0.0013
+1725,Trigo,2015,Entre Ríos,Zona 5,0.020923920000000002
+1726,Trigo,2016,Entre Ríos,Zona 5,0.08390303
+1727,Trigo,2017,Entre Ríos,Zona 5,0.01622068
+1728,Trigo,2018,Entre Ríos,Zona 5,0.02000704
+1729,Trigo,2019,Entre Ríos,Zona 5,0.02914601
+1730,Trigo,2020,Entre Ríos,Zona 5,0.00754
+1731,Trigo,2015,Entre Ríos,Zona 6,0.00292139
+1732,Trigo,2016,Entre Ríos,Zona 6,0.00408
+1733,Trigo,2017,Entre Ríos,Zona 6,0.0016900399999999999
+1734,Trigo,2018,Entre Ríos,Zona 6,0.00378
+1735,Trigo,2019,Entre Ríos,Zona 6,0.00474912
+1736,Trigo,2015,Entre Ríos,Zona 7,0.00050575
+1737,Trigo,2016,Entre Ríos,Zona 7,2.8120000000000002e-05
+1738,Trigo,2017,Entre Ríos,Zona 7,0.00015
+1739,Trigo,2018,Entre Ríos,Zona 7,0.00015
+1740,Trigo,2019,Entre Ríos,Zona 7,0.0005
+1741,Trigo,2015,Entre Ríos,Zona 8,0.00481
+1742,Trigo,2016,Entre Ríos,Zona 8,0.00922
+1743,Trigo,2017,Entre Ríos,Zona 8,0.00544
+1744,Trigo,2018,Entre Ríos,Zona 8,0.009919220000000001
+1745,Trigo,2019,Entre Ríos,Zona 8,0.017109710000000004
+1746,Trigo,2015,Entre Ríos,Zona 9,0.00037409000000000005
+1747,Trigo,2016,Entre Ríos,Zona 9,0.00148
+1748,Trigo,2017,Entre Ríos,Zona 9,0.00364893
+1749,Trigo,2019,Entre Ríos,Zona 9,0.0031725300000000002
+1750,Maiz,2016,Formosa,Rosario N,0.01686306
+1751,Maiz,2017,Formosa,Rosario N,0.00026916999999999995
+1752,Maiz,2018,Formosa,Rosario N,0.00071324
+1753,Maiz,2019,Formosa,Rosario N,0.00026869999999999997
+1754,Maiz,2020,Formosa,Rosario N,0.012
+1755,Maiz,2016,Formosa,Rosario S,0.00012
+1756,Maiz,2017,Formosa,Rosario S,9e-05
+1757,Maiz,2018,Formosa,Zona 10,3e-05
+1758,Maiz,2016,Formosa,Zona 12,0.0042
+1759,Maiz,2015,Formosa,Zona 13,0.00421
+1760,Maiz,2016,Formosa,Zona 13,0.0058
+1761,Maiz,2017,Formosa,Zona 13,0.006131030000000001
+1762,Maiz,2018,Formosa,Zona 14,3.232e-05
+1763,Maiz,2019,Formosa,Zona 14,0.0006753600000000001
+1764,Maiz,2016,Formosa,Zona 17,0.003
+1765,Maiz,2017,Formosa,Zona 17,0.0007
+1766,Maiz,2018,Formosa,Zona 17,0.0037413800000000003
+1767,Maiz,2017,Formosa,Zona 18,0.00366
+1768,Maiz,2018,Formosa,Zona 18,0.00386
+1769,Maiz,2019,Formosa,Zona 18,0.003
+1770,Maiz,2017,Formosa,Zona 5,6e-05
+1771,Maiz,2020,Formosa,Zona 5,0.00025
+1772,Maiz,2015,Formosa,Zona 8,0.0025504599999999996
+1773,Maiz,2019,Formosa,Zona 8,2.9769999999999998e-05
+1774,Soja,2017,Formosa,Quequen,0.00012
+1775,Soja,2015,Formosa,Rosario N,0.00287471
+1776,Soja,2016,Formosa,Rosario N,0.00492058
+1777,Soja,2017,Formosa,Rosario N,0.0038386899999999996
+1778,Soja,2018,Formosa,Rosario N,0.00034478
+1779,Soja,2019,Formosa,Rosario N,0.0036218400000000003
+1780,Soja,2015,Formosa,Rosario S,0.00083
+1781,Soja,2017,Formosa,Rosario S,0.000625
+1782,Soja,2019,Formosa,Rosario S,0.00018
+1783,Soja,2015,Formosa,Zona 15,1.68e-06
+1784,Soja,2015,Formosa,Zona 17,0.03025878
+1785,Soja,2018,Formosa,Zona 17,0.0003
+1786,Soja,2019,Formosa,Zona 17,0.000104
+1787,Soja,2017,Formosa,Zona 5,9e-05
+1788,Soja,2015,Formosa,Zona 8,3.7599999999999996e-06
+1789,Soja,2017,Formosa,Zona 9,0.00058939
+1790,Soja,2018,Formosa,Zona 9,7.119e-05
+1791,Soja,2019,Formosa,Zona 9,5.034e-05
+1792,Trigo,2018,Formosa,Bs As,0.0003
+1793,Trigo,2015,Formosa,Rosario N,3e-05
+1794,Trigo,2018,Formosa,Rosario N,4.4e-07
+1795,Trigo,2019,Formosa,Rosario N,0.00060924
+1796,Trigo,2019,Formosa,Rosario S,5.821e-05
+1797,Trigo,2016,Formosa,Zona 12,6e-05
+1798,Trigo,2019,Formosa,Zona 12,0.003
+1799,Trigo,2016,Formosa,Zona 14,2.8760000000000006e-05
+1800,Trigo,2018,Formosa,Zona 17,0.001
+1801,Trigo,2019,Formosa,Zona 17,8.314000000000001e-05
+1802,Trigo,2018,Formosa,Zona 5,0.0004
+1803,Trigo,2015,Formosa,Zona 8,0.00030136000000000003
+1804,Trigo,2016,Formosa,Zona 8,0.00021249000000000002
+1805,Maiz,2018,Jujuy,Cordoba,5.899e-05
+1806,Maiz,2015,Jujuy,Rosario N,0.0005310299999999999
+1807,Maiz,2016,Jujuy,Rosario N,0.00462032
+1808,Maiz,2017,Jujuy,Rosario N,0.00095
+1809,Maiz,2018,Jujuy,Rosario N,0.00184
+1810,Maiz,2019,Jujuy,Rosario N,0.00476592
+1811,Maiz,2019,Jujuy,Rosario S,0.0008943299999999999
+1812,Maiz,2020,Jujuy,Rosario S,0.0008
+1813,Maiz,2015,Jujuy,Zona 11,5.924e-05
+1814,Maiz,2019,Jujuy,Zona 11,6.0799999999999994e-05
+1815,Maiz,2018,Jujuy,Zona 14,9e-05
+1816,Maiz,2015,Jujuy,Zona 16,0.0001191
+1817,Maiz,2016,Jujuy,Zona 16,0.02880075
+1818,Maiz,2018,Jujuy,Zona 16,0.001152
+1819,Maiz,2019,Jujuy,Zona 16,0.00041337
+1820,Maiz,2015,Jujuy,Zona 17,6.736e-05
+1821,Maiz,2016,Jujuy,Zona 17,0.00022812
+1822,Maiz,2017,Jujuy,Zona 17,0.00089522
+1823,Maiz,2018,Jujuy,Zona 17,0.0007129399999999999
+1824,Maiz,2019,Jujuy,Zona 17,0.0010716799999999996
+1825,Maiz,2016,Jujuy,Zona 18,3e-05
+1826,Maiz,2017,Jujuy,Zona 18,3e-05
+1827,Soja,2018,Jujuy,Cordoba,0.00048
+1828,Soja,2015,Jujuy,Rosario N,0.00408047
+1829,Soja,2016,Jujuy,Rosario N,0.0042861999999999996
+1830,Soja,2017,Jujuy,Rosario N,0.00234752
+1831,Soja,2018,Jujuy,Rosario N,0.00069197
+1832,Soja,2019,Jujuy,Rosario N,0.00475407
+1833,Soja,2020,Jujuy,Rosario N,0.00179
+1834,Soja,2016,Jujuy,Rosario S,3e-05
+1835,Soja,2017,Jujuy,Rosario S,5.723e-05
+1836,Soja,2015,Jujuy,Zona 11,2.714e-05
+1837,Soja,2016,Jujuy,Zona 11,0.00030646000000000004
+1838,Soja,2017,Jujuy,Zona 11,0.00035853999999999997
+1839,Soja,2018,Jujuy,Zona 11,0.00041162
+1840,Soja,2019,Jujuy,Zona 11,0.00018399
+1841,Soja,2015,Jujuy,Zona 12,0.0012
+1842,Soja,2019,Jujuy,Zona 12,3.0700000000000003e-06
+1843,Soja,2018,Jujuy,Zona 13,0.00048
+1844,Soja,2018,Jujuy,Zona 15,0.000106
+1845,Soja,2015,Jujuy,Zona 16,0.003587460000000001
+1846,Soja,2016,Jujuy,Zona 16,0.00458617
+1847,Soja,2017,Jujuy,Zona 16,0.00324762
+1848,Soja,2018,Jujuy,Zona 16,0.00354922
+1849,Soja,2019,Jujuy,Zona 16,0.007676620000000001
+1850,Soja,2015,Jujuy,Zona 17,0.00117041
+1851,Soja,2016,Jujuy,Zona 17,0.00219451
+1852,Soja,2017,Jujuy,Zona 17,0.0048055699999999995
+1853,Soja,2018,Jujuy,Zona 17,0.00234525
+1854,Soja,2019,Jujuy,Zona 17,0.0020410299999999997
+1855,Soja,2020,Jujuy,Zona 17,0.0011
+1856,Soja,2017,Jujuy,Zona 5,0.00018
+1857,Soja,2018,Jujuy,Zona 5,3e-05
+1858,Soja,2015,Jujuy,Zona 8,2.7289999999999998e-05
+1859,Trigo,2019,Jujuy,Rosario S,0.00016214
+1860,Trigo,2020,Jujuy,Rosario S,0.0015
+1861,Trigo,2015,Jujuy,Zona 16,0.00018
+1862,Trigo,2016,Jujuy,Zona 16,0.000267
+1863,Trigo,2018,Jujuy,Zona 16,0.00018
+1864,Trigo,2019,Jujuy,Zona 16,0.00021145
+1865,Trigo,2015,Jujuy,Zona 17,0.00022008
+1866,Trigo,2016,Jujuy,Zona 17,0.0014254499999999998
+1867,Trigo,2017,Jujuy,Zona 17,0.00094053
+1868,Trigo,2018,Jujuy,Zona 17,0.0019076199999999998
+1869,Trigo,2019,Jujuy,Zona 17,0.0033887300000000004
+1870,Trigo,2019,Jujuy,Zona 3,0.0015
+1871,Trigo,2019,Jujuy,Zona 5,0.00062
+1872,Maiz,2015,La Pampa,B.Blanca,0.19332013000000003
+1873,Maiz,2016,La Pampa,B.Blanca,0.65454043
+1874,Maiz,2017,La Pampa,B.Blanca,0.4235350300000001
+1875,Maiz,2018,La Pampa,B.Blanca,0.42115876999999996
+1876,Maiz,2019,La Pampa,B.Blanca,0.7558680899999999
+1877,Maiz,2020,La Pampa,B.Blanca,0.34467
+1878,Maiz,2015,La Pampa,Bs As,0.00538
+1879,Maiz,2016,La Pampa,Bs As,0.00661
+1880,Maiz,2017,La Pampa,Bs As,0.00452
+1881,Maiz,2018,La Pampa,Bs As,0.00105
+1882,Maiz,2019,La Pampa,Bs As,0.00021
+1883,Maiz,2018,La Pampa,Cordoba,0.0024
+1884,Maiz,2019,La Pampa,Cordoba,0.00123
+1885,Maiz,2015,La Pampa,Quequen,0.00325
+1886,Maiz,2016,La Pampa,Quequen,0.00541
+1887,Maiz,2017,La Pampa,Quequen,0.0041
+1888,Maiz,2018,La Pampa,Quequen,0.00771313
+1889,Maiz,2019,La Pampa,Quequen,0.02059582
+1890,Maiz,2020,La Pampa,Quequen,0.00467
+1891,Maiz,2018,La Pampa,Resto del País,2.836e-05
+1892,Maiz,2015,La Pampa,Rosario N,0.016344849999999998
+1893,Maiz,2016,La Pampa,Rosario N,0.10093857
+1894,Maiz,2017,La Pampa,Rosario N,0.049857950000000005
+1895,Maiz,2018,La Pampa,Rosario N,0.03558275
+1896,Maiz,2019,La Pampa,Rosario N,0.053089489999999996
+1897,Maiz,2020,La Pampa,Rosario N,0.058919
+1898,Maiz,2015,La Pampa,Rosario S,0.027897129999999996
+1899,Maiz,2016,La Pampa,Rosario S,0.13746392000000002
+1900,Maiz,2017,La Pampa,Rosario S,0.07845151000000002
+1901,Maiz,2018,La Pampa,Rosario S,0.08041610999999999
+1902,Maiz,2019,La Pampa,Rosario S,0.04553818999999999
+1903,Maiz,2020,La Pampa,Rosario S,0.030789
+1904,Maiz,2019,La Pampa,Zona 1,7.368000000000001e-05
+1905,Maiz,2015,La Pampa,Zona 10,0.015575349999999998
+1906,Maiz,2016,La Pampa,Zona 10,0.012348709999999997
+1907,Maiz,2017,La Pampa,Zona 10,0.00038592
+1908,Maiz,2018,La Pampa,Zona 10,0.0040025
+1909,Maiz,2019,La Pampa,Zona 10,0.00519924
+1910,Maiz,2020,La Pampa,Zona 10,0.0075173099999999975
+1911,Maiz,2016,La Pampa,Zona 11,3e-05
+1912,Maiz,2017,La Pampa,Zona 11,0.001
+1913,Maiz,2018,La Pampa,Zona 11,0.0005
+1914,Maiz,2015,La Pampa,Zona 12,0.00333448
+1915,Maiz,2016,La Pampa,Zona 12,0.012303129999999999
+1916,Maiz,2017,La Pampa,Zona 12,0.00338114
+1917,Maiz,2018,La Pampa,Zona 12,0.00183031
+1918,Maiz,2019,La Pampa,Zona 12,0.00069531
+1919,Maiz,2015,La Pampa,Zona 13,0.00564
+1920,Maiz,2016,La Pampa,Zona 13,0.01132
+1921,Maiz,2017,La Pampa,Zona 13,0.0062
+1922,Maiz,2018,La Pampa,Zona 13,9e-05
+1923,Maiz,2019,La Pampa,Zona 13,0.01455
+1924,Maiz,2015,La Pampa,Zona 14,0.00786
+1925,Maiz,2016,La Pampa,Zona 14,0.01178676
+1926,Maiz,2017,La Pampa,Zona 14,0.0033457799999999996
+1927,Maiz,2018,La Pampa,Zona 14,0.00106
+1928,Maiz,2019,La Pampa,Zona 14,0.00024
+1929,Maiz,2019,La Pampa,Zona 16,3e-05
+1930,Maiz,2019,La Pampa,Zona 17,0.00101
+1931,Maiz,2015,La Pampa,Zona 18,0.0011
+1932,Maiz,2016,La Pampa,Zona 18,0.00051
+1933,Maiz,2017,La Pampa,Zona 18,0.00578915
+1934,Maiz,2019,La Pampa,Zona 18,0.00215
+1935,Maiz,2015,La Pampa,Zona 2,0.023928750000000002
+1936,Maiz,2016,La Pampa,Zona 2,0.01779227
+1937,Maiz,2017,La Pampa,Zona 2,0.015303009999999999
+1938,Maiz,2018,La Pampa,Zona 2,0.006044
+1939,Maiz,2019,La Pampa,Zona 2,0.01109283
+1940,Maiz,2017,La Pampa,Zona 3,0.001
+1941,Maiz,2018,La Pampa,Zona 3,9e-05
+1942,Maiz,2019,La Pampa,Zona 3,0.00021
+1943,Maiz,2015,La Pampa,Zona 4,0.00279758
+1944,Maiz,2016,La Pampa,Zona 4,0.00242707
+1945,Maiz,2017,La Pampa,Zona 4,0.003775
+1946,Maiz,2018,La Pampa,Zona 4,0.00099
+1947,Maiz,2019,La Pampa,Zona 4,0.0005
+1948,Maiz,2015,La Pampa,Zona 5,0.01878
+1949,Maiz,2016,La Pampa,Zona 5,0.023343440000000003
+1950,Maiz,2017,La Pampa,Zona 5,0.024609259999999997
+1951,Maiz,2018,La Pampa,Zona 5,0.024196930000000002
+1952,Maiz,2019,La Pampa,Zona 5,0.02643184
+1953,Maiz,2020,La Pampa,Zona 5,0.0015
+1954,Maiz,2015,La Pampa,Zona 6,0.00628856
+1955,Maiz,2016,La Pampa,Zona 6,0.01838
+1956,Maiz,2017,La Pampa,Zona 6,0.00648
+1957,Maiz,2018,La Pampa,Zona 6,0.00676
+1958,Maiz,2019,La Pampa,Zona 6,0.01880571
+1959,Maiz,2020,La Pampa,Zona 6,0.0045
+1960,Maiz,2015,La Pampa,Zona 7,0.13197591
+1961,Maiz,2016,La Pampa,Zona 7,0.12462273999999998
+1962,Maiz,2017,La Pampa,Zona 7,0.07760455000000002
+1963,Maiz,2018,La Pampa,Zona 7,0.027497610000000006
+1964,Maiz,2019,La Pampa,Zona 7,0.09142489000000001
+1965,Maiz,2020,La Pampa,Zona 7,0.028651879999999998
+1966,Maiz,2016,La Pampa,Zona 8,0.00039
+1967,Maiz,2017,La Pampa,Zona 8,5.8e-05
+1968,Maiz,2018,La Pampa,Zona 8,0.00018
+1969,Maiz,2019,La Pampa,Zona 8,0.0011124800000000001
+1970,Maiz,2020,La Pampa,Zona 8,0.00036
+1971,Maiz,2015,La Pampa,Zona 9,0.0035011
+1972,Maiz,2016,La Pampa,Zona 9,0.00082
+1973,Maiz,2017,La Pampa,Zona 9,0.00015
+1974,Maiz,2018,La Pampa,Zona 9,0.0006
+1975,Maiz,2019,La Pampa,Zona 9,0.00730222
+1976,Soja,2015,La Pampa,B.Blanca,0.39950192
+1977,Soja,2016,La Pampa,B.Blanca,0.38425732000000007
+1978,Soja,2017,La Pampa,B.Blanca,0.22153449000000003
+1979,Soja,2018,La Pampa,B.Blanca,0.16190653
+1980,Soja,2019,La Pampa,B.Blanca,0.50374519
+1981,Soja,2020,La Pampa,B.Blanca,0.15716
+1982,Soja,2015,La Pampa,Bs As,0.0002
+1983,Soja,2016,La Pampa,Bs As,0.00033
+1984,Soja,2017,La Pampa,Bs As,0.00046
+1985,Soja,2018,La Pampa,Bs As,0.00021
+1986,Soja,2019,La Pampa,Bs As,0.00061236
+1987,Soja,2017,La Pampa,Cordoba,3e-05
+1988,Soja,2015,La Pampa,Quequen,0.00414416
+1989,Soja,2016,La Pampa,Quequen,0.0192078
+1990,Soja,2017,La Pampa,Quequen,0.00817496
+1991,Soja,2018,La Pampa,Quequen,0.014528189999999998
+1992,Soja,2019,La Pampa,Quequen,0.01455641
+1993,Soja,2020,La Pampa,Quequen,0.0212
+1994,Soja,2015,La Pampa,Rosario N,0.22653194000000001
+1995,Soja,2016,La Pampa,Rosario N,0.50419613
+1996,Soja,2017,La Pampa,Rosario N,0.30928804000000004
+1997,Soja,2018,La Pampa,Rosario N,0.28313984999999997
+1998,Soja,2019,La Pampa,Rosario N,0.35459767
+1999,Soja,2020,La Pampa,Rosario N,0.11107545999999999
+2000,Soja,2021,La Pampa,Rosario N,0.0002
+2001,Soja,2015,La Pampa,Rosario S,0.11222762
+2002,Soja,2016,La Pampa,Rosario S,0.09523498000000001
+2003,Soja,2017,La Pampa,Rosario S,0.09289436999999998
+2004,Soja,2018,La Pampa,Rosario S,0.061522600000000004
+2005,Soja,2019,La Pampa,Rosario S,0.058194600000000006
+2006,Soja,2020,La Pampa,Rosario S,0.016713
+2007,Soja,2015,La Pampa,Zona 10,0.012667639999999999
+2008,Soja,2016,La Pampa,Zona 10,0.009852730000000004
+2009,Soja,2017,La Pampa,Zona 10,0.0022102000000000003
+2010,Soja,2018,La Pampa,Zona 10,0.0029114099999999997
+2011,Soja,2019,La Pampa,Zona 10,0.00516792
+2012,Soja,2016,La Pampa,Zona 11,6e-05
+2013,Soja,2017,La Pampa,Zona 11,0.00015738
+2014,Soja,2019,La Pampa,Zona 11,0.00116
+2015,Soja,2015,La Pampa,Zona 12,0.00333444
+2016,Soja,2016,La Pampa,Zona 12,0.01747771
+2017,Soja,2017,La Pampa,Zona 12,0.02442542
+2018,Soja,2018,La Pampa,Zona 12,0.00640968
+2019,Soja,2019,La Pampa,Zona 12,0.00601985
+2020,Soja,2020,La Pampa,Zona 12,0.001198
+2021,Soja,2015,La Pampa,Zona 13,0.024798209999999998
+2022,Soja,2016,La Pampa,Zona 13,0.00595
+2023,Soja,2017,La Pampa,Zona 13,0.00606709
+2024,Soja,2018,La Pampa,Zona 13,0.0019
+2025,Soja,2019,La Pampa,Zona 13,0.00877499
+2026,Soja,2020,La Pampa,Zona 13,0.02003
+2027,Soja,2015,La Pampa,Zona 14,0.010715
+2028,Soja,2016,La Pampa,Zona 14,0.01222869
+2029,Soja,2017,La Pampa,Zona 14,0.00691208
+2030,Soja,2018,La Pampa,Zona 14,0.01075728
+2031,Soja,2019,La Pampa,Zona 14,0.00267368
+2032,Soja,2020,La Pampa,Zona 14,0.00015
+2033,Soja,2016,La Pampa,Zona 16,3e-05
+2034,Soja,2017,La Pampa,Zona 16,0.0005
+2035,Soja,2018,La Pampa,Zona 16,0.00015
+2036,Soja,2019,La Pampa,Zona 16,0.00110603
+2037,Soja,2015,La Pampa,Zona 18,0.00012935
+2038,Soja,2017,La Pampa,Zona 18,2.9e-05
+2039,Soja,2019,La Pampa,Zona 18,0.00010988
+2040,Soja,2015,La Pampa,Zona 2,0.00363018
+2041,Soja,2016,La Pampa,Zona 2,0.02801399
+2042,Soja,2017,La Pampa,Zona 2,0.03274143
+2043,Soja,2018,La Pampa,Zona 2,0.020047669999999997
+2044,Soja,2019,La Pampa,Zona 2,0.03731827
+2045,Soja,2018,La Pampa,Zona 3,3e-05
+2046,Soja,2019,La Pampa,Zona 3,0.00042
+2047,Soja,2019,La Pampa,Zona 4,0.00059
+2048,Soja,2015,La Pampa,Zona 5,0.01412
+2049,Soja,2016,La Pampa,Zona 5,0.00462
+2050,Soja,2017,La Pampa,Zona 5,0.012329
+2051,Soja,2018,La Pampa,Zona 5,0.01232776
+2052,Soja,2019,La Pampa,Zona 5,0.02270018
+2053,Soja,2020,La Pampa,Zona 5,0.03054
+2054,Soja,2015,La Pampa,Zona 6,0.00331
+2055,Soja,2016,La Pampa,Zona 6,0.0041
+2056,Soja,2017,La Pampa,Zona 6,0.00282883
+2057,Soja,2018,La Pampa,Zona 6,0.0032416199999999997
+2058,Soja,2019,La Pampa,Zona 6,0.00175232
+2059,Soja,2020,La Pampa,Zona 6,0.001
+2060,Soja,2015,La Pampa,Zona 7,0.2497951600000001
+2061,Soja,2016,La Pampa,Zona 7,0.27686509
+2062,Soja,2017,La Pampa,Zona 7,0.11010427999999998
+2063,Soja,2018,La Pampa,Zona 7,0.10302724
+2064,Soja,2019,La Pampa,Zona 7,0.12093896999999999
+2065,Soja,2020,La Pampa,Zona 7,0.0343356
+2066,Soja,2015,La Pampa,Zona 8,0.00118918
+2067,Soja,2016,La Pampa,Zona 8,0.00253092
+2068,Soja,2017,La Pampa,Zona 8,0.0058501000000000004
+2069,Soja,2018,La Pampa,Zona 8,0.0025321999999999996
+2070,Soja,2019,La Pampa,Zona 8,0.0073954100000000016
+2071,Soja,2020,La Pampa,Zona 8,0.00048
+2072,Soja,2015,La Pampa,Zona 9,0.0010274899999999998
+2073,Soja,2016,La Pampa,Zona 9,0.00018217000000000003
+2074,Soja,2017,La Pampa,Zona 9,0.0030874199999999996
+2075,Soja,2018,La Pampa,Zona 9,0.008828790000000003
+2076,Soja,2019,La Pampa,Zona 9,0.009619200000000001
+2077,Trigo,2015,La Pampa,B.Blanca,0.13798168
+2078,Trigo,2016,La Pampa,B.Blanca,0.26671347
+2079,Trigo,2017,La Pampa,B.Blanca,0.36831577000000004
+2080,Trigo,2018,La Pampa,B.Blanca,0.26084767999999997
+2081,Trigo,2019,La Pampa,B.Blanca,0.27352721
+2082,Trigo,2020,La Pampa,B.Blanca,0.115884
+2083,Trigo,2015,La Pampa,Bs As,0.048229579999999994
+2084,Trigo,2016,La Pampa,Bs As,0.54259214
+2085,Trigo,2017,La Pampa,Bs As,0.01989361
+2086,Trigo,2018,La Pampa,Bs As,0.004781560000000001
+2087,Trigo,2019,La Pampa,Bs As,0.0082188
+2088,Trigo,2016,La Pampa,Cordoba,0.00045
+2089,Trigo,2019,La Pampa,Cordoba,0.0006282799999999999
+2090,Trigo,2015,La Pampa,Quequen,0.002508
+2091,Trigo,2016,La Pampa,Quequen,0.006974770000000001
+2092,Trigo,2017,La Pampa,Quequen,0.00563084
+2093,Trigo,2018,La Pampa,Quequen,0.00391109
+2094,Trigo,2019,La Pampa,Quequen,0.009296819999999999
+2095,Trigo,2020,La Pampa,Quequen,0.00344
+2096,Trigo,2015,La Pampa,Rosario N,0.01623633
+2097,Trigo,2016,La Pampa,Rosario N,0.01204906
+2098,Trigo,2017,La Pampa,Rosario N,0.025768319999999997
+2099,Trigo,2018,La Pampa,Rosario N,0.01909148
+2100,Trigo,2019,La Pampa,Rosario N,0.03797116
+2101,Trigo,2020,La Pampa,Rosario N,0.0127
+2102,Trigo,2015,La Pampa,Rosario S,0.00701784
+2103,Trigo,2016,La Pampa,Rosario S,0.00574692
+2104,Trigo,2017,La Pampa,Rosario S,0.019790779999999997
+2105,Trigo,2018,La Pampa,Rosario S,0.011339189999999999
+2106,Trigo,2019,La Pampa,Rosario S,0.0172484
+2107,Trigo,2020,La Pampa,Rosario S,0.01187
+2108,Trigo,2021,La Pampa,Rosario S,3e-05
+2109,Trigo,2015,La Pampa,Zona 10,0.00360034
+2110,Trigo,2016,La Pampa,Zona 10,0.0034940699999999997
+2111,Trigo,2017,La Pampa,Zona 10,0.00507984
+2112,Trigo,2018,La Pampa,Zona 10,0.0017789500000000003
+2113,Trigo,2019,La Pampa,Zona 10,0.00277327
+2114,Trigo,2018,La Pampa,Zona 11,9e-05
+2115,Trigo,2015,La Pampa,Zona 12,9e-05
+2116,Trigo,2016,La Pampa,Zona 12,0.00074158
+2117,Trigo,2017,La Pampa,Zona 12,0.00374
+2118,Trigo,2018,La Pampa,Zona 12,0.000676
+2119,Trigo,2019,La Pampa,Zona 12,0.00016025
+2120,Trigo,2020,La Pampa,Zona 12,3e-05
+2121,Trigo,2016,La Pampa,Zona 13,0.00469
+2122,Trigo,2017,La Pampa,Zona 13,0.01022744
+2123,Trigo,2018,La Pampa,Zona 13,0.00524
+2124,Trigo,2019,La Pampa,Zona 13,0.00967734
+2125,Trigo,2015,La Pampa,Zona 14,0.00021
+2126,Trigo,2016,La Pampa,Zona 14,0.00075
+2127,Trigo,2017,La Pampa,Zona 14,0.0017
+2128,Trigo,2018,La Pampa,Zona 14,0.002118
+2129,Trigo,2019,La Pampa,Zona 14,0.00012
+2130,Trigo,2015,La Pampa,Zona 18,0.00135
+2131,Trigo,2015,La Pampa,Zona 2,0.01944967
+2132,Trigo,2016,La Pampa,Zona 2,0.03278229
+2133,Trigo,2017,La Pampa,Zona 2,0.04702907
+2134,Trigo,2018,La Pampa,Zona 2,0.02926239
+2135,Trigo,2019,La Pampa,Zona 2,0.012892240000000001
+2136,Trigo,2015,La Pampa,Zona 3,0.00217646
+2137,Trigo,2016,La Pampa,Zona 3,0.000658
+2138,Trigo,2017,La Pampa,Zona 3,0.00364925
+2139,Trigo,2018,La Pampa,Zona 3,0.00541
+2140,Trigo,2019,La Pampa,Zona 3,0.00684
+2141,Trigo,2020,La Pampa,Zona 3,0.001
+2142,Trigo,2015,La Pampa,Zona 5,0.034464360000000006
+2143,Trigo,2016,La Pampa,Zona 5,0.02673621
+2144,Trigo,2017,La Pampa,Zona 5,0.01415696
+2145,Trigo,2018,La Pampa,Zona 5,0.01346198
+2146,Trigo,2019,La Pampa,Zona 5,0.01375
+2147,Trigo,2020,La Pampa,Zona 5,0.00109
+2148,Trigo,2015,La Pampa,Zona 6,0.01765275
+2149,Trigo,2016,La Pampa,Zona 6,0.019430669999999997
+2150,Trigo,2017,La Pampa,Zona 6,0.00797495
+2151,Trigo,2018,La Pampa,Zona 6,0.01000757
+2152,Trigo,2019,La Pampa,Zona 6,0.00905371
+2153,Trigo,2015,La Pampa,Zona 7,0.09907485999999997
+2154,Trigo,2016,La Pampa,Zona 7,0.08630173000000001
+2155,Trigo,2017,La Pampa,Zona 7,0.046178750000000005
+2156,Trigo,2018,La Pampa,Zona 7,0.04631795999999999
+2157,Trigo,2019,La Pampa,Zona 7,0.06611655999999999
+2158,Trigo,2020,La Pampa,Zona 7,0.00268272
+2159,Trigo,2015,La Pampa,Zona 8,0.00036981
+2160,Trigo,2016,La Pampa,Zona 8,0.00323823
+2161,Trigo,2017,La Pampa,Zona 8,0.00183547
+2162,Trigo,2018,La Pampa,Zona 8,0.01400642
+2163,Trigo,2019,La Pampa,Zona 8,0.003769
+2164,Trigo,2015,La Pampa,Zona 9,0.015236860000000001
+2165,Trigo,2016,La Pampa,Zona 9,0.01177486
+2166,Trigo,2017,La Pampa,Zona 9,0.00673843
+2167,Trigo,2018,La Pampa,Zona 9,0.0029870400000000003
+2168,Trigo,2019,La Pampa,Zona 9,0.01025546
+2169,Trigo,2020,La Pampa,Zona 9,0.000615
+2170,Maiz,2015,La Rioja,Cordoba,0.001669
+2171,Maiz,2016,La Rioja,Cordoba,0.0016592099999999993
+2172,Maiz,2019,La Rioja,Resto del País,9e-05
+2173,Soja,2015,La Rioja,Cordoba,0.00111771
+2174,Soja,2016,La Rioja,Cordoba,0.00021845
+2175,Soja,2016,La Rioja,Rosario N,0.000175
+2176,Soja,2017,La Rioja,Rosario N,6e-05
+2177,Soja,2018,La Rioja,Rosario S,0.0002
+2178,Soja,2015,La Rioja,Zona 9,0.0002910099999999999
+2179,Soja,2016,La Rioja,Zona 9,0.00020641000000000002
+2180,Trigo,2018,La Rioja,Rosario N,0.00012
+2181,Maiz,2017,Mendoza,Bs As,0.003
+2182,Maiz,2017,Mendoza,Rosario N,0.00203
+2183,Maiz,2018,Mendoza,Rosario N,0.00012
+2184,Maiz,2019,Mendoza,Rosario N,3e-05
+2185,Maiz,2016,Mendoza,Rosario S,0.00018
+2186,Maiz,2017,Mendoza,Rosario S,3e-05
+2187,Maiz,2015,Mendoza,Zona 1,0.0008014399999999999
+2188,Maiz,2016,Mendoza,Zona 1,2.893e-05
+2189,Maiz,2019,Mendoza,Zona 1,2.8899999999999998e-05
+2190,Maiz,2017,Mendoza,Zona 10,0.001
+2191,Maiz,2019,Mendoza,Zona 5,3e-05
+2192,Maiz,2015,Mendoza,Zona 6,0.004884060000000001
+2193,Maiz,2016,Mendoza,Zona 6,0.015647720000000004
+2194,Maiz,2017,Mendoza,Zona 6,0.001237
+2195,Maiz,2018,Mendoza,Zona 6,0.0013565
+2196,Maiz,2019,Mendoza,Zona 6,0.00246513
+2197,Soja,2017,Mendoza,Quequen,0.00015
+2198,Soja,2015,Mendoza,Rosario N,3.067e-05
+2199,Soja,2017,Mendoza,Rosario N,0.000478
+2200,Soja,2018,Mendoza,Rosario N,0.00037520999999999995
+2201,Soja,2019,Mendoza,Rosario N,0.000197
+2202,Soja,2015,Mendoza,Rosario S,9e-05
+2203,Soja,2019,Mendoza,Rosario S,3e-05
+2204,Soja,2015,Mendoza,Zona 1,0.00986998
+2205,Soja,2016,Mendoza,Zona 1,0.00026308
+2206,Soja,2018,Mendoza,Zona 12,9e-05
+2207,Soja,2017,Mendoza,Zona 17,6e-05
+2208,Soja,2018,Mendoza,Zona 17,4.6e-05
+2209,Soja,2019,Mendoza,Zona 17,2.1e-05
+2210,Soja,2017,Mendoza,Zona 5,9e-05
+2211,Soja,2019,Mendoza,Zona 5,3e-05
+2212,Soja,2015,Mendoza,Zona 6,0.028860330000000003
+2213,Soja,2016,Mendoza,Zona 6,0.03389252999999998
+2214,Soja,2017,Mendoza,Zona 6,0.00102244
+2215,Soja,2018,Mendoza,Zona 6,0.0017602100000000001
+2216,Soja,2019,Mendoza,Zona 6,0.005930379999999999
+2217,Soja,2020,Mendoza,Zona 6,0.00830926
+2218,Soja,2016,Mendoza,Zona 7,0.00018
+2219,Trigo,2015,Mendoza,Cordoba,3.0760000000000004e-05
+2220,Trigo,2016,Mendoza,Rosario S,0.0005
+2221,Trigo,2017,Mendoza,Rosario S,0.00015
+2222,Trigo,2015,Mendoza,Zona 1,0.0019242399999999998
+2223,Trigo,2016,Mendoza,Zona 1,0.00019081
+2224,Trigo,2015,Mendoza,Zona 6,0.00040338
+2225,Trigo,2016,Mendoza,Zona 6,0.00046344
+2226,Trigo,2017,Mendoza,Zona 6,2.421e-05
+2227,Trigo,2018,Mendoza,Zona 6,0.000119
+2228,Trigo,2019,Mendoza,Zona 6,0.0022847600000000003
+2229,Trigo,2019,Mendoza,Zona 9,0.001
+2230,Maiz,2016,Misiones,Rosario N,6e-05
+2231,Maiz,2015,Misiones,Zona 18,0.00030402999999999995
+2232,Maiz,2016,Misiones,Zona 18,0.00032074
+2233,Maiz,2017,Misiones,Zona 18,0.00130281
+2234,Maiz,2018,Misiones,Zona 18,0.00044632999999999994
+2235,Maiz,2015,Misiones,Zona 6,0.00018
+2236,Maiz,2015,Misiones,Zona 7,0.00476265
+2237,Maiz,2016,Misiones,Zona 7,0.006416959999999999
+2238,Maiz,2017,Misiones,Zona 7,0.00075
+2239,Maiz,2018,Misiones,Zona 7,0.00085191
+2240,Soja,2015,Misiones,Rosario N,0.00163
+2241,Soja,2016,Misiones,Rosario N,0.00167
+2242,Soja,2017,Misiones,Rosario N,0.00033
+2243,Soja,2015,Misiones,Rosario S,0.000257
+2244,Soja,2016,Misiones,Rosario S,0.00015
+2245,Soja,2017,Misiones,Rosario S,9e-05
+2246,Soja,2019,Misiones,Rosario S,0.00012
+2247,Soja,2019,Misiones,Zona 14,0.00053
+2248,Soja,2015,Misiones,Zona 7,0.010219370000000002
+2249,Soja,2016,Misiones,Zona 7,0.009833419999999997
+2250,Soja,2018,Misiones,Zona 7,6.816e-05
+2251,Soja,2019,Misiones,Zona 7,1.4499999999999999e-06
+2252,Trigo,2016,Misiones,Rosario N,0.00024
+2253,Trigo,2016,Misiones,Rosario S,6e-05
+2254,Trigo,2016,Misiones,Zona 18,0.005
+2255,Trigo,2015,Misiones,Zona 5,3e-05
+2256,Trigo,2015,Misiones,Zona 6,0.00012
+2257,Trigo,2016,Misiones,Zona 6,0.000221
+2258,Trigo,2017,Misiones,Zona 6,0.00024
+2259,Trigo,2015,Misiones,Zona 7,0.00037831999999999997
+2260,Trigo,2018,Misiones,Zona 7,0.0001
+2261,Maiz,2017,Neuquén,Rosario S,0.0003
+2262,Maiz,2016,Neuquén,Zona 12,0.001
+2263,Soja,2015,Neuquén,B.Blanca,0.00012
+2264,Soja,2015,Neuquén,Rosario N,3e-05
+2265,Soja,2016,Neuquén,Rosario N,6.192e-05
+2266,Soja,2017,Neuquén,Rosario S,0.00012
+2267,Soja,2018,Neuquén,Rosario S,6e-05
+2268,Soja,2015,Neuquén,Zona 17,0.00014133
+2269,Soja,2019,Neuquén,Zona 2,0.00022
+2270,Soja,2018,Neuquén,Zona 7,6.969999999999999e-06
+2271,Trigo,2017,Neuquén,Quequen,6.068e-05
+2272,Trigo,2019,Neuquén,Zona 6,1.7800000000000001e-06
+2273,Trigo,2018,Neuquén,Zona 7,0.00012054000000000001
+2274,Maiz,2016,Río Negro,B.Blanca,0.0003
+2275,Maiz,2017,Río Negro,B.Blanca,0.00025
+2276,Maiz,2019,Río Negro,B.Blanca,0.00018
+2277,Maiz,2020,Río Negro,B.Blanca,0.00018
+2278,Maiz,2015,Río Negro,Rosario N,3e-05
+2279,Maiz,2016,Río Negro,Rosario N,9e-05
+2280,Maiz,2018,Río Negro,Zona 18,4.358e-05
+2281,Maiz,2019,Río Negro,Zona 2,6e-05
+2282,Soja,2017,Río Negro,B.Blanca,6e-05
+2283,Soja,2018,Río Negro,B.Blanca,0.00024
+2284,Soja,2019,Río Negro,B.Blanca,6e-05
+2285,Soja,2017,Río Negro,Rosario N,0.00016586000000000001
+2286,Soja,2019,Río Negro,Rosario N,5.7770000000000004e-05
+2287,Soja,2019,Río Negro,Zona 18,5.52e-06
+2288,Trigo,2016,Río Negro,B.Blanca,0.00012
+2289,Trigo,2017,Río Negro,B.Blanca,0.00036916000000000005
+2290,Trigo,2018,Río Negro,B.Blanca,0.0004479
+2291,Trigo,2019,Río Negro,B.Blanca,0.00061713
+2292,Trigo,2020,Río Negro,B.Blanca,0.000512
+2293,Trigo,2019,Río Negro,Bs As,0.00010190999999999999
+2294,Trigo,2016,Río Negro,Rosario N,0.0005
+2295,Trigo,2019,Río Negro,Rosario N,3e-05
+2296,Trigo,2019,Río Negro,Rosario S,6e-05
+2297,Trigo,2017,Río Negro,Zona 2,0.00028134
+2298,Trigo,2018,Río Negro,Zona 2,0.00066642
+2299,Trigo,2019,Río Negro,Zona 2,0.00030112
+2300,Maiz,2015,Salta,Bs As,0.0004138000000000001
+2301,Maiz,2016,Salta,Bs As,0.00067572
+2302,Maiz,2016,Salta,Cordoba,0.000154
+2303,Maiz,2017,Salta,Cordoba,0.0002088
+2304,Maiz,2018,Salta,Cordoba,0.00015075
+2305,Maiz,2019,Salta,Cordoba,0.00043748
+2306,Maiz,2016,Salta,Quequen,0.001
+2307,Maiz,2015,Salta,Resto del País,0.0035
+2308,Maiz,2016,Salta,Resto del País,0.00395
+2309,Maiz,2017,Salta,Resto del País,0.0035213
+2310,Maiz,2019,Salta,Resto del País,0.001
+2311,Maiz,2015,Salta,Rosario N,0.06756424999999999
+2312,Maiz,2016,Salta,Rosario N,0.35439254
+2313,Maiz,2017,Salta,Rosario N,0.13449596000000003
+2314,Maiz,2018,Salta,Rosario N,0.12128458000000003
+2315,Maiz,2019,Salta,Rosario N,0.2905530300000001
+2316,Maiz,2020,Salta,Rosario N,0.159635
+2317,Maiz,2015,Salta,Rosario S,0.03008018
+2318,Maiz,2016,Salta,Rosario S,0.07312687
+2319,Maiz,2017,Salta,Rosario S,0.05337104000000001
+2320,Maiz,2018,Salta,Rosario S,0.055373580000000006
+2321,Maiz,2019,Salta,Rosario S,0.1233679
+2322,Maiz,2020,Salta,Rosario S,0.023893
+2323,Maiz,2015,Salta,Zona 10,0.00029
+2324,Maiz,2017,Salta,Zona 10,0.00427
+2325,Maiz,2019,Salta,Zona 10,0.00036
+2326,Maiz,2015,Salta,Zona 11,0.0007161
+2327,Maiz,2016,Salta,Zona 11,0.00119615
+2328,Maiz,2017,Salta,Zona 11,0.00222187
+2329,Maiz,2018,Salta,Zona 11,0.01479054
+2330,Maiz,2019,Salta,Zona 11,0.00234748
+2331,Maiz,2020,Salta,Zona 11,0.0027
+2332,Maiz,2015,Salta,Zona 12,0.00039655
+2333,Maiz,2016,Salta,Zona 12,0.015419669999999996
+2334,Maiz,2017,Salta,Zona 12,0.0029620700000000002
+2335,Maiz,2018,Salta,Zona 12,0.00658991
+2336,Maiz,2019,Salta,Zona 12,0.00744181
+2337,Maiz,2020,Salta,Zona 12,0.0065
+2338,Maiz,2015,Salta,Zona 13,0.01499
+2339,Maiz,2016,Salta,Zona 13,0.08846237
+2340,Maiz,2017,Salta,Zona 13,0.022723
+2341,Maiz,2018,Salta,Zona 13,0.02411
+2342,Maiz,2019,Salta,Zona 13,0.03074
+2343,Maiz,2015,Salta,Zona 14,0.00456866
+2344,Maiz,2016,Salta,Zona 14,0.05870632
+2345,Maiz,2017,Salta,Zona 14,0.01410676
+2346,Maiz,2018,Salta,Zona 14,0.010106270000000002
+2347,Maiz,2019,Salta,Zona 14,0.0090649
+2348,Maiz,2020,Salta,Zona 14,0.0079
+2349,Maiz,2017,Salta,Zona 15,0.001
+2350,Maiz,2019,Salta,Zona 15,0.014645
+2351,Maiz,2015,Salta,Zona 16,0.03679147
+2352,Maiz,2016,Salta,Zona 16,0.07825090999999999
+2353,Maiz,2017,Salta,Zona 16,0.10131384000000002
+2354,Maiz,2018,Salta,Zona 16,0.19925519
+2355,Maiz,2019,Salta,Zona 16,0.20340098000000004
+2356,Maiz,2020,Salta,Zona 16,0.062177
+2357,Maiz,2015,Salta,Zona 17,0.052311880000000005
+2358,Maiz,2016,Salta,Zona 17,0.14037038000000002
+2359,Maiz,2017,Salta,Zona 17,0.02227664
+2360,Maiz,2018,Salta,Zona 17,0.12419690000000001
+2361,Maiz,2019,Salta,Zona 17,0.1388906
+2362,Maiz,2020,Salta,Zona 17,0.0827875
+2363,Maiz,2015,Salta,Zona 18,0.00283135
+2364,Maiz,2016,Salta,Zona 18,0.058984379999999996
+2365,Maiz,2017,Salta,Zona 18,0.00730579
+2366,Maiz,2018,Salta,Zona 18,0.020689239999999998
+2367,Maiz,2019,Salta,Zona 18,0.00887044
+2368,Maiz,2015,Salta,Zona 5,0.00269081
+2369,Maiz,2016,Salta,Zona 5,9e-05
+2370,Maiz,2017,Salta,Zona 5,9e-05
+2371,Maiz,2018,Salta,Zona 5,0.00190054
+2372,Maiz,2019,Salta,Zona 5,0.00104499
+2373,Maiz,2015,Salta,Zona 6,0.00824852
+2374,Maiz,2016,Salta,Zona 6,0.02737418
+2375,Maiz,2017,Salta,Zona 6,0.00048
+2376,Maiz,2018,Salta,Zona 6,0.00258
+2377,Maiz,2019,Salta,Zona 6,0.00981981
+2378,Maiz,2015,Salta,Zona 7,0.009068410000000002
+2379,Maiz,2016,Salta,Zona 7,0.014475419999999994
+2380,Maiz,2017,Salta,Zona 7,0.0021743599999999993
+2381,Maiz,2018,Salta,Zona 7,0.00026566999999999997
+2382,Maiz,2019,Salta,Zona 7,0.000635
+2383,Maiz,2020,Salta,Zona 7,8.649000000000002e-05
+2384,Maiz,2015,Salta,Zona 8,0.00654
+2385,Maiz,2016,Salta,Zona 8,0.01073034
+2386,Maiz,2017,Salta,Zona 8,9.3e-05
+2387,Maiz,2018,Salta,Zona 8,0.00273684
+2388,Maiz,2019,Salta,Zona 8,0.0025
+2389,Maiz,2015,Salta,Zona 9,0.000552
+2390,Maiz,2016,Salta,Zona 9,0.008375049999999998
+2391,Maiz,2017,Salta,Zona 9,0.00033
+2392,Maiz,2019,Salta,Zona 9,0.0026148
+2393,Soja,2019,Salta,B.Blanca,0.0002
+2394,Soja,2015,Salta,Bs As,2.4e-05
+2395,Soja,2018,Salta,Cordoba,8.923999999999999e-05
+2396,Soja,2017,Salta,Quequen,0.0026
+2397,Soja,2016,Salta,Resto del País,0.0007
+2398,Soja,2015,Salta,Rosario N,0.19792905999999996
+2399,Soja,2016,Salta,Rosario N,0.16301065999999997
+2400,Soja,2017,Salta,Rosario N,0.26353989
+2401,Soja,2018,Salta,Rosario N,0.12476346999999999
+2402,Soja,2019,Salta,Rosario N,0.13331914000000003
+2403,Soja,2020,Salta,Rosario N,0.033746
+2404,Soja,2015,Salta,Rosario S,0.009429880000000002
+2405,Soja,2016,Salta,Rosario S,0.054681049999999995
+2406,Soja,2017,Salta,Rosario S,0.02027597
+2407,Soja,2018,Salta,Rosario S,0.00897988
+2408,Soja,2019,Salta,Rosario S,0.01715281
+2409,Soja,2020,Salta,Rosario S,0.016276
+2410,Soja,2015,Salta,Zona 11,0.011293280000000001
+2411,Soja,2016,Salta,Zona 11,0.01499285
+2412,Soja,2017,Salta,Zona 11,0.01405186
+2413,Soja,2018,Salta,Zona 11,0.012008600000000003
+2414,Soja,2019,Salta,Zona 11,0.006486269999999999
+2415,Soja,2020,Salta,Zona 11,0.001
+2416,Soja,2015,Salta,Zona 12,4.538e-05
+2417,Soja,2016,Salta,Zona 12,0.00291
+2418,Soja,2017,Salta,Zona 12,0.0030683299999999998
+2419,Soja,2018,Salta,Zona 12,0.004649219999999999
+2420,Soja,2019,Salta,Zona 12,0.0022924499999999997
+2421,Soja,2020,Salta,Zona 12,0.00015
+2422,Soja,2016,Salta,Zona 13,0.0033
+2423,Soja,2017,Salta,Zona 13,0.00183993
+2424,Soja,2018,Salta,Zona 13,0.00424
+2425,Soja,2019,Salta,Zona 13,0.00172
+2426,Soja,2015,Salta,Zona 14,0.0013865
+2427,Soja,2016,Salta,Zona 14,0.004913989999999999
+2428,Soja,2017,Salta,Zona 14,0.00434366
+2429,Soja,2018,Salta,Zona 14,0.00068258
+2430,Soja,2019,Salta,Zona 14,0.00505965
+2431,Soja,2020,Salta,Zona 14,0.00109
+2432,Soja,2015,Salta,Zona 15,0.02699045
+2433,Soja,2016,Salta,Zona 15,0.011834179999999998
+2434,Soja,2017,Salta,Zona 15,0.009833
+2435,Soja,2018,Salta,Zona 15,0.0046744099999999995
+2436,Soja,2019,Salta,Zona 15,0.0006941499999999999
+2437,Soja,2015,Salta,Zona 16,0.23384422000000005
+2438,Soja,2016,Salta,Zona 16,0.1833235
+2439,Soja,2017,Salta,Zona 16,0.21111292000000004
+2440,Soja,2018,Salta,Zona 16,0.16727990999999998
+2441,Soja,2019,Salta,Zona 16,0.20775469
+2442,Soja,2020,Salta,Zona 16,0.09304
+2443,Soja,2015,Salta,Zona 17,0.25516086000000004
+2444,Soja,2016,Salta,Zona 17,0.18251052
+2445,Soja,2017,Salta,Zona 17,0.18661300999999997
+2446,Soja,2018,Salta,Zona 17,0.20892398
+2447,Soja,2019,Salta,Zona 17,0.29887113
+2448,Soja,2020,Salta,Zona 17,0.09400258
+2449,Soja,2021,Salta,Zona 17,0.004
+2450,Soja,2016,Salta,Zona 18,0.0003
+2451,Soja,2017,Salta,Zona 18,0.00083
+2452,Soja,2018,Salta,Zona 18,0.0021244899999999997
+2453,Soja,2019,Salta,Zona 18,0.006799750000000001
+2454,Soja,2016,Salta,Zona 4,0.0006
+2455,Soja,2015,Salta,Zona 5,3e-05
+2456,Soja,2015,Salta,Zona 6,0.00116168
+2457,Soja,2016,Salta,Zona 6,0.00153472
+2458,Soja,2015,Salta,Zona 7,0.02534378
+2459,Soja,2016,Salta,Zona 7,0.029644230000000008
+2460,Soja,2017,Salta,Zona 7,0.0029723500000000003
+2461,Soja,2018,Salta,Zona 7,0.0008658599999999999
+2462,Soja,2019,Salta,Zona 7,0.00286185
+2463,Soja,2020,Salta,Zona 7,0.00145992
+2464,Soja,2015,Salta,Zona 8,0.00031015
+2465,Soja,2017,Salta,Zona 8,0.00017434999999999998
+2466,Soja,2018,Salta,Zona 8,0.0002
+2467,Soja,2019,Salta,Zona 8,0.0011076399999999998
+2468,Soja,2015,Salta,Zona 9,0.00080392
+2469,Soja,2016,Salta,Zona 9,0.0029379300000000005
+2470,Soja,2017,Salta,Zona 9,0.0001454
+2471,Soja,2018,Salta,Zona 9,0.00033137
+2472,Soja,2019,Salta,Zona 9,0.00245037
+2473,Trigo,2016,Salta,B.Blanca,0.0008
+2474,Trigo,2018,Salta,B.Blanca,0.0004
+2475,Trigo,2015,Salta,Bs As,0.0009
+2476,Trigo,2016,Salta,Bs As,0.0126
+2477,Trigo,2017,Salta,Bs As,9e-05
+2478,Trigo,2019,Salta,Bs As,0.00099
+2479,Trigo,2019,Salta,Cordoba,0.00070904
+2480,Trigo,2018,Salta,Quequen,0.00021
+2481,Trigo,2016,Salta,Rosario N,0.00080961
+2482,Trigo,2017,Salta,Rosario N,0.0012873399999999999
+2483,Trigo,2018,Salta,Rosario N,0.00405653
+2484,Trigo,2019,Salta,Rosario N,0.01076523
+2485,Trigo,2020,Salta,Rosario N,0.003
+2486,Trigo,2015,Salta,Rosario S,0.000145
+2487,Trigo,2016,Salta,Rosario S,0.00018
+2488,Trigo,2017,Salta,Rosario S,0.0029707799999999997
+2489,Trigo,2018,Salta,Rosario S,0.0032861099999999996
+2490,Trigo,2019,Salta,Rosario S,0.0014416
+2491,Trigo,2020,Salta,Rosario S,0.0054
+2492,Trigo,2019,Salta,Zona 10,0.0004126
+2493,Trigo,2016,Salta,Zona 12,0.00035874
+2494,Trigo,2017,Salta,Zona 12,0.0003
+2495,Trigo,2018,Salta,Zona 12,0.00020675
+2496,Trigo,2020,Salta,Zona 12,0.001
+2497,Trigo,2016,Salta,Zona 13,6e-05
+2498,Trigo,2016,Salta,Zona 14,0.00015
+2499,Trigo,2018,Salta,Zona 14,0.00055961
+2500,Trigo,2019,Salta,Zona 14,0.00054167
+2501,Trigo,2019,Salta,Zona 15,6e-05
+2502,Trigo,2015,Salta,Zona 16,0.050505970000000004
+2503,Trigo,2016,Salta,Zona 16,0.04817551
+2504,Trigo,2017,Salta,Zona 16,0.027251760000000003
+2505,Trigo,2018,Salta,Zona 16,0.04815572
+2506,Trigo,2019,Salta,Zona 16,0.0512177
+2507,Trigo,2015,Salta,Zona 17,0.02141663
+2508,Trigo,2016,Salta,Zona 17,0.024883879999999997
+2509,Trigo,2017,Salta,Zona 17,0.03267772
+2510,Trigo,2018,Salta,Zona 17,0.017927600000000005
+2511,Trigo,2019,Salta,Zona 17,0.05927608
+2512,Trigo,2016,Salta,Zona 18,0.00012
+2513,Trigo,2018,Salta,Zona 5,0.0003
+2514,Trigo,2019,Salta,Zona 5,2.9e-05
+2515,Trigo,2015,Salta,Zona 6,0.0003
+2516,Trigo,2016,Salta,Zona 6,1.0199999999999999e-05
+2517,Trigo,2017,Salta,Zona 6,0.0012
+2518,Trigo,2019,Salta,Zona 6,0.00043
+2519,Trigo,2015,Salta,Zona 7,0.006903950000000001
+2520,Trigo,2016,Salta,Zona 7,0.005623240000000002
+2521,Trigo,2017,Salta,Zona 7,0.00014863
+2522,Trigo,2018,Salta,Zona 7,0.00023144
+2523,Trigo,2019,Salta,Zona 7,0.00103417
+2524,Trigo,2017,Salta,Zona 8,3e-05
+2525,Trigo,2018,Salta,Zona 8,3e-05
+2526,Trigo,2019,Salta,Zona 8,0.0003
+2527,Trigo,2015,Salta,Zona 9,0.00222492
+2528,Trigo,2016,Salta,Zona 9,0.002039
+2529,Trigo,2017,Salta,Zona 9,0.0001718
+2530,Trigo,2018,Salta,Zona 9,0.00153911
+2531,Maiz,2017,San Juan,Rosario S,0.00057
+2532,Maiz,2016,San Juan,Zona 10,3e-05
+2533,Maiz,2017,San Juan,Zona 10,9.5e-05
+2534,Maiz,2015,San Juan,Zona 11,0.00014969999999999998
+2535,Maiz,2016,San Juan,Zona 17,0.0008
+2536,Soja,2015,San Juan,Cordoba,7.603e-05
+2537,Soja,2017,San Juan,Rosario S,0.000532
+2538,Soja,2015,San Juan,Zona 10,0.000128
+2539,Soja,2019,San Juan,Zona 16,1.021e-05
+2540,Trigo,2019,San Juan,Bs As,0.0006
+2541,Trigo,2015,San Juan,Rosario S,1.7800000000000001e-06
+2542,Maiz,2015,San Luis,B.Blanca,0.001
+2543,Maiz,2017,San Luis,B.Blanca,0.02529154
+2544,Maiz,2018,San Luis,B.Blanca,0.00257
+2545,Maiz,2019,San Luis,B.Blanca,0.00549
+2546,Maiz,2020,San Luis,B.Blanca,0.01353
+2547,Maiz,2015,San Luis,Bs As,0.00048577999999999995
+2548,Maiz,2017,San Luis,Quequen,0.001
+2549,Maiz,2015,San Luis,Resto del País,0.0045
+2550,Maiz,2016,San Luis,Resto del País,0.01064
+2551,Maiz,2017,San Luis,Resto del País,0.01895
+2552,Maiz,2018,San Luis,Resto del País,0.01829
+2553,Maiz,2019,San Luis,Resto del País,0.01514
+2554,Maiz,2015,San Luis,Rosario N,0.004617759999999999
+2555,Maiz,2016,San Luis,Rosario N,0.04343037999999999
+2556,Maiz,2017,San Luis,Rosario N,0.06319264
+2557,Maiz,2018,San Luis,Rosario N,0.03605763000000001
+2558,Maiz,2019,San Luis,Rosario N,0.09084368000000002
+2559,Maiz,2020,San Luis,Rosario N,0.042128
+2560,Maiz,2015,San Luis,Rosario S,0.00229525
+2561,Maiz,2016,San Luis,Rosario S,0.020853740000000006
+2562,Maiz,2017,San Luis,Rosario S,0.025951810000000002
+2563,Maiz,2018,San Luis,Rosario S,0.026775020000000004
+2564,Maiz,2019,San Luis,Rosario S,0.05387014
+2565,Maiz,2020,San Luis,Rosario S,0.029643
+2566,Maiz,2015,San Luis,Zona 1,0.01912904
+2567,Maiz,2016,San Luis,Zona 1,0.01273025
+2568,Maiz,2017,San Luis,Zona 1,0.016267359999999998
+2569,Maiz,2018,San Luis,Zona 1,0.00912458
+2570,Maiz,2019,San Luis,Zona 1,0.02139301
+2571,Maiz,2015,San Luis,Zona 10,0.2659276
+2572,Maiz,2016,San Luis,Zona 10,0.28481009999999995
+2573,Maiz,2017,San Luis,Zona 10,0.30273167999999995
+2574,Maiz,2018,San Luis,Zona 10,0.34274348000000004
+2575,Maiz,2019,San Luis,Zona 10,0.28614001
+2576,Maiz,2020,San Luis,Zona 10,0.08377966
+2577,Maiz,2016,San Luis,Zona 11,0.0024842199999999997
+2578,Maiz,2017,San Luis,Zona 11,0.00246954
+2579,Maiz,2018,San Luis,Zona 11,8.06e-05
+2580,Maiz,2019,San Luis,Zona 11,0.00012
+2581,Maiz,2015,San Luis,Zona 12,2.634e-05
+2582,Maiz,2016,San Luis,Zona 12,0.00030055999999999995
+2583,Maiz,2017,San Luis,Zona 12,0.00102608
+2584,Maiz,2018,San Luis,Zona 12,0.00063394
+2585,Maiz,2019,San Luis,Zona 12,0.0026295499999999996
+2586,Maiz,2020,San Luis,Zona 12,0.000881
+2587,Maiz,2015,San Luis,Zona 13,0.00116
+2588,Maiz,2016,San Luis,Zona 13,0.0015302
+2589,Maiz,2017,San Luis,Zona 13,0.00138401
+2590,Maiz,2019,San Luis,Zona 13,0.00069
+2591,Maiz,2017,San Luis,Zona 14,0.00081927
+2592,Maiz,2018,San Luis,Zona 14,0.00024
+2593,Maiz,2019,San Luis,Zona 14,6.222e-05
+2594,Maiz,2020,San Luis,Zona 14,0.00522
+2595,Maiz,2019,San Luis,Zona 16,0.005
+2596,Maiz,2015,San Luis,Zona 18,2.9e-05
+2597,Maiz,2016,San Luis,Zona 18,3e-05
+2598,Maiz,2017,San Luis,Zona 18,0.00168
+2599,Maiz,2018,San Luis,Zona 18,0.0003
+2600,Maiz,2015,San Luis,Zona 2,0.00081
+2601,Maiz,2019,San Luis,Zona 2,0.00221725
+2602,Maiz,2016,San Luis,Zona 5,0.0005
+2603,Maiz,2017,San Luis,Zona 5,3.044e-05
+2604,Maiz,2019,San Luis,Zona 5,0.000482
+2605,Maiz,2015,San Luis,Zona 6,0.00033
+2606,Maiz,2016,San Luis,Zona 6,0.001035
+2607,Maiz,2015,San Luis,Zona 7,0.00018384
+2608,Maiz,2016,San Luis,Zona 7,0.00085399
+2609,Maiz,2017,San Luis,Zona 7,0.0010035299999999999
+2610,Maiz,2018,San Luis,Zona 7,0.00118933
+2611,Maiz,2019,San Luis,Zona 7,0.0024440100000000004
+2612,Maiz,2015,San Luis,Zona 8,0.01504825
+2613,Maiz,2016,San Luis,Zona 8,0.012314950000000002
+2614,Maiz,2017,San Luis,Zona 8,8.75e-06
+2615,Maiz,2019,San Luis,Zona 8,0.00147303
+2616,Maiz,2020,San Luis,Zona 8,0.00279
+2617,Maiz,2015,San Luis,Zona 9,0.023071540000000005
+2618,Maiz,2016,San Luis,Zona 9,0.03291073
+2619,Maiz,2017,San Luis,Zona 9,0.00591031
+2620,Maiz,2018,San Luis,Zona 9,0.02256154
+2621,Maiz,2019,San Luis,Zona 9,0.02089712
+2622,Maiz,2020,San Luis,Zona 9,0.003121
+2623,Soja,2016,San Luis,B.Blanca,0.00015
+2624,Soja,2020,San Luis,B.Blanca,0.00138
+2625,Soja,2015,San Luis,Bs As,3e-05
+2626,Soja,2017,San Luis,Bs As,0.00015
+2627,Soja,2015,San Luis,Cordoba,2.29e-06
+2628,Soja,2018,San Luis,Cordoba,2.905e-05
+2629,Soja,2019,San Luis,Cordoba,0.0006
+2630,Soja,2015,San Luis,Quequen,0.00042153000000000004
+2631,Soja,2016,San Luis,Quequen,0.00169709
+2632,Soja,2017,San Luis,Quequen,0.00202124
+2633,Soja,2018,San Luis,Quequen,0.0005834200000000001
+2634,Soja,2015,San Luis,Rosario N,0.046177560000000006
+2635,Soja,2016,San Luis,Rosario N,0.034426660000000005
+2636,Soja,2017,San Luis,Rosario N,0.10170899
+2637,Soja,2018,San Luis,Rosario N,0.03901531
+2638,Soja,2019,San Luis,Rosario N,0.034534659999999995
+2639,Soja,2020,San Luis,Rosario N,0.012792
+2640,Soja,2015,San Luis,Rosario S,0.013963190000000002
+2641,Soja,2016,San Luis,Rosario S,0.03401066
+2642,Soja,2017,San Luis,Rosario S,0.04274269
+2643,Soja,2018,San Luis,Rosario S,0.013104140000000002
+2644,Soja,2019,San Luis,Rosario S,0.019148010000000003
+2645,Soja,2020,San Luis,Rosario S,0.014955
+2646,Soja,2015,San Luis,Zona 1,0.018273730000000002
+2647,Soja,2016,San Luis,Zona 1,0.01696297
+2648,Soja,2017,San Luis,Zona 1,0.01222582
+2649,Soja,2018,San Luis,Zona 1,0.014219739999999998
+2650,Soja,2019,San Luis,Zona 1,0.01879034
+2651,Soja,2015,San Luis,Zona 10,0.03657175
+2652,Soja,2016,San Luis,Zona 10,0.05287278000000001
+2653,Soja,2017,San Luis,Zona 10,0.00899688
+2654,Soja,2018,San Luis,Zona 10,0.0071017300000000005
+2655,Soja,2019,San Luis,Zona 10,0.00538087
+2656,Soja,2020,San Luis,Zona 10,0.0014111500000000001
+2657,Soja,2015,San Luis,Zona 11,0.00014774000000000002
+2658,Soja,2016,San Luis,Zona 11,0.0020748999999999997
+2659,Soja,2017,San Luis,Zona 11,0.00157838
+2660,Soja,2018,San Luis,Zona 11,0.00016976
+2661,Soja,2019,San Luis,Zona 11,8.156e-05
+2662,Soja,2016,San Luis,Zona 12,0.00022459999999999998
+2663,Soja,2017,San Luis,Zona 12,0.00033279999999999996
+2664,Soja,2018,San Luis,Zona 12,0.0003196
+2665,Soja,2019,San Luis,Zona 12,0.00012
+2666,Soja,2020,San Luis,Zona 12,0.001675
+2667,Soja,2016,San Luis,Zona 13,0.00154
+2668,Soja,2018,San Luis,Zona 13,3e-05
+2669,Soja,2019,San Luis,Zona 13,0.00137249
+2670,Soja,2015,San Luis,Zona 14,0.0017158899999999999
+2671,Soja,2016,San Luis,Zona 14,0.00086478
+2672,Soja,2017,San Luis,Zona 14,0.00223237
+2673,Soja,2018,San Luis,Zona 14,0.00047925
+2674,Soja,2019,San Luis,Zona 14,3e-05
+2675,Soja,2019,San Luis,Zona 15,9e-05
+2676,Soja,2015,San Luis,Zona 18,9e-05
+2677,Soja,2018,San Luis,Zona 18,0.00036
+2678,Soja,2019,San Luis,Zona 18,0.00024
+2679,Soja,2017,San Luis,Zona 4,4e-05
+2680,Soja,2015,San Luis,Zona 5,6e-05
+2681,Soja,2016,San Luis,Zona 5,0.00265321
+2682,Soja,2017,San Luis,Zona 5,0.002975
+2683,Soja,2019,San Luis,Zona 5,0.0006
+2684,Soja,2015,San Luis,Zona 6,6e-05
+2685,Soja,2017,San Luis,Zona 6,6e-05
+2686,Soja,2019,San Luis,Zona 6,0.00021134
+2687,Soja,2015,San Luis,Zona 7,0.000151
+2688,Soja,2017,San Luis,Zona 7,6e-05
+2689,Soja,2018,San Luis,Zona 7,2.1289999999999998e-05
+2690,Soja,2015,San Luis,Zona 8,0.016737250000000002
+2691,Soja,2016,San Luis,Zona 8,0.01073772
+2692,Soja,2017,San Luis,Zona 8,0.00117647
+2693,Soja,2018,San Luis,Zona 8,0.00040001
+2694,Soja,2019,San Luis,Zona 8,0.0031910000000000003
+2695,Soja,2020,San Luis,Zona 8,2.323e-05
+2696,Soja,2015,San Luis,Zona 9,0.15135419999999997
+2697,Soja,2016,San Luis,Zona 9,0.16049537000000005
+2698,Soja,2017,San Luis,Zona 9,0.16066982999999999
+2699,Soja,2018,San Luis,Zona 9,0.10925898999999997
+2700,Soja,2019,San Luis,Zona 9,0.13910622
+2701,Soja,2020,San Luis,Zona 9,0.03810281
+2702,Trigo,2018,San Luis,B.Blanca,0.0005
+2703,Trigo,2015,San Luis,Bs As,0.00526263
+2704,Trigo,2016,San Luis,Bs As,0.009111709999999999
+2705,Trigo,2017,San Luis,Bs As,0.00795417
+2706,Trigo,2018,San Luis,Bs As,0.01341125
+2707,Trigo,2019,San Luis,Bs As,0.009595600000000001
+2708,Trigo,2015,San Luis,Cordoba,0.00028
+2709,Trigo,2016,San Luis,Cordoba,0.00021
+2710,Trigo,2017,San Luis,Quequen,6e-05
+2711,Trigo,2016,San Luis,Resto del País,3e-05
+2712,Trigo,2015,San Luis,Rosario N,3.62e-06
+2713,Trigo,2016,San Luis,Rosario N,6.730000000000001e-06
+2714,Trigo,2017,San Luis,Rosario N,0.00313592
+2715,Trigo,2018,San Luis,Rosario N,0.00066233
+2716,Trigo,2019,San Luis,Rosario N,0.00157
+2717,Trigo,2015,San Luis,Rosario S,2.9700000000000004e-06
+2718,Trigo,2016,San Luis,Rosario S,0.00020967000000000002
+2719,Trigo,2017,San Luis,Rosario S,0.0029807699999999998
+2720,Trigo,2018,San Luis,Rosario S,0.00174228
+2721,Trigo,2019,San Luis,Rosario S,0.0009
+2722,Trigo,2020,San Luis,Rosario S,0.00094
+2723,Trigo,2017,San Luis,Zona 1,0.00147806
+2724,Trigo,2018,San Luis,Zona 1,0.0032253700000000004
+2725,Trigo,2015,San Luis,Zona 10,0.00229495
+2726,Trigo,2016,San Luis,Zona 10,0.001796
+2727,Trigo,2017,San Luis,Zona 10,0.00838201
+2728,Trigo,2018,San Luis,Zona 10,0.004617739999999999
+2729,Trigo,2019,San Luis,Zona 10,0.00040438999999999997
+2730,Trigo,2015,San Luis,Zona 11,3e-05
+2731,Trigo,2016,San Luis,Zona 11,6e-05
+2732,Trigo,2018,San Luis,Zona 12,0.00011889
+2733,Trigo,2015,San Luis,Zona 13,0.00015
+2734,Trigo,2016,San Luis,Zona 13,3e-05
+2735,Trigo,2017,San Luis,Zona 13,3e-05
+2736,Trigo,2019,San Luis,Zona 13,0.0003
+2737,Trigo,2017,San Luis,Zona 14,0.0006
+2738,Trigo,2015,San Luis,Zona 2,0.0003
+2739,Trigo,2015,San Luis,Zona 5,0.00280022
+2740,Trigo,2016,San Luis,Zona 5,0.00017875
+2741,Trigo,2017,San Luis,Zona 5,3e-05
+2742,Trigo,2018,San Luis,Zona 5,0.00020656
+2743,Trigo,2015,San Luis,Zona 6,0.00337821
+2744,Trigo,2016,San Luis,Zona 6,0.00078
+2745,Trigo,2018,San Luis,Zona 6,0.00018
+2746,Trigo,2019,San Luis,Zona 6,0.0005
+2747,Trigo,2015,San Luis,Zona 7,0.0005
+2748,Trigo,2016,San Luis,Zona 7,0.00038
+2749,Trigo,2017,San Luis,Zona 7,0.00054
+2750,Trigo,2015,San Luis,Zona 8,0.00053989
+2751,Trigo,2016,San Luis,Zona 8,0.00017459
+2752,Trigo,2017,San Luis,Zona 8,0.0021618699999999998
+2753,Trigo,2018,San Luis,Zona 8,0.00136459
+2754,Trigo,2019,San Luis,Zona 8,0.0015581500000000001
+2755,Trigo,2015,San Luis,Zona 9,0.0036256399999999994
+2756,Trigo,2016,San Luis,Zona 9,0.0036590399999999997
+2757,Trigo,2017,San Luis,Zona 9,0.010311410000000002
+2758,Trigo,2018,San Luis,Zona 9,0.0057106100000000005
+2759,Trigo,2019,San Luis,Zona 9,0.00290853
+2760,Maiz,2017,Santa Cruz,Zona 16,0.00023464
+2761,Maiz,2015,Santa Fe,B.Blanca,0.00038518
+2762,Maiz,2016,Santa Fe,B.Blanca,0.008798869999999999
+2763,Maiz,2017,Santa Fe,B.Blanca,0.012507
+2764,Maiz,2018,Santa Fe,B.Blanca,0.0034211900000000006
+2765,Maiz,2019,Santa Fe,B.Blanca,0.028706529999999997
+2766,Maiz,2020,Santa Fe,B.Blanca,0.00768
+2767,Maiz,2015,Santa Fe,Bs As,0.00787642
+2768,Maiz,2016,Santa Fe,Bs As,0.005613
+2769,Maiz,2017,Santa Fe,Bs As,0.0102945
+2770,Maiz,2018,Santa Fe,Bs As,0.0077166199999999996
+2771,Maiz,2019,Santa Fe,Bs As,0.0005752999999999999
+2772,Maiz,2015,Santa Fe,Cordoba,0.0019115
+2773,Maiz,2017,Santa Fe,Cordoba,0.004993429999999999
+2774,Maiz,2018,Santa Fe,Cordoba,0.00152
+2775,Maiz,2019,Santa Fe,Cordoba,0.00020564
+2776,Maiz,2015,Santa Fe,Quequen,3e-05
+2777,Maiz,2017,Santa Fe,Quequen,0.00042176
+2778,Maiz,2018,Santa Fe,Quequen,0.00112854
+2779,Maiz,2019,Santa Fe,Quequen,0.00284574
+2780,Maiz,2020,Santa Fe,Quequen,0.0053
+2781,Maiz,2015,Santa Fe,Resto del País,0.00099
+2782,Maiz,2015,Santa Fe,Rosario N,3.5957207
+2783,Maiz,2016,Santa Fe,Rosario N,4.271139239999999
+2784,Maiz,2017,Santa Fe,Rosario N,4.129117290000001
+2785,Maiz,2018,Santa Fe,Rosario N,4.02887868
+2786,Maiz,2019,Santa Fe,Rosario N,7.915064080000001
+2787,Maiz,2020,Santa Fe,Rosario N,3.9007730300000003
+2788,Maiz,2015,Santa Fe,Rosario S,1.8896773999999998
+2789,Maiz,2016,Santa Fe,Rosario S,2.3102489700000004
+2790,Maiz,2017,Santa Fe,Rosario S,2.6780179900000003
+2791,Maiz,2018,Santa Fe,Rosario S,3.4833611799999997
+2792,Maiz,2019,Santa Fe,Rosario S,4.14240674
+2793,Maiz,2020,Santa Fe,Rosario S,2.2239390099999996
+2794,Maiz,2021,Santa Fe,Rosario S,6e-05
+2795,Maiz,2015,Santa Fe,Zona 1,6e-05
+2796,Maiz,2015,Santa Fe,Zona 10,0.03596792
+2797,Maiz,2016,Santa Fe,Zona 10,0.021803240000000005
+2798,Maiz,2017,Santa Fe,Zona 10,0.06610703
+2799,Maiz,2018,Santa Fe,Zona 10,0.06903719999999999
+2800,Maiz,2019,Santa Fe,Zona 10,0.029935169999999997
+2801,Maiz,2015,Santa Fe,Zona 11,0.02126358
+2802,Maiz,2016,Santa Fe,Zona 11,0.01641067
+2803,Maiz,2017,Santa Fe,Zona 11,0.01178171
+2804,Maiz,2018,Santa Fe,Zona 11,0.01424717
+2805,Maiz,2019,Santa Fe,Zona 11,0.00952897
+2806,Maiz,2020,Santa Fe,Zona 11,0.00576
+2807,Maiz,2015,Santa Fe,Zona 12,0.23841106999999997
+2808,Maiz,2016,Santa Fe,Zona 12,0.62764177
+2809,Maiz,2017,Santa Fe,Zona 12,0.74789928
+2810,Maiz,2018,Santa Fe,Zona 12,0.3239224200000001
+2811,Maiz,2019,Santa Fe,Zona 12,1.31790572
+2812,Maiz,2020,Santa Fe,Zona 12,0.918942
+2813,Maiz,2015,Santa Fe,Zona 13,0.02424052
+2814,Maiz,2016,Santa Fe,Zona 13,0.02809129
+2815,Maiz,2017,Santa Fe,Zona 13,0.0307765
+2816,Maiz,2018,Santa Fe,Zona 13,0.07618857000000001
+2817,Maiz,2019,Santa Fe,Zona 13,0.03382
+2818,Maiz,2020,Santa Fe,Zona 13,0.00099
+2819,Maiz,2015,Santa Fe,Zona 14,0.27385288999999996
+2820,Maiz,2016,Santa Fe,Zona 14,0.3920911199999999
+2821,Maiz,2017,Santa Fe,Zona 14,0.4406868099999999
+2822,Maiz,2018,Santa Fe,Zona 14,0.32953388
+2823,Maiz,2019,Santa Fe,Zona 14,0.34692611000000007
+2824,Maiz,2020,Santa Fe,Zona 14,0.037031
+2825,Maiz,2015,Santa Fe,Zona 15,0.007949190000000002
+2826,Maiz,2016,Santa Fe,Zona 15,0.01669894
+2827,Maiz,2017,Santa Fe,Zona 15,0.00265
+2828,Maiz,2018,Santa Fe,Zona 15,0.00058098
+2829,Maiz,2019,Santa Fe,Zona 15,0.01244025
+2830,Maiz,2015,Santa Fe,Zona 16,0.0008084
+2831,Maiz,2016,Santa Fe,Zona 16,0.00036
+2832,Maiz,2017,Santa Fe,Zona 16,0.001345
+2833,Maiz,2018,Santa Fe,Zona 16,0.00171
+2834,Maiz,2019,Santa Fe,Zona 16,0.0005351900000000001
+2835,Maiz,2015,Santa Fe,Zona 17,0.01241973
+2836,Maiz,2016,Santa Fe,Zona 17,0.0108055
+2837,Maiz,2017,Santa Fe,Zona 17,0.0087015
+2838,Maiz,2018,Santa Fe,Zona 17,0.01886556
+2839,Maiz,2019,Santa Fe,Zona 17,0.003236
+2840,Maiz,2015,Santa Fe,Zona 18,0.04930687
+2841,Maiz,2016,Santa Fe,Zona 18,0.01406382
+2842,Maiz,2017,Santa Fe,Zona 18,0.020793100000000002
+2843,Maiz,2018,Santa Fe,Zona 18,0.02335089
+2844,Maiz,2019,Santa Fe,Zona 18,0.01564313
+2845,Maiz,2020,Santa Fe,Zona 18,0.0015
+2846,Maiz,2015,Santa Fe,Zona 2,2.9e-05
+2847,Maiz,2016,Santa Fe,Zona 2,0.00389
+2848,Maiz,2017,Santa Fe,Zona 2,0.00012
+2849,Maiz,2018,Santa Fe,Zona 2,0.00156
+2850,Maiz,2019,Santa Fe,Zona 2,0.0008
+2851,Maiz,2016,Santa Fe,Zona 3,0.00122874
+2852,Maiz,2017,Santa Fe,Zona 3,0.00025719999999999996
+2853,Maiz,2019,Santa Fe,Zona 3,0.00136
+2854,Maiz,2020,Santa Fe,Zona 3,0.00515
+2855,Maiz,2015,Santa Fe,Zona 4,0.00086
+2856,Maiz,2016,Santa Fe,Zona 4,0.00118
+2857,Maiz,2017,Santa Fe,Zona 4,0.00215
+2858,Maiz,2018,Santa Fe,Zona 4,0.00191027
+2859,Maiz,2019,Santa Fe,Zona 4,0.00034541
+2860,Maiz,2015,Santa Fe,Zona 5,0.03471
+2861,Maiz,2016,Santa Fe,Zona 5,0.020425
+2862,Maiz,2017,Santa Fe,Zona 5,0.0302066
+2863,Maiz,2018,Santa Fe,Zona 5,0.040430350000000004
+2864,Maiz,2019,Santa Fe,Zona 5,0.07056801
+2865,Maiz,2020,Santa Fe,Zona 5,0.02081
+2866,Maiz,2015,Santa Fe,Zona 6,0.11169891
+2867,Maiz,2016,Santa Fe,Zona 6,0.05830755
+2868,Maiz,2017,Santa Fe,Zona 6,0.07615205999999998
+2869,Maiz,2018,Santa Fe,Zona 6,0.04550746
+2870,Maiz,2019,Santa Fe,Zona 6,0.08866481000000001
+2871,Maiz,2020,Santa Fe,Zona 6,0.07843489999999999
+2872,Maiz,2015,Santa Fe,Zona 7,0.0153183
+2873,Maiz,2016,Santa Fe,Zona 7,0.01533173
+2874,Maiz,2017,Santa Fe,Zona 7,0.008826570000000002
+2875,Maiz,2018,Santa Fe,Zona 7,0.0025816199999999997
+2876,Maiz,2019,Santa Fe,Zona 7,0.009904670000000003
+2877,Maiz,2020,Santa Fe,Zona 7,0.00569004
+2878,Maiz,2015,Santa Fe,Zona 8,0.3035211199999999
+2879,Maiz,2016,Santa Fe,Zona 8,0.19589455
+2880,Maiz,2017,Santa Fe,Zona 8,0.20119111999999995
+2881,Maiz,2018,Santa Fe,Zona 8,0.14718117000000006
+2882,Maiz,2019,Santa Fe,Zona 8,0.36640689000000004
+2883,Maiz,2020,Santa Fe,Zona 8,0.04288937
+2884,Maiz,2015,Santa Fe,Zona 9,0.015448660000000001
+2885,Maiz,2016,Santa Fe,Zona 9,0.00628088
+2886,Maiz,2017,Santa Fe,Zona 9,0.04705645
+2887,Maiz,2018,Santa Fe,Zona 9,0.029136729999999996
+2888,Maiz,2019,Santa Fe,Zona 9,0.04767354
+2889,Soja,2015,Santa Fe,B.Blanca,0.00437424
+2890,Soja,2016,Santa Fe,B.Blanca,0.00579267
+2891,Soja,2017,Santa Fe,B.Blanca,0.011055530000000001
+2892,Soja,2018,Santa Fe,B.Blanca,0.00806256
+2893,Soja,2019,Santa Fe,B.Blanca,0.018838
+2894,Soja,2020,Santa Fe,B.Blanca,0.008572
+2895,Soja,2015,Santa Fe,Bs As,0.00128452
+2896,Soja,2016,Santa Fe,Bs As,0.00082923
+2897,Soja,2017,Santa Fe,Bs As,0.001815
+2898,Soja,2018,Santa Fe,Bs As,0.00102
+2899,Soja,2019,Santa Fe,Bs As,0.00037166
+2900,Soja,2020,Santa Fe,Bs As,0.008
+2901,Soja,2015,Santa Fe,Cordoba,0.0008209
+2902,Soja,2016,Santa Fe,Cordoba,0.00030909000000000004
+2903,Soja,2017,Santa Fe,Cordoba,0.00053372
+2904,Soja,2018,Santa Fe,Cordoba,0.00102
+2905,Soja,2019,Santa Fe,Cordoba,0.00202031
+2906,Soja,2015,Santa Fe,Quequen,0.00232454
+2907,Soja,2016,Santa Fe,Quequen,0.050395
+2908,Soja,2017,Santa Fe,Quequen,0.00860638
+2909,Soja,2018,Santa Fe,Quequen,0.01085303
+2910,Soja,2019,Santa Fe,Quequen,0.021394669999999998
+2911,Soja,2020,Santa Fe,Quequen,0.01921
+2912,Soja,2015,Santa Fe,Rosario N,12.69633256
+2913,Soja,2016,Santa Fe,Rosario N,11.6334625
+2914,Soja,2017,Santa Fe,Rosario N,10.790894600000003
+2915,Soja,2018,Santa Fe,Rosario N,9.165397879999997
+2916,Soja,2019,Santa Fe,Rosario N,13.568090900000001
+2917,Soja,2020,Santa Fe,Rosario N,3.99213519
+2918,Soja,2021,Santa Fe,Rosario N,0.001748
+2919,Soja,2022,Santa Fe,Rosario N,0.001
+2920,Soja,2015,Santa Fe,Rosario S,2.5877716699999995
+2921,Soja,2016,Santa Fe,Rosario S,2.2311313299999997
+2922,Soja,2017,Santa Fe,Rosario S,2.511681439999999
+2923,Soja,2018,Santa Fe,Rosario S,2.1887067500000006
+2924,Soja,2019,Santa Fe,Rosario S,2.5227464700000004
+2925,Soja,2020,Santa Fe,Rosario S,0.86670651
+2926,Soja,2015,Santa Fe,Zona 1,9.312e-05
+2927,Soja,2017,Santa Fe,Zona 1,0.009
+2928,Soja,2015,Santa Fe,Zona 10,0.00053818
+2929,Soja,2016,Santa Fe,Zona 10,0.0005621599999999999
+2930,Soja,2018,Santa Fe,Zona 10,6e-05
+2931,Soja,2019,Santa Fe,Zona 10,0.00017186000000000002
+2932,Soja,2020,Santa Fe,Zona 10,0.01
+2933,Soja,2015,Santa Fe,Zona 11,0.05595691000000001
+2934,Soja,2016,Santa Fe,Zona 11,0.034536439999999995
+2935,Soja,2017,Santa Fe,Zona 11,0.027144810000000002
+2936,Soja,2018,Santa Fe,Zona 11,0.00419322
+2937,Soja,2019,Santa Fe,Zona 11,0.00443415
+2938,Soja,2015,Santa Fe,Zona 12,1.19470555
+2939,Soja,2016,Santa Fe,Zona 12,2.2320254700000004
+2940,Soja,2017,Santa Fe,Zona 12,2.0916656799999997
+2941,Soja,2018,Santa Fe,Zona 12,1.83643836
+2942,Soja,2019,Santa Fe,Zona 12,1.63210709
+2943,Soja,2020,Santa Fe,Zona 12,0.33468770999999997
+2944,Soja,2015,Santa Fe,Zona 13,0.0049257
+2945,Soja,2016,Santa Fe,Zona 13,0.00463392
+2946,Soja,2017,Santa Fe,Zona 13,0.00675949
+2947,Soja,2018,Santa Fe,Zona 13,0.006846939999999998
+2948,Soja,2019,Santa Fe,Zona 13,0.01172967
+2949,Soja,2020,Santa Fe,Zona 13,0.008842
+2950,Soja,2015,Santa Fe,Zona 14,0.4156975100000001
+2951,Soja,2016,Santa Fe,Zona 14,0.26214241
+2952,Soja,2017,Santa Fe,Zona 14,0.27633929
+2953,Soja,2018,Santa Fe,Zona 14,0.16588315000000003
+2954,Soja,2019,Santa Fe,Zona 14,0.15467180000000003
+2955,Soja,2020,Santa Fe,Zona 14,0.030593
+2956,Soja,2015,Santa Fe,Zona 15,0.014332689999999999
+2957,Soja,2016,Santa Fe,Zona 15,0.01876865
+2958,Soja,2017,Santa Fe,Zona 15,0.006805190000000001
+2959,Soja,2018,Santa Fe,Zona 15,0.01269874
+2960,Soja,2019,Santa Fe,Zona 15,0.011790879999999998
+2961,Soja,2015,Santa Fe,Zona 16,0.00059146
+2962,Soja,2016,Santa Fe,Zona 16,4.922e-05
+2963,Soja,2017,Santa Fe,Zona 16,0.00319031
+2964,Soja,2018,Santa Fe,Zona 16,0.00117
+2965,Soja,2019,Santa Fe,Zona 16,0.0007727200000000001
+2966,Soja,2015,Santa Fe,Zona 17,0.00362621
+2967,Soja,2016,Santa Fe,Zona 17,0.00025223000000000004
+2968,Soja,2017,Santa Fe,Zona 17,0.00514184
+2969,Soja,2018,Santa Fe,Zona 17,0.056880839999999995
+2970,Soja,2019,Santa Fe,Zona 17,0.00086
+2971,Soja,2015,Santa Fe,Zona 18,0.005166
+2972,Soja,2016,Santa Fe,Zona 18,0.01147917
+2973,Soja,2017,Santa Fe,Zona 18,0.06381546
+2974,Soja,2018,Santa Fe,Zona 18,0.0103044
+2975,Soja,2019,Santa Fe,Zona 18,0.01936614
+2976,Soja,2020,Santa Fe,Zona 18,6e-05
+2977,Soja,2015,Santa Fe,Zona 2,0.00012
+2978,Soja,2016,Santa Fe,Zona 2,0.00012
+2979,Soja,2017,Santa Fe,Zona 2,0.0003
+2980,Soja,2018,Santa Fe,Zona 2,7.16e-06
+2981,Soja,2019,Santa Fe,Zona 2,0.00118
+2982,Soja,2015,Santa Fe,Zona 3,0.00328
+2983,Soja,2016,Santa Fe,Zona 3,0.00205
+2984,Soja,2017,Santa Fe,Zona 3,0.0026431999999999996
+2985,Soja,2018,Santa Fe,Zona 3,0.00312
+2986,Soja,2019,Santa Fe,Zona 3,0.00463371
+2987,Soja,2020,Santa Fe,Zona 3,0.00644
+2988,Soja,2016,Santa Fe,Zona 4,6e-05
+2989,Soja,2017,Santa Fe,Zona 4,0.00035104
+2990,Soja,2018,Santa Fe,Zona 4,0.0010155399999999999
+2991,Soja,2019,Santa Fe,Zona 4,0.00022319
+2992,Soja,2015,Santa Fe,Zona 5,0.05060307
+2993,Soja,2016,Santa Fe,Zona 5,0.02363398
+2994,Soja,2017,Santa Fe,Zona 5,0.07123624
+2995,Soja,2018,Santa Fe,Zona 5,0.04255233
+2996,Soja,2019,Santa Fe,Zona 5,0.08816885000000001
+2997,Soja,2020,Santa Fe,Zona 5,0.05334
+2998,Soja,2015,Santa Fe,Zona 6,0.2065995600000001
+2999,Soja,2016,Santa Fe,Zona 6,0.11004521000000002
+3000,Soja,2017,Santa Fe,Zona 6,0.17308295999999995
+3001,Soja,2018,Santa Fe,Zona 6,0.13744602
+3002,Soja,2019,Santa Fe,Zona 6,0.34385273000000005
+3003,Soja,2020,Santa Fe,Zona 6,0.01557773
+3004,Soja,2015,Santa Fe,Zona 7,0.013290209999999998
+3005,Soja,2016,Santa Fe,Zona 7,0.026661679999999993
+3006,Soja,2017,Santa Fe,Zona 7,0.01175501
+3007,Soja,2018,Santa Fe,Zona 7,0.01613995
+3008,Soja,2019,Santa Fe,Zona 7,0.05195293000000001
+3009,Soja,2020,Santa Fe,Zona 7,0.016765
+3010,Soja,2015,Santa Fe,Zona 8,0.9860283700000009
+3011,Soja,2016,Santa Fe,Zona 8,0.7372094100000002
+3012,Soja,2017,Santa Fe,Zona 8,0.6816363199999997
+3013,Soja,2018,Santa Fe,Zona 8,0.44914425
+3014,Soja,2019,Santa Fe,Zona 8,0.7727715399999998
+3015,Soja,2020,Santa Fe,Zona 8,0.08287863000000001
+3016,Soja,2015,Santa Fe,Zona 9,0.029497680000000002
+3017,Soja,2016,Santa Fe,Zona 9,0.02374133
+3018,Soja,2017,Santa Fe,Zona 9,0.01499189
+3019,Soja,2018,Santa Fe,Zona 9,0.01819059
+3020,Soja,2019,Santa Fe,Zona 9,0.00716385
+3021,Soja,2020,Santa Fe,Zona 9,0.00171
+3022,Trigo,2015,Santa Fe,B.Blanca,0.00307
+3023,Trigo,2016,Santa Fe,B.Blanca,0.00367
+3024,Trigo,2017,Santa Fe,B.Blanca,0.01137
+3025,Trigo,2018,Santa Fe,B.Blanca,0.0066865299999999996
+3026,Trigo,2019,Santa Fe,B.Blanca,0.00787
+3027,Trigo,2020,Santa Fe,B.Blanca,0.00125
+3028,Trigo,2015,Santa Fe,Bs As,0.06322353
+3029,Trigo,2016,Santa Fe,Bs As,0.01001668
+3030,Trigo,2017,Santa Fe,Bs As,0.014903099999999999
+3031,Trigo,2018,Santa Fe,Bs As,0.012385749999999997
+3032,Trigo,2019,Santa Fe,Bs As,0.10513111
+3033,Trigo,2020,Santa Fe,Bs As,0.00378
+3034,Trigo,2015,Santa Fe,Cordoba,0.00631794
+3035,Trigo,2016,Santa Fe,Cordoba,0.00406057
+3036,Trigo,2017,Santa Fe,Cordoba,0.0019866
+3037,Trigo,2018,Santa Fe,Cordoba,0.004816020000000001
+3038,Trigo,2019,Santa Fe,Cordoba,0.013135470000000002
+3039,Trigo,2015,Santa Fe,Quequen,0.00621
+3040,Trigo,2016,Santa Fe,Quequen,0.00083
+3041,Trigo,2017,Santa Fe,Quequen,0.0008099400000000001
+3042,Trigo,2018,Santa Fe,Quequen,9.415000000000001e-05
+3043,Trigo,2019,Santa Fe,Quequen,0.02299779
+3044,Trigo,2020,Santa Fe,Quequen,0.007475
+3045,Trigo,2015,Santa Fe,Resto del País,0.00039
+3046,Trigo,2015,Santa Fe,Rosario N,1.09937198
+3047,Trigo,2016,Santa Fe,Rosario N,1.8264277599999996
+3048,Trigo,2017,Santa Fe,Rosario N,2.3628337200000007
+3049,Trigo,2018,Santa Fe,Rosario N,2.98854403
+3050,Trigo,2019,Santa Fe,Rosario N,3.614095059999998
+3051,Trigo,2020,Santa Fe,Rosario N,1.0953294299999998
+3052,Trigo,2015,Santa Fe,Rosario S,0.5526800900000002
+3053,Trigo,2016,Santa Fe,Rosario S,1.2844765500000004
+3054,Trigo,2017,Santa Fe,Rosario S,1.2781750500000002
+3055,Trigo,2018,Santa Fe,Rosario S,1.5892601899999999
+3056,Trigo,2019,Santa Fe,Rosario S,1.80176317
+3057,Trigo,2020,Santa Fe,Rosario S,0.558584
+3058,Trigo,2021,Santa Fe,Rosario S,0.00051
+3059,Trigo,2017,Santa Fe,Zona 10,0.00065
+3060,Trigo,2019,Santa Fe,Zona 10,6e-05
+3061,Trigo,2015,Santa Fe,Zona 11,0.0034343000000000004
+3062,Trigo,2016,Santa Fe,Zona 11,0.02026175
+3063,Trigo,2017,Santa Fe,Zona 11,0.0065101000000000004
+3064,Trigo,2018,Santa Fe,Zona 11,0.0057188099999999995
+3065,Trigo,2019,Santa Fe,Zona 11,0.01530843
+3066,Trigo,2015,Santa Fe,Zona 12,0.18647747
+3067,Trigo,2016,Santa Fe,Zona 12,0.7843446100000002
+3068,Trigo,2017,Santa Fe,Zona 12,0.6491831299999999
+3069,Trigo,2018,Santa Fe,Zona 12,0.23530249000000003
+3070,Trigo,2019,Santa Fe,Zona 12,0.43428903
+3071,Trigo,2020,Santa Fe,Zona 12,0.109984
+3072,Trigo,2015,Santa Fe,Zona 13,0.00272946
+3073,Trigo,2016,Santa Fe,Zona 13,0.006993
+3074,Trigo,2017,Santa Fe,Zona 13,0.0061841100000000005
+3075,Trigo,2018,Santa Fe,Zona 13,0.004905779999999999
+3076,Trigo,2019,Santa Fe,Zona 13,0.0049952700000000004
+3077,Trigo,2015,Santa Fe,Zona 14,0.21109039999999998
+3078,Trigo,2016,Santa Fe,Zona 14,0.22593651
+3079,Trigo,2017,Santa Fe,Zona 14,0.24316788
+3080,Trigo,2018,Santa Fe,Zona 14,0.24297959000000002
+3081,Trigo,2019,Santa Fe,Zona 14,0.26920687000000004
+3082,Trigo,2020,Santa Fe,Zona 14,0.021916
+3083,Trigo,2016,Santa Fe,Zona 15,5.578e-05
+3084,Trigo,2017,Santa Fe,Zona 15,0.0012736199999999998
+3085,Trigo,2018,Santa Fe,Zona 15,0.00812386
+3086,Trigo,2019,Santa Fe,Zona 15,0.00291352
+3087,Trigo,2015,Santa Fe,Zona 16,0.00639
+3088,Trigo,2016,Santa Fe,Zona 16,0.00657329
+3089,Trigo,2017,Santa Fe,Zona 16,0.00258
+3090,Trigo,2018,Santa Fe,Zona 16,0.00254
+3091,Trigo,2019,Santa Fe,Zona 16,0.01100859
+3092,Trigo,2015,Santa Fe,Zona 17,0.012936940000000001
+3093,Trigo,2016,Santa Fe,Zona 17,0.0205086
+3094,Trigo,2017,Santa Fe,Zona 17,0.013036639999999999
+3095,Trigo,2018,Santa Fe,Zona 17,0.01925038
+3096,Trigo,2019,Santa Fe,Zona 17,0.03205993
+3097,Trigo,2020,Santa Fe,Zona 17,0.007
+3098,Trigo,2015,Santa Fe,Zona 18,0.01055267
+3099,Trigo,2016,Santa Fe,Zona 18,0.030838550000000003
+3100,Trigo,2017,Santa Fe,Zona 18,0.03541452
+3101,Trigo,2018,Santa Fe,Zona 18,0.00461753
+3102,Trigo,2019,Santa Fe,Zona 18,0.01030323
+3103,Trigo,2020,Santa Fe,Zona 18,0.00063
+3104,Trigo,2015,Santa Fe,Zona 2,6e-05
+3105,Trigo,2016,Santa Fe,Zona 2,0.00024
+3106,Trigo,2017,Santa Fe,Zona 2,0.001
+3107,Trigo,2019,Santa Fe,Zona 2,2.0079999999999997e-05
+3108,Trigo,2016,Santa Fe,Zona 3,0.00181
+3109,Trigo,2017,Santa Fe,Zona 3,0.00122
+3110,Trigo,2018,Santa Fe,Zona 3,0.00124
+3111,Trigo,2019,Santa Fe,Zona 3,0.00494
+3112,Trigo,2020,Santa Fe,Zona 3,0.00091
+3113,Trigo,2015,Santa Fe,Zona 4,0.00012
+3114,Trigo,2019,Santa Fe,Zona 4,8.463e-05
+3115,Trigo,2015,Santa Fe,Zona 5,0.05000546000000001
+3116,Trigo,2016,Santa Fe,Zona 5,0.02012001
+3117,Trigo,2017,Santa Fe,Zona 5,0.02629104
+3118,Trigo,2018,Santa Fe,Zona 5,0.07647688000000001
+3119,Trigo,2019,Santa Fe,Zona 5,0.03855
+3120,Trigo,2020,Santa Fe,Zona 5,0.0121
+3121,Trigo,2015,Santa Fe,Zona 6,0.19845495999999996
+3122,Trigo,2016,Santa Fe,Zona 6,0.06965013999999999
+3123,Trigo,2017,Santa Fe,Zona 6,0.03396394
+3124,Trigo,2018,Santa Fe,Zona 6,0.04476199000000001
+3125,Trigo,2019,Santa Fe,Zona 6,0.06082622
+3126,Trigo,2020,Santa Fe,Zona 6,0.00365
+3127,Trigo,2015,Santa Fe,Zona 7,0.01250755
+3128,Trigo,2016,Santa Fe,Zona 7,0.01336634
+3129,Trigo,2017,Santa Fe,Zona 7,0.00250462
+3130,Trigo,2018,Santa Fe,Zona 7,0.00733451
+3131,Trigo,2019,Santa Fe,Zona 7,0.00956795
+3132,Trigo,2015,Santa Fe,Zona 8,0.30309982
+3133,Trigo,2016,Santa Fe,Zona 8,0.3396613999999999
+3134,Trigo,2017,Santa Fe,Zona 8,0.22990146999999997
+3135,Trigo,2018,Santa Fe,Zona 8,0.23654117000000008
+3136,Trigo,2019,Santa Fe,Zona 8,0.26459376
+3137,Trigo,2020,Santa Fe,Zona 8,0.012736
+3138,Trigo,2015,Santa Fe,Zona 9,0.047957080000000006
+3139,Trigo,2016,Santa Fe,Zona 9,0.08323899
+3140,Trigo,2017,Santa Fe,Zona 9,0.025731000000000004
+3141,Trigo,2018,Santa Fe,Zona 9,0.01705219
+3142,Trigo,2019,Santa Fe,Zona 9,0.03607938000000001
+3143,Trigo,2020,Santa Fe,Zona 9,6.2e-05
+3144,Maiz,2017,Santiago del Estero,B.Blanca,0.00045
+3145,Maiz,2019,Santiago del Estero,B.Blanca,0.001
+3146,Maiz,2015,Santiago del Estero,Bs As,0.00177
+3147,Maiz,2016,Santiago del Estero,Bs As,0.000539
+3148,Maiz,2017,Santiago del Estero,Bs As,0.0003
+3149,Maiz,2018,Santiago del Estero,Bs As,0.00209
+3150,Maiz,2019,Santiago del Estero,Bs As,0.0015
+3151,Maiz,2015,Santiago del Estero,Cordoba,0.0008113300000000001
+3152,Maiz,2016,Santiago del Estero,Cordoba,0.0015225999999999998
+3153,Maiz,2017,Santiago del Estero,Cordoba,0.0042376
+3154,Maiz,2018,Santiago del Estero,Cordoba,0.0006005899999999999
+3155,Maiz,2019,Santiago del Estero,Cordoba,0.01025035
+3156,Maiz,2019,Santiago del Estero,Quequen,3.12e-05
+3157,Maiz,2015,Santiago del Estero,Resto del País,0.0054
+3158,Maiz,2016,Santiago del Estero,Resto del País,0.00404
+3159,Maiz,2017,Santiago del Estero,Resto del País,0.00126
+3160,Maiz,2019,Santiago del Estero,Resto del País,0.00133
+3161,Maiz,2015,Santiago del Estero,Rosario N,0.3102204
+3162,Maiz,2016,Santiago del Estero,Rosario N,0.6079789800000002
+3163,Maiz,2017,Santiago del Estero,Rosario N,0.5868618300000001
+3164,Maiz,2018,Santiago del Estero,Rosario N,0.5279111499999999
+3165,Maiz,2019,Santiago del Estero,Rosario N,0.74931336
+3166,Maiz,2020,Santiago del Estero,Rosario N,0.370176
+3167,Maiz,2015,Santiago del Estero,Rosario S,0.15875720999999995
+3168,Maiz,2016,Santiago del Estero,Rosario S,0.38867764
+3169,Maiz,2017,Santiago del Estero,Rosario S,0.22501566000000003
+3170,Maiz,2018,Santiago del Estero,Rosario S,0.18264888999999998
+3171,Maiz,2019,Santiago del Estero,Rosario S,0.31759735
+3172,Maiz,2020,Santiago del Estero,Rosario S,0.131653
+3173,Maiz,2015,Santiago del Estero,Zona 11,0.030917610000000005
+3174,Maiz,2016,Santiago del Estero,Zona 11,0.01945715
+3175,Maiz,2017,Santiago del Estero,Zona 11,0.03912617000000001
+3176,Maiz,2018,Santiago del Estero,Zona 11,0.15388712999999998
+3177,Maiz,2019,Santiago del Estero,Zona 11,0.14976942000000001
+3178,Maiz,2020,Santiago del Estero,Zona 11,0.08435
+3179,Maiz,2015,Santiago del Estero,Zona 12,0.030174640000000003
+3180,Maiz,2016,Santiago del Estero,Zona 12,0.03446058
+3181,Maiz,2017,Santiago del Estero,Zona 12,0.022328579999999997
+3182,Maiz,2018,Santiago del Estero,Zona 12,0.044060430000000005
+3183,Maiz,2019,Santiago del Estero,Zona 12,0.02254164
+3184,Maiz,2020,Santiago del Estero,Zona 12,0.018345
+3185,Maiz,2015,Santiago del Estero,Zona 13,0.10610559
+3186,Maiz,2016,Santiago del Estero,Zona 13,0.056259359999999994
+3187,Maiz,2017,Santiago del Estero,Zona 13,0.05202378
+3188,Maiz,2018,Santiago del Estero,Zona 13,0.04637297
+3189,Maiz,2019,Santiago del Estero,Zona 13,0.0472968
+3190,Maiz,2020,Santiago del Estero,Zona 13,0.001
+3191,Maiz,2015,Santiago del Estero,Zona 14,0.08664559000000001
+3192,Maiz,2016,Santiago del Estero,Zona 14,0.14407448
+3193,Maiz,2017,Santiago del Estero,Zona 14,0.1960411
+3194,Maiz,2018,Santiago del Estero,Zona 14,0.23652126999999998
+3195,Maiz,2019,Santiago del Estero,Zona 14,0.19963922999999997
+3196,Maiz,2020,Santiago del Estero,Zona 14,0.02534
+3197,Maiz,2015,Santiago del Estero,Zona 15,0.13662010999999993
+3198,Maiz,2016,Santiago del Estero,Zona 15,0.11741274000000008
+3199,Maiz,2017,Santiago del Estero,Zona 15,0.05691629000000001
+3200,Maiz,2018,Santiago del Estero,Zona 15,0.07035771
+3201,Maiz,2019,Santiago del Estero,Zona 15,0.07522053999999999
+3202,Maiz,2020,Santiago del Estero,Zona 15,0.00845
+3203,Maiz,2015,Santiago del Estero,Zona 16,0.09281388
+3204,Maiz,2016,Santiago del Estero,Zona 16,0.08620842
+3205,Maiz,2017,Santiago del Estero,Zona 16,0.11985129000000001
+3206,Maiz,2018,Santiago del Estero,Zona 16,0.15284059000000003
+3207,Maiz,2019,Santiago del Estero,Zona 16,0.10545972
+3208,Maiz,2020,Santiago del Estero,Zona 16,0.036348
+3209,Maiz,2015,Santiago del Estero,Zona 17,0.00033
+3210,Maiz,2016,Santiago del Estero,Zona 17,0.0010399499999999998
+3211,Maiz,2017,Santiago del Estero,Zona 17,0.00355
+3212,Maiz,2018,Santiago del Estero,Zona 17,0.013274379999999999
+3213,Maiz,2019,Santiago del Estero,Zona 17,0.000708
+3214,Maiz,2020,Santiago del Estero,Zona 17,0.002032
+3215,Maiz,2015,Santiago del Estero,Zona 18,0.04655791999999999
+3216,Maiz,2016,Santiago del Estero,Zona 18,0.04786566999999999
+3217,Maiz,2017,Santiago del Estero,Zona 18,0.04050864
+3218,Maiz,2018,Santiago del Estero,Zona 18,0.03699975
+3219,Maiz,2019,Santiago del Estero,Zona 18,0.0500544
+3220,Maiz,2020,Santiago del Estero,Zona 18,0.00348
+3221,Maiz,2015,Santiago del Estero,Zona 4,0.0018583299999999998
+3222,Maiz,2016,Santiago del Estero,Zona 4,0.00014762
+3223,Maiz,2017,Santiago del Estero,Zona 4,0.00012932
+3224,Maiz,2015,Santiago del Estero,Zona 5,0.02823718
+3225,Maiz,2016,Santiago del Estero,Zona 5,0.00902644
+3226,Maiz,2017,Santiago del Estero,Zona 5,0.000565
+3227,Maiz,2018,Santiago del Estero,Zona 5,0.00956
+3228,Maiz,2019,Santiago del Estero,Zona 5,0.00743
+3229,Maiz,2020,Santiago del Estero,Zona 5,0.0005
+3230,Maiz,2015,Santiago del Estero,Zona 6,0.027589100000000005
+3231,Maiz,2016,Santiago del Estero,Zona 6,0.02254
+3232,Maiz,2017,Santiago del Estero,Zona 6,0.003
+3233,Maiz,2018,Santiago del Estero,Zona 6,0.00437811
+3234,Maiz,2019,Santiago del Estero,Zona 6,0.01211
+3235,Maiz,2015,Santiago del Estero,Zona 7,0.00040526
+3236,Maiz,2016,Santiago del Estero,Zona 7,0.0013558699999999997
+3237,Maiz,2017,Santiago del Estero,Zona 7,0.00105587
+3238,Maiz,2019,Santiago del Estero,Zona 7,0.00080884
+3239,Maiz,2015,Santiago del Estero,Zona 8,0.021920379999999996
+3240,Maiz,2016,Santiago del Estero,Zona 8,0.01033399
+3241,Maiz,2017,Santiago del Estero,Zona 8,0.00185546
+3242,Maiz,2018,Santiago del Estero,Zona 8,0.03362934
+3243,Maiz,2019,Santiago del Estero,Zona 8,0.00284854
+3244,Maiz,2015,Santiago del Estero,Zona 9,0.003783
+3245,Maiz,2016,Santiago del Estero,Zona 9,0.0025489899999999997
+3246,Maiz,2017,Santiago del Estero,Zona 9,0.0015
+3247,Maiz,2019,Santiago del Estero,Zona 9,0.00063
+3248,Soja,2016,Santiago del Estero,B.Blanca,0.00104
+3249,Soja,2017,Santiago del Estero,B.Blanca,5.976e-05
+3250,Soja,2019,Santiago del Estero,B.Blanca,3e-05
+3251,Soja,2016,Santiago del Estero,Bs As,0.00069
+3252,Soja,2017,Santiago del Estero,Bs As,0.00015
+3253,Soja,2015,Santiago del Estero,Cordoba,0.0023577399999999997
+3254,Soja,2016,Santiago del Estero,Cordoba,0.00056967
+3255,Soja,2017,Santiago del Estero,Cordoba,0.00335251
+3256,Soja,2018,Santiago del Estero,Cordoba,0.0007068300000000001
+3257,Soja,2019,Santiago del Estero,Cordoba,0.0032804
+3258,Soja,2020,Santiago del Estero,Cordoba,0.0015
+3259,Soja,2015,Santiago del Estero,Quequen,7.8e-05
+3260,Soja,2017,Santiago del Estero,Quequen,0.00045
+3261,Soja,2015,Santiago del Estero,Rosario N,0.51547925
+3262,Soja,2016,Santiago del Estero,Rosario N,0.50868924
+3263,Soja,2017,Santiago del Estero,Rosario N,0.60433766
+3264,Soja,2018,Santiago del Estero,Rosario N,0.41032881
+3265,Soja,2019,Santiago del Estero,Rosario N,0.5379738700000002
+3266,Soja,2020,Santiago del Estero,Rosario N,0.17365
+3267,Soja,2021,Santiago del Estero,Rosario N,3e-05
+3268,Soja,2015,Santiago del Estero,Rosario S,0.05838901
+3269,Soja,2016,Santiago del Estero,Rosario S,0.10738813000000003
+3270,Soja,2017,Santiago del Estero,Rosario S,0.12737585
+3271,Soja,2018,Santiago del Estero,Rosario S,0.07161056
+3272,Soja,2019,Santiago del Estero,Rosario S,0.12891323000000002
+3273,Soja,2020,Santiago del Estero,Rosario S,0.056006
+3274,Soja,2015,Santiago del Estero,Zona 10,2.118e-05
+3275,Soja,2017,Santiago del Estero,Zona 10,0.00015
+3276,Soja,2015,Santiago del Estero,Zona 11,0.32589633
+3277,Soja,2016,Santiago del Estero,Zona 11,0.24599847
+3278,Soja,2017,Santiago del Estero,Zona 11,0.3308601900000001
+3279,Soja,2018,Santiago del Estero,Zona 11,0.22486574
+3280,Soja,2019,Santiago del Estero,Zona 11,0.28914474000000007
+3281,Soja,2020,Santiago del Estero,Zona 11,0.07409
+3282,Soja,2015,Santiago del Estero,Zona 12,0.01435226
+3283,Soja,2016,Santiago del Estero,Zona 12,0.04843724
+3284,Soja,2017,Santiago del Estero,Zona 12,0.02139696
+3285,Soja,2018,Santiago del Estero,Zona 12,0.00792785
+3286,Soja,2019,Santiago del Estero,Zona 12,0.010662069999999997
+3287,Soja,2020,Santiago del Estero,Zona 12,0.00439
+3288,Soja,2015,Santiago del Estero,Zona 13,0.0009
+3289,Soja,2016,Santiago del Estero,Zona 13,0.00455031
+3290,Soja,2017,Santiago del Estero,Zona 13,0.00066
+3291,Soja,2018,Santiago del Estero,Zona 13,0.0033607600000000004
+3292,Soja,2019,Santiago del Estero,Zona 13,0.0061031
+3293,Soja,2015,Santiago del Estero,Zona 14,0.19395045999999996
+3294,Soja,2016,Santiago del Estero,Zona 14,0.16205680000000006
+3295,Soja,2017,Santiago del Estero,Zona 14,0.21274103000000005
+3296,Soja,2018,Santiago del Estero,Zona 14,0.09187175000000002
+3297,Soja,2019,Santiago del Estero,Zona 14,0.16242886000000004
+3298,Soja,2020,Santiago del Estero,Zona 14,0.01189
+3299,Soja,2015,Santiago del Estero,Zona 15,0.22187410000000013
+3300,Soja,2016,Santiago del Estero,Zona 15,0.17350437000000002
+3301,Soja,2017,Santiago del Estero,Zona 15,0.16122190999999997
+3302,Soja,2018,Santiago del Estero,Zona 15,0.10928749999999998
+3303,Soja,2019,Santiago del Estero,Zona 15,0.16732214
+3304,Soja,2020,Santiago del Estero,Zona 15,0.026846270000000002
+3305,Soja,2015,Santiago del Estero,Zona 16,0.12649561
+3306,Soja,2016,Santiago del Estero,Zona 16,0.11952156000000001
+3307,Soja,2017,Santiago del Estero,Zona 16,0.12307761000000002
+3308,Soja,2018,Santiago del Estero,Zona 16,0.09252276999999999
+3309,Soja,2019,Santiago del Estero,Zona 16,0.17199809
+3310,Soja,2020,Santiago del Estero,Zona 16,0.013022
+3311,Soja,2015,Santiago del Estero,Zona 17,0.01223199
+3312,Soja,2016,Santiago del Estero,Zona 17,7.42e-05
+3313,Soja,2017,Santiago del Estero,Zona 17,0.00089991
+3314,Soja,2018,Santiago del Estero,Zona 17,0.00868896
+3315,Soja,2019,Santiago del Estero,Zona 17,0.00497558
+3316,Soja,2020,Santiago del Estero,Zona 17,0.001088
+3317,Soja,2015,Santiago del Estero,Zona 18,0.0022736799999999997
+3318,Soja,2016,Santiago del Estero,Zona 18,0.006139899999999999
+3319,Soja,2017,Santiago del Estero,Zona 18,0.004505540000000001
+3320,Soja,2018,Santiago del Estero,Zona 18,0.009523720000000001
+3321,Soja,2019,Santiago del Estero,Zona 18,0.0336461
+3322,Soja,2020,Santiago del Estero,Zona 18,0.00242
+3323,Soja,2017,Santiago del Estero,Zona 4,8.259999999999999e-05
+3324,Soja,2016,Santiago del Estero,Zona 5,0.00060568
+3325,Soja,2017,Santiago del Estero,Zona 5,0.00063
+3326,Soja,2019,Santiago del Estero,Zona 5,6e-05
+3327,Soja,2015,Santiago del Estero,Zona 6,0.0006757100000000002
+3328,Soja,2019,Santiago del Estero,Zona 6,0.00012
+3329,Soja,2020,Santiago del Estero,Zona 6,0.000544
+3330,Soja,2015,Santiago del Estero,Zona 7,2.948e-05
+3331,Soja,2016,Santiago del Estero,Zona 7,0.000107
+3332,Soja,2019,Santiago del Estero,Zona 7,7.756e-05
+3333,Soja,2015,Santiago del Estero,Zona 8,0.00018935999999999996
+3334,Soja,2016,Santiago del Estero,Zona 8,0.0012314700000000001
+3335,Soja,2017,Santiago del Estero,Zona 8,0.005847719999999999
+3336,Soja,2018,Santiago del Estero,Zona 8,0.0012443500000000002
+3337,Soja,2019,Santiago del Estero,Zona 8,0.00391222
+3338,Soja,2015,Santiago del Estero,Zona 9,8.095e-05
+3339,Soja,2016,Santiago del Estero,Zona 9,0.00155133
+3340,Soja,2017,Santiago del Estero,Zona 9,0.00342292
+3341,Soja,2018,Santiago del Estero,Zona 9,0.0007880600000000001
+3342,Soja,2019,Santiago del Estero,Zona 9,0.0169611
+3343,Trigo,2015,Santiago del Estero,B.Blanca,0.00063
+3344,Trigo,2016,Santiago del Estero,B.Blanca,0.002716
+3345,Trigo,2017,Santiago del Estero,B.Blanca,0.0022
+3346,Trigo,2018,Santiago del Estero,B.Blanca,0.00109999
+3347,Trigo,2019,Santiago del Estero,B.Blanca,0.00078
+3348,Trigo,2015,Santiago del Estero,Bs As,0.00114784
+3349,Trigo,2016,Santiago del Estero,Bs As,0.00577881
+3350,Trigo,2017,Santiago del Estero,Bs As,0.00511
+3351,Trigo,2018,Santiago del Estero,Bs As,0.01196725
+3352,Trigo,2019,Santiago del Estero,Bs As,0.01365209
+3353,Trigo,2015,Santiago del Estero,Cordoba,0.00110172
+3354,Trigo,2016,Santiago del Estero,Cordoba,0.00269086
+3355,Trigo,2017,Santiago del Estero,Cordoba,0.00444048
+3356,Trigo,2018,Santiago del Estero,Cordoba,0.02331412
+3357,Trigo,2019,Santiago del Estero,Cordoba,0.021328569999999998
+3358,Trigo,2017,Santiago del Estero,Quequen,0.00065
+3359,Trigo,2019,Santiago del Estero,Quequen,0.0023
+3360,Trigo,2015,Santiago del Estero,Rosario N,0.01515393
+3361,Trigo,2016,Santiago del Estero,Rosario N,0.09395574
+3362,Trigo,2017,Santiago del Estero,Rosario N,0.20335137000000003
+3363,Trigo,2018,Santiago del Estero,Rosario N,0.10104574000000001
+3364,Trigo,2019,Santiago del Estero,Rosario N,0.15528838000000003
+3365,Trigo,2020,Santiago del Estero,Rosario N,0.01682
+3366,Trigo,2015,Santiago del Estero,Rosario S,0.00652016
+3367,Trigo,2016,Santiago del Estero,Rosario S,0.02994234
+3368,Trigo,2017,Santiago del Estero,Rosario S,0.042421980000000005
+3369,Trigo,2018,Santiago del Estero,Rosario S,0.024891220000000002
+3370,Trigo,2019,Santiago del Estero,Rosario S,0.033918979999999994
+3371,Trigo,2020,Santiago del Estero,Rosario S,0.01192
+3372,Trigo,2015,Santiago del Estero,Zona 10,6e-05
+3373,Trigo,2015,Santiago del Estero,Zona 11,0.0001137
+3374,Trigo,2016,Santiago del Estero,Zona 11,0.00066
+3375,Trigo,2018,Santiago del Estero,Zona 11,0.00052604
+3376,Trigo,2019,Santiago del Estero,Zona 11,0.0034973799999999996
+3377,Trigo,2015,Santiago del Estero,Zona 12,0.0035299500000000004
+3378,Trigo,2016,Santiago del Estero,Zona 12,0.00359304
+3379,Trigo,2017,Santiago del Estero,Zona 12,0.011785110000000001
+3380,Trigo,2018,Santiago del Estero,Zona 12,0.00358043
+3381,Trigo,2019,Santiago del Estero,Zona 12,0.007381260000000001
+3382,Trigo,2020,Santiago del Estero,Zona 12,0.0003
+3383,Trigo,2015,Santiago del Estero,Zona 13,0.00024
+3384,Trigo,2016,Santiago del Estero,Zona 13,0.00197477
+3385,Trigo,2017,Santiago del Estero,Zona 13,0.0006
+3386,Trigo,2018,Santiago del Estero,Zona 13,3e-05
+3387,Trigo,2019,Santiago del Estero,Zona 13,6.646000000000001e-05
+3388,Trigo,2015,Santiago del Estero,Zona 14,0.009292040000000001
+3389,Trigo,2016,Santiago del Estero,Zona 14,0.011638780000000001
+3390,Trigo,2017,Santiago del Estero,Zona 14,0.031437089999999994
+3391,Trigo,2018,Santiago del Estero,Zona 14,0.0479624
+3392,Trigo,2019,Santiago del Estero,Zona 14,0.10318522000000004
+3393,Trigo,2020,Santiago del Estero,Zona 14,0.0025
+3394,Trigo,2015,Santiago del Estero,Zona 15,0.013515270000000006
+3395,Trigo,2016,Santiago del Estero,Zona 15,0.00742053
+3396,Trigo,2017,Santiago del Estero,Zona 15,0.016952670000000003
+3397,Trigo,2018,Santiago del Estero,Zona 15,0.050366760000000003
+3398,Trigo,2019,Santiago del Estero,Zona 15,0.061284480000000016
+3399,Trigo,2020,Santiago del Estero,Zona 15,0.0046023
+3400,Trigo,2015,Santiago del Estero,Zona 16,0.02611197
+3401,Trigo,2016,Santiago del Estero,Zona 16,0.04173101
+3402,Trigo,2017,Santiago del Estero,Zona 16,0.05876006
+3403,Trigo,2018,Santiago del Estero,Zona 16,0.032407309999999995
+3404,Trigo,2019,Santiago del Estero,Zona 16,0.04292542
+3405,Trigo,2015,Santiago del Estero,Zona 17,0.0061873299999999996
+3406,Trigo,2016,Santiago del Estero,Zona 17,0.023179659999999998
+3407,Trigo,2017,Santiago del Estero,Zona 17,0.05394424999999999
+3408,Trigo,2018,Santiago del Estero,Zona 17,0.02260566
+3409,Trigo,2019,Santiago del Estero,Zona 17,0.06089896000000001
+3410,Trigo,2020,Santiago del Estero,Zona 17,0.01212
+3411,Trigo,2015,Santiago del Estero,Zona 18,0.0027205500000000004
+3412,Trigo,2016,Santiago del Estero,Zona 18,0.00155059
+3413,Trigo,2017,Santiago del Estero,Zona 18,0.00063791
+3414,Trigo,2018,Santiago del Estero,Zona 18,0.00122
+3415,Trigo,2019,Santiago del Estero,Zona 18,0.00500912
+3416,Trigo,2020,Santiago del Estero,Zona 18,0.002901
+3417,Trigo,2015,Santiago del Estero,Zona 2,0.00036
+3418,Trigo,2018,Santiago del Estero,Zona 2,0.0003
+3419,Trigo,2019,Santiago del Estero,Zona 2,0.00024
+3420,Trigo,2019,Santiago del Estero,Zona 3,0.00466
+3421,Trigo,2015,Santiago del Estero,Zona 4,0.00045989999999999996
+3422,Trigo,2019,Santiago del Estero,Zona 4,6e-05
+3423,Trigo,2015,Santiago del Estero,Zona 5,0.00729
+3424,Trigo,2016,Santiago del Estero,Zona 5,0.00633
+3425,Trigo,2017,Santiago del Estero,Zona 5,0.00018
+3426,Trigo,2018,Santiago del Estero,Zona 5,0.007335
+3427,Trigo,2019,Santiago del Estero,Zona 5,0.01232
+3428,Trigo,2020,Santiago del Estero,Zona 5,0.001
+3429,Trigo,2015,Santiago del Estero,Zona 6,0.00378
+3430,Trigo,2016,Santiago del Estero,Zona 6,0.01016075
+3431,Trigo,2017,Santiago del Estero,Zona 6,8.767e-05
+3432,Trigo,2018,Santiago del Estero,Zona 6,0.00680378
+3433,Trigo,2019,Santiago del Estero,Zona 6,0.011406069999999999
+3434,Trigo,2015,Santiago del Estero,Zona 7,0.00158
+3435,Trigo,2016,Santiago del Estero,Zona 7,0.00036
+3436,Trigo,2017,Santiago del Estero,Zona 7,0.00017825
+3437,Trigo,2018,Santiago del Estero,Zona 7,0.0020637399999999997
+3438,Trigo,2019,Santiago del Estero,Zona 7,0.0006507
+3439,Trigo,2015,Santiago del Estero,Zona 8,0.0016768399999999995
+3440,Trigo,2016,Santiago del Estero,Zona 8,0.01366479
+3441,Trigo,2017,Santiago del Estero,Zona 8,0.00360765
+3442,Trigo,2018,Santiago del Estero,Zona 8,0.019367539999999996
+3443,Trigo,2019,Santiago del Estero,Zona 8,0.01007093
+3444,Trigo,2015,Santiago del Estero,Zona 9,0.00096
+3445,Trigo,2016,Santiago del Estero,Zona 9,0.004718470000000001
+3446,Trigo,2017,Santiago del Estero,Zona 9,5.842e-05
+3447,Trigo,2018,Santiago del Estero,Zona 9,0.02095405
+3448,Trigo,2019,Santiago del Estero,Zona 9,0.03901036
+3449,Soja,2017,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Zona 5,0.0021
+3450,Maiz,2015,Tucumán,Bs As,0.00039753
+3451,Maiz,2016,Tucumán,Bs As,0.0006435599999999999
+3452,Maiz,2019,Tucumán,Bs As,0.00033
+3453,Maiz,2015,Tucumán,Cordoba,0.0020763400000000003
+3454,Maiz,2016,Tucumán,Cordoba,0.0079502
+3455,Maiz,2017,Tucumán,Cordoba,0.00150816
+3456,Maiz,2018,Tucumán,Cordoba,0.00053481
+3457,Maiz,2019,Tucumán,Cordoba,0.00340118
+3458,Maiz,2015,Tucumán,Resto del País,0.00048
+3459,Maiz,2016,Tucumán,Resto del País,0.00138
+3460,Maiz,2017,Tucumán,Resto del País,0.0008
+3461,Maiz,2018,Tucumán,Resto del País,0.00039
+3462,Maiz,2019,Tucumán,Resto del País,0.00294
+3463,Maiz,2015,Tucumán,Rosario N,0.030590409999999995
+3464,Maiz,2016,Tucumán,Rosario N,0.07563889
+3465,Maiz,2017,Tucumán,Rosario N,0.025348110000000004
+3466,Maiz,2018,Tucumán,Rosario N,0.01574499
+3467,Maiz,2019,Tucumán,Rosario N,0.07374819
+3468,Maiz,2020,Tucumán,Rosario N,0.05722
+3469,Maiz,2015,Tucumán,Rosario S,0.0415354
+3470,Maiz,2016,Tucumán,Rosario S,0.05459992999999999
+3471,Maiz,2017,Tucumán,Rosario S,0.04451769000000001
+3472,Maiz,2018,Tucumán,Rosario S,0.04720896
+3473,Maiz,2019,Tucumán,Rosario S,0.09568818000000001
+3474,Maiz,2020,Tucumán,Rosario S,0.05285
+3475,Maiz,2015,Tucumán,Zona 1,0.00055
+3476,Maiz,2015,Tucumán,Zona 10,0.00487973
+3477,Maiz,2016,Tucumán,Zona 10,0.00204104
+3478,Maiz,2017,Tucumán,Zona 10,0.00151
+3479,Maiz,2018,Tucumán,Zona 10,0.000152
+3480,Maiz,2019,Tucumán,Zona 10,0.001519
+3481,Maiz,2015,Tucumán,Zona 11,0.00159547
+3482,Maiz,2016,Tucumán,Zona 11,0.0021205300000000002
+3483,Maiz,2017,Tucumán,Zona 11,0.0026414299999999997
+3484,Maiz,2018,Tucumán,Zona 11,0.01395831
+3485,Maiz,2019,Tucumán,Zona 11,0.0161803
+3486,Maiz,2020,Tucumán,Zona 11,0.00517
+3487,Maiz,2015,Tucumán,Zona 12,0.0052
+3488,Maiz,2016,Tucumán,Zona 12,0.006745149999999999
+3489,Maiz,2017,Tucumán,Zona 12,5.8e-05
+3490,Maiz,2018,Tucumán,Zona 12,0.0072783299999999995
+3491,Maiz,2019,Tucumán,Zona 12,0.0029548600000000006
+3492,Maiz,2020,Tucumán,Zona 12,0.00027
+3493,Maiz,2015,Tucumán,Zona 13,0.00015
+3494,Maiz,2016,Tucumán,Zona 13,0.00538
+3495,Maiz,2017,Tucumán,Zona 13,0.00226
+3496,Maiz,2018,Tucumán,Zona 13,0.00383
+3497,Maiz,2019,Tucumán,Zona 13,0.01149
+3498,Maiz,2015,Tucumán,Zona 14,0.00521506
+3499,Maiz,2016,Tucumán,Zona 14,0.01406792
+3500,Maiz,2017,Tucumán,Zona 14,0.00987628
+3501,Maiz,2018,Tucumán,Zona 14,0.007915
+3502,Maiz,2019,Tucumán,Zona 14,0.023521649999999998
+3503,Maiz,2020,Tucumán,Zona 14,0.002
+3504,Maiz,2015,Tucumán,Zona 15,0.00027648
+3505,Maiz,2016,Tucumán,Zona 15,0.0005309
+3506,Maiz,2017,Tucumán,Zona 15,0.00055
+3507,Maiz,2015,Tucumán,Zona 16,0.09262971999999998
+3508,Maiz,2016,Tucumán,Zona 16,0.09326947000000002
+3509,Maiz,2017,Tucumán,Zona 16,0.12246110000000002
+3510,Maiz,2018,Tucumán,Zona 16,0.14252935
+3511,Maiz,2019,Tucumán,Zona 16,0.21370280000000003
+3512,Maiz,2020,Tucumán,Zona 16,0.057763
+3513,Maiz,2016,Tucumán,Zona 17,3.776e-05
+3514,Maiz,2018,Tucumán,Zona 17,0.0001571
+3515,Maiz,2019,Tucumán,Zona 17,0.0021
+3516,Maiz,2015,Tucumán,Zona 18,0.0010253800000000002
+3517,Maiz,2016,Tucumán,Zona 18,0.0044119
+3518,Maiz,2017,Tucumán,Zona 18,0.00439
+3519,Maiz,2018,Tucumán,Zona 18,0.00881
+3520,Maiz,2019,Tucumán,Zona 18,0.0086
+3521,Maiz,2020,Tucumán,Zona 18,0.0005
+3522,Maiz,2015,Tucumán,Zona 5,0.00706
+3523,Maiz,2017,Tucumán,Zona 5,0.00205
+3524,Maiz,2018,Tucumán,Zona 5,0.0003
+3525,Maiz,2019,Tucumán,Zona 5,0.0020626900000000003
+3526,Maiz,2020,Tucumán,Zona 5,0.0005
+3527,Maiz,2015,Tucumán,Zona 6,0.03911422999999999
+3528,Maiz,2016,Tucumán,Zona 6,0.015593689999999999
+3529,Maiz,2017,Tucumán,Zona 6,0.00673
+3530,Maiz,2018,Tucumán,Zona 6,0.00607
+3531,Maiz,2019,Tucumán,Zona 6,0.00213
+3532,Maiz,2015,Tucumán,Zona 7,0.00082
+3533,Maiz,2016,Tucumán,Zona 7,2.21e-06
+3534,Maiz,2015,Tucumán,Zona 8,0.00058
+3535,Maiz,2016,Tucumán,Zona 8,0.00031984999999999994
+3536,Maiz,2017,Tucumán,Zona 8,2.85e-05
+3537,Maiz,2019,Tucumán,Zona 8,0.00015
+3538,Maiz,2015,Tucumán,Zona 9,0.00230062
+3539,Maiz,2016,Tucumán,Zona 9,0.0005356800000000003
+3540,Maiz,2017,Tucumán,Zona 9,0.00346
+3541,Maiz,2018,Tucumán,Zona 9,0.0002
+3542,Maiz,2019,Tucumán,Zona 9,0.00339699
+3543,Soja,2015,Tucumán,B.Blanca,0.00036
+3544,Soja,2016,Tucumán,B.Blanca,6e-05
+3545,Soja,2015,Tucumán,Cordoba,0.00118237
+3546,Soja,2016,Tucumán,Cordoba,0.0002784
+3547,Soja,2017,Tucumán,Cordoba,5.639999999999999e-06
+3548,Soja,2018,Tucumán,Cordoba,3e-05
+3549,Soja,2019,Tucumán,Cordoba,0.000201
+3550,Soja,2015,Tucumán,Rosario N,0.02637519
+3551,Soja,2016,Tucumán,Rosario N,0.01848674
+3552,Soja,2017,Tucumán,Rosario N,0.015294480000000001
+3553,Soja,2018,Tucumán,Rosario N,0.00558288
+3554,Soja,2019,Tucumán,Rosario N,0.03660216
+3555,Soja,2020,Tucumán,Rosario N,0.010808
+3556,Soja,2015,Tucumán,Rosario S,0.0012399800000000001
+3557,Soja,2016,Tucumán,Rosario S,0.0039142000000000005
+3558,Soja,2017,Tucumán,Rosario S,0.00170874
+3559,Soja,2018,Tucumán,Rosario S,0.03610092000000001
+3560,Soja,2019,Tucumán,Rosario S,0.01651127
+3561,Soja,2020,Tucumán,Rosario S,0.008354
+3562,Soja,2015,Tucumán,Zona 1,0.0001058
+3563,Soja,2015,Tucumán,Zona 10,0.00056986
+3564,Soja,2016,Tucumán,Zona 10,0.00097954
+3565,Soja,2017,Tucumán,Zona 10,0.001025
+3566,Soja,2015,Tucumán,Zona 11,0.059502240000000005
+3567,Soja,2016,Tucumán,Zona 11,0.06582732
+3568,Soja,2017,Tucumán,Zona 11,0.04940728
+3569,Soja,2018,Tucumán,Zona 11,0.04959971999999999
+3570,Soja,2019,Tucumán,Zona 11,0.08588062000000002
+3571,Soja,2020,Tucumán,Zona 11,0.00866
+3572,Soja,2015,Tucumán,Zona 12,0.00015174
+3573,Soja,2016,Tucumán,Zona 12,3.0399999999999997e-05
+3574,Soja,2018,Tucumán,Zona 12,0.0003
+3575,Soja,2019,Tucumán,Zona 12,0.00971866
+3576,Soja,2020,Tucumán,Zona 12,0.00018
+3577,Soja,2016,Tucumán,Zona 13,0.00036
+3578,Soja,2017,Tucumán,Zona 13,0.0003
+3579,Soja,2018,Tucumán,Zona 13,9e-05
+3580,Soja,2019,Tucumán,Zona 13,0.00057
+3581,Soja,2020,Tucumán,Zona 13,0.0005
+3582,Soja,2015,Tucumán,Zona 14,0.006841920000000001
+3583,Soja,2016,Tucumán,Zona 14,0.0029657999999999998
+3584,Soja,2017,Tucumán,Zona 14,0.0009228299999999999
+3585,Soja,2018,Tucumán,Zona 14,0.0007921499999999999
+3586,Soja,2019,Tucumán,Zona 14,0.00260551
+3587,Soja,2020,Tucumán,Zona 14,0.00092
+3588,Soja,2015,Tucumán,Zona 15,0.03801989
+3589,Soja,2016,Tucumán,Zona 15,0.018144030000000002
+3590,Soja,2017,Tucumán,Zona 15,0.03305013
+3591,Soja,2018,Tucumán,Zona 15,0.030491870000000004
+3592,Soja,2019,Tucumán,Zona 15,0.0029446900000000002
+3593,Soja,2015,Tucumán,Zona 16,0.25929222
+3594,Soja,2016,Tucumán,Zona 16,0.32679835
+3595,Soja,2017,Tucumán,Zona 16,0.2805837399999999
+3596,Soja,2018,Tucumán,Zona 16,0.24050065999999998
+3597,Soja,2019,Tucumán,Zona 16,0.3304674399999999
+3598,Soja,2020,Tucumán,Zona 16,0.05271145
+3599,Soja,2015,Tucumán,Zona 17,9.222e-05
+3600,Soja,2018,Tucumán,Zona 17,2.746e-05
+3601,Soja,2020,Tucumán,Zona 17,0.00063
+3602,Soja,2015,Tucumán,Zona 18,6.635e-05
+3603,Soja,2016,Tucumán,Zona 18,0.00065
+3604,Soja,2017,Tucumán,Zona 18,0.058931
+3605,Soja,2018,Tucumán,Zona 18,0.00036
+3606,Soja,2019,Tucumán,Zona 18,0.00012
+3607,Soja,2017,Tucumán,Zona 5,3e-05
+3608,Soja,2018,Tucumán,Zona 5,6e-05
+3609,Soja,2019,Tucumán,Zona 5,0.000448
+3610,Soja,2020,Tucumán,Zona 5,0.0007
+3611,Soja,2015,Tucumán,Zona 6,0.02458118
+3612,Soja,2016,Tucumán,Zona 6,0.015536070000000006
+3613,Soja,2017,Tucumán,Zona 6,0.0027754000000000003
+3614,Soja,2018,Tucumán,Zona 6,0.000259
+3615,Soja,2019,Tucumán,Zona 6,0.00083
+3616,Soja,2020,Tucumán,Zona 6,0.00258355
+3617,Soja,2015,Tucumán,Zona 7,0.00289576
+3618,Soja,2016,Tucumán,Zona 7,0.0032142300000000015
+3619,Soja,2020,Tucumán,Zona 7,1.564e-05
+3620,Soja,2015,Tucumán,Zona 8,0.00280089
+3621,Soja,2016,Tucumán,Zona 8,0.00281211
+3622,Soja,2017,Tucumán,Zona 8,0.00051
+3623,Soja,2018,Tucumán,Zona 8,0.00027
+3624,Soja,2019,Tucumán,Zona 8,0.0001
+3625,Soja,2015,Tucumán,Zona 9,0.00182808
+3626,Soja,2016,Tucumán,Zona 9,0.0056397899999999996
+3627,Soja,2017,Tucumán,Zona 9,0.0006291599999999999
+3628,Soja,2018,Tucumán,Zona 9,0.00023782
+3629,Soja,2019,Tucumán,Zona 9,0.0010222200000000001
+3630,Trigo,2016,Tucumán,B.Blanca,0.00081
+3631,Trigo,2017,Tucumán,B.Blanca,0.00015
+3632,Trigo,2019,Tucumán,B.Blanca,9e-05
+3633,Trigo,2015,Tucumán,Bs As,0.00093
+3634,Trigo,2016,Tucumán,Bs As,0.00664392
+3635,Trigo,2018,Tucumán,Bs As,0.00169
+3636,Trigo,2019,Tucumán,Bs As,0.00935
+3637,Trigo,2015,Tucumán,Cordoba,0.00109566
+3638,Trigo,2016,Tucumán,Cordoba,0.00039017
+3639,Trigo,2018,Tucumán,Cordoba,0.00050174
+3640,Trigo,2019,Tucumán,Cordoba,0.0020992
+3641,Trigo,2016,Tucumán,Quequen,0.0004
+3642,Trigo,2015,Tucumán,Rosario N,3e-05
+3643,Trigo,2016,Tucumán,Rosario N,0.00876617
+3644,Trigo,2017,Tucumán,Rosario N,0.011987949999999999
+3645,Trigo,2018,Tucumán,Rosario N,0.01107915
+3646,Trigo,2019,Tucumán,Rosario N,0.018156400000000003
+3647,Trigo,2020,Tucumán,Rosario N,0.00495
+3648,Trigo,2016,Tucumán,Rosario S,0.006380599999999999
+3649,Trigo,2017,Tucumán,Rosario S,0.0025960500000000004
+3650,Trigo,2018,Tucumán,Rosario S,0.0011320000000000002
+3651,Trigo,2019,Tucumán,Rosario S,0.00362609
+3652,Trigo,2020,Tucumán,Rosario S,0.00502
+3653,Trigo,2016,Tucumán,Zona 10,0.00042911
+3654,Trigo,2018,Tucumán,Zona 10,0.000116
+3655,Trigo,2019,Tucumán,Zona 10,0.00047741
+3656,Trigo,2016,Tucumán,Zona 11,0.00027
+3657,Trigo,2018,Tucumán,Zona 11,0.00021
+3658,Trigo,2016,Tucumán,Zona 12,0.00541
+3659,Trigo,2017,Tucumán,Zona 12,0.00012148000000000001
+3660,Trigo,2019,Tucumán,Zona 12,0.00067417
+3661,Trigo,2016,Tucumán,Zona 13,0.00027
+3662,Trigo,2018,Tucumán,Zona 13,0.00029
+3663,Trigo,2015,Tucumán,Zona 14,3.056e-05
+3664,Trigo,2016,Tucumán,Zona 14,0.00291204
+3665,Trigo,2018,Tucumán,Zona 14,0.00033225999999999997
+3666,Trigo,2019,Tucumán,Zona 14,0.00185
+3667,Trigo,2016,Tucumán,Zona 15,0.00025812000000000003
+3668,Trigo,2015,Tucumán,Zona 16,0.043125979999999994
+3669,Trigo,2016,Tucumán,Zona 16,0.10537898
+3670,Trigo,2017,Tucumán,Zona 16,0.11068188000000002
+3671,Trigo,2018,Tucumán,Zona 16,0.031249159999999995
+3672,Trigo,2019,Tucumán,Zona 16,0.04947649
+3673,Trigo,2020,Tucumán,Zona 16,0.001475
+3674,Trigo,2015,Tucumán,Zona 17,0.0219986
+3675,Trigo,2016,Tucumán,Zona 17,0.020708870000000004
+3676,Trigo,2017,Tucumán,Zona 17,0.01304955
+3677,Trigo,2018,Tucumán,Zona 17,0.009509320000000002
+3678,Trigo,2019,Tucumán,Zona 17,0.008822920000000001
+3679,Trigo,2016,Tucumán,Zona 18,0.00188998
+3680,Trigo,2018,Tucumán,Zona 18,0.00127
+3681,Trigo,2019,Tucumán,Zona 18,0.00063946
+3682,Trigo,2019,Tucumán,Zona 3,0.00042
+3683,Trigo,2015,Tucumán,Zona 5,0.0006
+3684,Trigo,2016,Tucumán,Zona 5,0.00104677
+3685,Trigo,2018,Tucumán,Zona 5,0.00025
+3686,Trigo,2019,Tucumán,Zona 5,0.00077
+3687,Trigo,2015,Tucumán,Zona 6,0.0039270500000000005
+3688,Trigo,2016,Tucumán,Zona 6,0.0092344
+3689,Trigo,2017,Tucumán,Zona 6,0.0013039000000000002
+3690,Trigo,2018,Tucumán,Zona 6,9e-05
+3691,Trigo,2019,Tucumán,Zona 6,0.00123963
+3692,Trigo,2015,Tucumán,Zona 7,0.01829436
+3693,Trigo,2016,Tucumán,Zona 7,0.02836367
+3694,Trigo,2015,Tucumán,Zona 8,0.00268
+3695,Trigo,2016,Tucumán,Zona 8,0.00481063
+3696,Trigo,2017,Tucumán,Zona 8,0.00028677
+3697,Trigo,2018,Tucumán,Zona 8,0.00042
+3698,Trigo,2019,Tucumán,Zona 8,0.00125415
+3699,Trigo,2015,Tucumán,Zona 9,0.00620758
+3700,Trigo,2016,Tucumán,Zona 9,0.00140928
+3701,Trigo,2018,Tucumán,Zona 9,0.008588029999999998
+3702,Trigo,2019,Tucumán,Zona 9,0.00033

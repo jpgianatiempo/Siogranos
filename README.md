@@ -73,10 +73,37 @@ Se agregan los siguientes campos:
 Dashboard interactivo de los flujos de comercialización de granos utilizando líneas curvas.
 ```
 
-MapFlow Beta.pbix / [link](https://app.powerbi.com/view?r=eyJrIjoiNjRlNzFkMjItZGQxYy00NmYxLWJmOGMtZGQxMWEyODY1Njk1IiwidCI6Ijg5MWFjN2RjLWRjMjUtNDQwMC1iMDY3LTlhNTQyM2YyOWE3MiJ9):
+* MapFlow Beta.pbix / [link](https://app.powerbi.com/view?r=eyJrIjoiNjRlNzFkMjItZGQxYy00NmYxLWJmOGMtZGQxMWEyODY1Njk1IiwidCI6Ijg5MWFjN2RjLWRjMjUtNDQwMC1iMDY3LTlhNTQyM2YyOWE3MiJ9):
 ```
 Dashboard interactivo de los flujos de comercialización de granos utilizando líneas directas.
 ```
+
+* [Connection Globe](https://public.flourish.studio/visualisation/3107320/):
+```
+Visualización interactiva con Flourish de los flujos de comercialización de granos utilizando connection globe.
+```
+
+* [Arc Map](https://public.flourish.studio/visualisation/3108677/):
+```
+Visualización interactiva con Flourish de los flujos de comercialización de granos utilizando Arc Map.
+```
+
+* [Sankey](https://public.flourish.studio/visualisation/3116006/):
+```
+Visualización interactiva con Flourish de los flujos de comercialización de granos utilizando Sankey.
+```
+
+* [Multi Stape Sankey](https://public.flourish.studio/visualisation/3119727/):
+```
+Visualización interactiva con Flourish de los flujos de comercialización de granos utilizando Multi Stape Sankey.
+```
+
+
+* [SunBurst](https://public.flourish.studio/visualisation/3115832/):
+```
+Visualización interactiva con Flourish de los flujos de comercialización de granos utilizando Sunburst.
+```
+
 
 
 ## Autor
