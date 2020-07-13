@@ -68,43 +68,17 @@ Se agregan los siguientes campos:
 *ZonaCentroidLon: Longitud del centroide de cada zona de entrega sio-granos.
 ```
 
-* MapFlow.pbix / [link](https://app.powerbi.com/view?r=eyJrIjoiMzU1M2NhZDUtOGZjMC00OGJhLTkwMzgtYWIxYTNjNjhlZGE3IiwidCI6Ijg5MWFjN2RjLWRjMjUtNDQwMC1iMDY3LTlhNTQyM2YyOWE3MiJ9):
+* [DataViz](https://jpgianatiempo.github.io/INFOVIS/Siogranos.html):
 ```
-Dashboard interactivo de los flujos de comercialización de granos utilizando líneas curvas.
-```
+Visualización interactiva de los flujos de comercialización de granos utilizando Flourish y Power Bi.
+Contiene los siguientes gráficos interactivos:
+- Arc Map
+- Map Flow
+- Multi Step Sankey
+- Sunburst
 
-* MapFlow Beta.pbix / [link](https://app.powerbi.com/view?r=eyJrIjoiNjRlNzFkMjItZGQxYy00NmYxLWJmOGMtZGQxMWEyODY1Njk1IiwidCI6Ijg5MWFjN2RjLWRjMjUtNDQwMC1iMDY3LTlhNTQyM2YyOWE3MiJ9):
+Además, contiene un dashboard interactivo donde se puede interactuar con el dataset entero e ir observando el flujo de la comercialización de granos a gusto filtrando por grano, año, mes, provincia de origen, zona de destino y según si es un destino final o no.
 ```
-Dashboard interactivo de los flujos de comercialización de granos utilizando líneas directas.
-```
-
-* [Connection Globe](https://public.flourish.studio/visualisation/3107320/):
-```
-Visualización interactiva con Flourish de los flujos de comercialización de granos utilizando connection globe.
-```
-
-* [Arc Map](https://public.flourish.studio/visualisation/3108677/):
-```
-Visualización interactiva con Flourish de los flujos de comercialización de granos utilizando Arc Map.
-```
-
-* [Sankey](https://public.flourish.studio/visualisation/3116006/):
-```
-Visualización interactiva con Flourish de los flujos de comercialización de granos utilizando Sankey.
-```
-
-* [Multi Stape Sankey](https://public.flourish.studio/visualisation/3119727/):
-```
-Visualización interactiva con Flourish de los flujos de comercialización de granos utilizando Multi Stape Sankey.
-```
-
-
-* [SunBurst](https://public.flourish.studio/visualisation/3115832/):
-```
-Visualización interactiva con Flourish de los flujos de comercialización de granos utilizando Sunburst.
-```
-
-
 
 ## Autor
 
