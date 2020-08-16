@@ -295,7 +295,7 @@ ProvAlejadas = ['CATAMARCA', 'CHACO', 'CHUBUT',
        'FORMOSA', 'JUJUY', 'LA RIOJA',
        'MENDOZA', 'MISIONES', 'NEUQUEN', 'RIO NEGRO', 'SALTA', 'SAN JUAN',
        'SANTA CRUZ', 'SANTIAGO DEL ESTERO',
-       'TIERRA DEL FUEGO', 'TUCUMAN']
+       'TIERRA DEL FUEGO', 'TUCUMAN',"CORRIENTES","LA PAMPA", "SAN LUIS"]
 
 data["ProvAlejada"] = np.where(data.Provincia.isin(ProvAlejadas), True, False)
 del ProvAlejadas

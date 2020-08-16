@@ -1,4 +1,4 @@
-,Location Name,Longitude,Latitude,Location Code
+,Name,Longitude,Latitude,Code
 0,Buenos Aires,-60.557220155635086,-36.67373207097271,Buenos Aires
 1,Catamarca,-66.94768934330637,-27.335892767364722,Catamarca
 2,Chaco,-60.7658296947485,-26.386431043693555,Chaco
@@ -21,7 +21,7 @@
 19,Santa Cruz,-69.95576216717474,-48.815485182717715,Santa Cruz
 20,Santa Fe,-60.94991396408538,-30.707066098092987,Santa Fe
 21,Santiago del Estero,-63.252383405011734,-27.78241591491137,Santiago del Estero
-22,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",-50.74275073408358,-82.5215167949743,"Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+"22,""Tierra del Fuego, Antártida e Islas del Atlántico Sur"",-50.74275073408358,-82.5215167949743,""Tierra del Fuego, Antártida e Islas del Atlántico Sur"""
 23,Tucumán,-65.36485177274713,-26.948060245314338,Tucumán
 0,B.Blanca,-62.50175049429062,-38.83921282099793,B.Blanca
 1,Bs As,-58.55587451290465,-34.74386716606513,Bs As

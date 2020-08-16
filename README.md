@@ -44,7 +44,7 @@ Campos:
 * ProdTns: Cantidad de granos producida en toneladas.
 * EstresClimatico: Boolean que indica si hubo una pérdida de área superior al 20%.
 * MismaProvDestino: Boolean que indica si la zona de entrega incluye la provincia de origen.
-* ProvAlejada: Boolean que indica si la provincia de origen se encuentra alejada de los puertos.
+* ProvAlejada: Boolean que indica si el centroide de la provincia de origen se encuentra a más de 350 km del centroide de la zona de los portuaria más cercana.
 
 ```
 
